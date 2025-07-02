@@ -1,0 +1,31 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.13.1
+
+# Transformers & NLP
+transformers==4.36.2
+tokenizers==0.15.2
+sentence-transformers==2.5.1
+emoji==2.10.1
+
+# Deep Learning
+torch==2.2.2
+safetensors==0.4.2
+
+# API & Server
+fastapi==0.110.2
+uvicorn==0.29.0
+python-dotenv==1.0.1
+
+# Utilities
+requests==2.31.0
+filelock==3.13.1
+packaging==24.0
+regex==2024.5.15
+pyyaml==6.0.1
+tqdm==4.66.2
+
+# Compatibility
+h11==0.14.0
