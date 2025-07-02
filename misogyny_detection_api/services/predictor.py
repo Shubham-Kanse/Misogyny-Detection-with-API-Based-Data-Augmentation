@@ -32,7 +32,8 @@ def predict_text(text: str):
     # Format result
     label = "Misogynistic" if prediction.item() == 1 else "Non-misogynistic"
     is_misogynistic = prediction.item() == 1
-    confidence_score = round(confidence.item(), 4)
+    confidence_percentage = round(confidence.item() * 100, 2)
+    confidence_score = f"{confidence_percentage}%"
 
     return {
         "input": text,
