@@ -25,7 +25,7 @@ app.include_router(predict.router)
 app.include_router(augment.router)
 app.include_router(retrain.router)
 
-@app.get("/")
+@app.get("")
 def root():
     """Health check endpoint."""
     return {"message": "Welcome to the Misogyny Detection API"}

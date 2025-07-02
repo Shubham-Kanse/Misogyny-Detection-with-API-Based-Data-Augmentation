@@ -10,7 +10,7 @@ router = APIRouter(prefix="/augment", tags=["Augmentation"])
 class AugmentRequest(BaseModel):
     text: str
 
-@router.post("/")
+@router.post("")
 def augment(request: AugmentRequest):
     """
     Stub endpoint to generate augmented variants of the input text.

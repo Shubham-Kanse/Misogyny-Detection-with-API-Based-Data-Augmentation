@@ -5,7 +5,7 @@ from fastapi import APIRouter
 # Define router for retraining trigger
 router = APIRouter(prefix="/retrain", tags=["Retraining"])
 
-@router.post("/")
+@router.post("")
 def retrain_model():
     """
     Stub endpoint to trigger retraining of the model.

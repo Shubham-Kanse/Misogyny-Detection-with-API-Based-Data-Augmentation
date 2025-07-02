@@ -11,7 +11,7 @@ router = APIRouter(prefix="/predict", tags=["Prediction"])
 class PredictRequest(BaseModel):
     text: str  # Input text for prediction
 
-@router.post("/")
+@router.post("")
 def predict(request: PredictRequest):
     """
     Predict whether the input text is misogynistic.
