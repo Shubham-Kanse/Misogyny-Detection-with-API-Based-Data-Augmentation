@@ -11,6 +11,7 @@ MODEL_DIR = PROJECT_ROOT / "models"
 # === File Paths ===
 FINAL_DATASET_PATH = DATA_DIR / "final_labels.csv"
 MODEL_PATH = MODEL_DIR / "misogyny_model.pt"
+LOW_CONF_LOG = DATA_DIR / "low_confidence_log.csv"
 
 # === Model Configuration ===
 MODEL_NAME = "bert-base-uncased"
@@ -25,3 +26,7 @@ EPOCHS = 3
 # === Thresholds and Metadata ===
 CONFIDENCE_THRESHOLD = 0.75
 VERSION = "v0.1"
+
+# === Augmentation Trigger Config ===
+AUGMENT_TRIGGER_THRESHOLD = 1
+AUGMENT_ENDPOINT = "http://localhost:8000/augment"
