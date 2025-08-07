@@ -13,6 +13,10 @@ FINAL_DATASET_PATH = DATA_DIR / "final_labels.csv"
 AUGMENTED_DATASET_PATH = PROJECT_ROOT / "data" / "augmented"
 MODEL_PATH = MODEL_DIR / "misogyny_model.pt"
 LOW_CONF_LOG = DATA_DIR / "low_confidence_log.csv"
+MODEL_LOG_PATH = MODEL_DIR / "model_performance_log.csv"
+
+# === Retraining Lock File ===
+RETRAIN_LOCK_PATH = MODEL_DIR / "retrain.lock"
 
 # === Model Configuration ===
 MODEL_NAME = "bert-base-uncased"

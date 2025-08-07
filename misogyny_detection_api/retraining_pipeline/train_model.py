@@ -14,6 +14,7 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support, roc
 from transformers import BertTokenizerFast, BertForSequenceClassification, AdamW, get_linear_schedule_with_warmup
 from torch.utils.data import Dataset, DataLoader
 from sentence_transformers import SentenceTransformer
+from misogyny_detection_api.config import RETRAIN_LOCK_PATH
 
 from misogyny_detection_api.config import (
     AUGMENTED_DATASET_PATH, MODEL_DIR,
@@ -156,3 +157,9 @@ with open(log_file, "w") as f:
     f.write(f"Data: {dataset_path.name}\n")
     f.write(f"Acc: {acc:.4f}, Prec: {prec:.4f}, Rec: {rec:.4f}, F1: {f1:.4f}, AUC: {auc:.4f}\n")
 print(f"📝 Training log saved: {log_file.name}")
+
+# Clear lock after successful training
+if RETRAIN_LOCK_PATH.exists():
+    RETRAIN_LOCK_PATH.unlink()
+    print("🔓 Retrain lock cleared.")
+

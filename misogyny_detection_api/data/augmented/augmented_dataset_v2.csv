@@ -23059,19 +23059,23 @@ The women exhibit excellence.,nonmisogynistic,0,prompt_llm
 These ladies demonstrate proficiency.,nonmisogynistic,0,prompt_llm
 These adult female ar good,nonmisogynistic,0,synonym
 hTese women  are good,nonmisogynistic,0,noise
-These females exhibit little intelligence.,misogynistic,1,prompt_llm
-These women show a lack of wisdom.,misogynistic,1,prompt_llm
-These woman ar stupid,misogynistic,1,synonym
-TThese wommen are stupid,misogynistic,1,noise
-The women are acting irrationally.,misogynistic,1,prompt_llm
-These ladies have lost their senses.,misogynistic,1,prompt_llm
-These adult female sore,misogynistic,1,synonym
-These women mad,misogynistic,1,noise
+These women are stupid,misogynistic,1,triggering
+The intelligence of these women is questionable.,misogynistic,1,prompt_llm
+These women lack intelligence.,misogynistic,1,prompt_llm
+These adult female ar stupid,misogynistic,1,synonym
+These omen are tupid,misogynistic,1,noise
+These women mad,misogynistic,1,triggering
+These women are insane.,misogynistic,1,prompt_llm
+These women are crazy.,misogynistic,1,prompt_llm
+These woman sore,misogynistic,1,synonym
+Thhese women amd,misogynistic,1,noise
+These women seem dim-witted,misogynistic,1,triggering
 The women appear to lack intelligence.,misogynistic,1,prompt_llm
-These females seem not particularly bright.,misogynistic,1,prompt_llm
-These woman appear dim-witted,misogynistic,1,synonym
-These women sseem idm-witted,misogynistic,1,noise
-The women exhibit competency.,nonmisogynistic,0,prompt_llm
-These females display proficiency.,nonmisogynistic,0,prompt_llm
+These ladies seem unintelligent.,misogynistic,1,prompt_llm
+These woman look dim-witted,misogynistic,1,synonym
+These wommenn seem dim-witted,misogynistic,1,noise
+These women are good,nonmisogynistic,0,triggering
+These females exhibit competence.,nonmisogynistic,0,prompt_llm
+The women demonstrate skillfulness.,nonmisogynistic,0,prompt_llm
 These adult female ar good,nonmisogynistic,0,synonym
-Thees omen are good,nonmisogynistic,0,noise
+These womeen are goood,nonmisogynistic,0,noise

@@ -2,10 +2,8 @@
 
 import os
 import pandas as pd
-from datetime import datetime
 from pathlib import Path
-import subprocess
-from natsort import natsorted
+import requests
 
 from misogyny_detection_api.config import (
     LOW_CONF_LOG, DATA_DIR, SYNTHETIC_DATA_PATH,
@@ -31,48 +29,56 @@ def augment_inputs():
 
     for original_text in unique_texts:
         # === Step 1: Label verification ===
-        label = 1
+        label = 1  # default
         if USE_LABEL_VERIFICATION:
             label, rationale = classify_label(original_text)
             print(f"[LLM LABEL] {original_text} → {label} ({rationale})")
 
-        # === Step 2: Prompt-based LLM variants (2)
+        # === Step 2: Add original input as 'triggering' row
+        augmented_rows.append({
+            "body": original_text,
+            "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
+            "misogynistic_binary_label": label,
+            "technique": "triggering"
+        })
+
+        # === Step 3: Prompt-based LLM variants (2)
         if USE_PROMPT_BASED:
             try:
                 prompt_variants = generate_prompt_variants(original_text, max_variants=2)
                 for variant in prompt_variants[:2]:
                     augmented_rows.append({
-                        "original": original_text,
-                        "augmented": variant,
-                        "label": label,
+                        "body": variant,
+                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
+                        "misogynistic_binary_label": label,
                         "technique": "prompt_llm"
                     })
             except Exception as e:
                 print(f"[ERROR] Prompt variant generation failed: {e}")
 
-        # === Step 3: Synonym replacement (1)
+        # === Step 4: Synonym replacement (1)
         if USE_SYNONYM_REPLACEMENT:
             try:
                 synonym_variants = apply_synonym_replacement(original_text, max_replacements=2)
                 if synonym_variants:
                     augmented_rows.append({
-                        "original": original_text,
-                        "augmented": synonym_variants[0],
-                        "label": label,
+                        "body": synonym_variants[0],
+                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
+                        "misogynistic_binary_label": label,
                         "technique": "synonym"
                     })
             except Exception as e:
                 print(f"[ERROR] Synonym replacement failed: {e}")
 
-        # === Step 4: Noise injection (1)
+        # === Step 5: Noise injection (1)
         if USE_RANDOM_NOISE:
             try:
                 noise_variants = apply_typo_noise(original_text, num_typos=2)
                 if noise_variants:
                     augmented_rows.append({
-                        "original": original_text,
-                        "augmented": noise_variants[0],
-                        "label": label,
+                        "body": noise_variants[0],
+                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
+                        "misogynistic_binary_label": label,
                         "technique": "noise"
                     })
             except Exception as e:
@@ -87,60 +93,49 @@ def augment_inputs():
     df_augmented.to_csv(SYNTHETIC_DATA_PATH, index=False)
     print(f"[✔] Synthetic data saved to: {SYNTHETIC_DATA_PATH}")
 
-    # === Now create versioned augmented dataset ===
+    # === Append synthetic data to latest augmented_dataset_vN.csv ===
     try:
-        AUGMENTED_DATASET_PATH.mkdir(parents=True, exist_ok=True)
         existing_versions = list(AUGMENTED_DATASET_PATH.glob("augmented_dataset_v*.csv"))
-
+        existing_versions.sort()
         if existing_versions:
-            latest_file = natsorted(existing_versions)[-1]
-            print(f"📂 Found latest dataset: {latest_file.name}")
-            df_existing = pd.read_csv(latest_file)
+            latest_file = existing_versions[-1]
+            df_combined = pd.read_csv(latest_file)
+            print(f"📎 Appending to existing: {latest_file.name}")
         else:
-            print("📂 No previous augmented dataset found. Using baseline cleaned dataset.")
+            print("📁 No existing augmented version found. Creating fresh one...")
             cleaned_path = DATA_DIR / "final_labels_cleaned.csv"
-            df_existing = pd.read_csv(cleaned_path)
-            df_existing["technique"] = "original"
-            df_existing = df_existing[["body", "level_1", "misogynistic_binary_label", "technique"]]
+            df_combined = pd.read_csv(cleaned_path)
+            df_combined["technique"] = "original"
+            df_combined = df_combined[["body", "level_1", "misogynistic_binary_label", "technique"]]
 
-        # Prepare new synthetic rows
-        df_synth = pd.DataFrame({
-            "body": df_augmented["augmented"],
-            "level_1": df_augmented["label"].apply(lambda x: "misogynistic" if x == 1 else "nonmisogynistic"),
-            "misogynistic_binary_label": df_augmented["label"],
-            "technique": df_augmented["technique"]
-        })
-
-        # Combine with existing
-        final_df = pd.concat([df_existing, df_synth], ignore_index=True)
+        final_df = pd.concat([df_combined, df_augmented], ignore_index=True)
         next_version = len(existing_versions) + 1
         versioned_file = AUGMENTED_DATASET_PATH / f"augmented_dataset_v{next_version}.csv"
         final_df.to_csv(versioned_file, index=False)
-        print(f"✅ Augmented dataset saved as: {versioned_file.name}")
 
+        print(f"✅ Augmented dataset saved as: {versioned_file.name}")
     except Exception as e:
         print(f"[ERROR] Failed to generate versioned dataset: {e}")
         return 0
 
-    # === Trigger model retraining ===
+    # === Trigger retrain API ===
     try:
-        print("🔁 Triggering retraining...")
-        train_env = os.environ.copy()
-        train_env["AUGMENTED_VERSION"] = str(next_version)
-        subprocess.run(["python", "-m", "misogyny_detection_api.retraining_pipeline.train_model"], check=True, env=train_env)
-    except subprocess.CalledProcessError as e:
-        print(f"[ERROR] Dataset retraining failed: {e}")
+        print("🔁 Calling retrain API...")
+        response = requests.post("http://localhost:8000/retrain")
+        if response.status_code == 200:
+            print("✅ Retrain API triggered successfully.")
+        else:
+            print(f"[ERROR] Retrain API failed with status {response.status_code}: {response.text}")
     except Exception as e:
-        print(f"[ERROR] Unexpected issue during retraining: {e}")
+        print(f"[ERROR] Failed to call retrain API: {e}")
 
-    # === Clear low_confidence_log ===
+    # === Clean-up
     try:
         LOW_CONF_LOG.unlink()
         print("🧹 Cleared low_confidence_log.csv for next cycle.")
     except Exception as e:
         print(f"[WARN] Could not clear low_confidence_log.csv: {e}")
 
-    # === Clear synthetic_data ===
     try:
         SYNTHETIC_DATA_PATH.unlink()
         print("🧹 Cleared synthetic_data.csv for next cycle.")

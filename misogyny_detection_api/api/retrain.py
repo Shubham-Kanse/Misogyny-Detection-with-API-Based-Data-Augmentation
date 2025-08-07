@@ -1,14 +1,19 @@
 # File: api/retrain.py
 
-from fastapi import APIRouter
-from misogyny_detection_api.services.retrainer import run_retraining
+from fastapi import APIRouter, HTTPException
+from misogyny_detection_api.services.retrainer import trigger_retraining
 
 router = APIRouter()
 
 @router.post("/retrain")
-async def retrain_model():
-    result = run_retraining()
-    if result["success"]:
-        return {"status": "✅ Model retrained successfully", "log": result["output"]}
-    else:
-        return {"status": "❌ Retraining failed", "error": result["error"]}
+def retrain_model():
+    try:
+        trigger_retraining()
+        return {
+            "status": "in-progress",
+            "message": "Retraining started in background using latest dataset. This may take 1–2 hours."
+        }
+    except RuntimeError as e:
+        raise HTTPException(status_code=409, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to trigger retraining: {str(e)}")
