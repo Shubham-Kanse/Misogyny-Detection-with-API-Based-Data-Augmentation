@@ -4,6 +4,7 @@ numpy==1.26.4
 scikit-learn==1.4.2
 scipy==1.13.1
 nltk==3.8.1
+natsort==8.4.0
 
 # Transformers & NLP
 transformers==4.36.2

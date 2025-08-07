@@ -1,16 +1,22 @@
 # File: services/augmentor.py
 
+import os
 import pandas as pd
 from datetime import datetime
 from pathlib import Path
-import shutil
+import subprocess
+from natsort import natsorted
 
 from misogyny_detection_api.config import (
-    LOW_CONF_LOG, DATA_DIR, SYNTHETIC_DATA_PATH, AUGMENTED_DATASET_PATH,
-    USE_PROMPT_BASED, USE_SYNONYM_REPLACEMENT, USE_RANDOM_NOISE, USE_LABEL_VERIFICATION
+    LOW_CONF_LOG, DATA_DIR, SYNTHETIC_DATA_PATH,
+    AUGMENTED_DATASET_PATH, MODEL_DIR,
+    USE_PROMPT_BASED, USE_SYNONYM_REPLACEMENT,
+    USE_RANDOM_NOISE, USE_LABEL_VERIFICATION
 )
 from misogyny_detection_api.services.llm_prompting import classify_label, generate_prompt_variants
 from misogyny_detection_api.services.augment_strategies import apply_synonym_replacement, apply_typo_noise
+
+MODEL_LOG_PATH = MODEL_DIR / "model_performance_log.csv"
 
 def augment_inputs():
     if not LOW_CONF_LOG.exists():
@@ -83,15 +89,21 @@ def augment_inputs():
 
     # === Now create versioned augmented dataset ===
     try:
-        # Load original cleaned data (baseline)
-        cleaned_path = DATA_DIR / "final_labels_cleaned.csv"
-        df_cleaned = pd.read_csv(cleaned_path)
+        AUGMENTED_DATASET_PATH.mkdir(parents=True, exist_ok=True)
+        existing_versions = list(AUGMENTED_DATASET_PATH.glob("augmented_dataset_v*.csv"))
 
-        df_cleaned["technique"] = "original"
-        df_cleaned = df_cleaned[["body", "level_1", "misogynistic_binary_label", "technique"]]
+        if existing_versions:
+            latest_file = natsorted(existing_versions)[-1]
+            print(f"📂 Found latest dataset: {latest_file.name}")
+            df_existing = pd.read_csv(latest_file)
+        else:
+            print("📂 No previous augmented dataset found. Using baseline cleaned dataset.")
+            cleaned_path = DATA_DIR / "final_labels_cleaned.csv"
+            df_existing = pd.read_csv(cleaned_path)
+            df_existing["technique"] = "original"
+            df_existing = df_existing[["body", "level_1", "misogynistic_binary_label", "technique"]]
 
-        # Prepare synthetic data
-        df_augmented = pd.read_csv(SYNTHETIC_DATA_PATH)
+        # Prepare new synthetic rows
         df_synth = pd.DataFrame({
             "body": df_augmented["augmented"],
             "level_1": df_augmented["label"].apply(lambda x: "misogynistic" if x == 1 else "nonmisogynistic"),
@@ -99,19 +111,27 @@ def augment_inputs():
             "technique": df_augmented["technique"]
         })
 
-        # Combine and save
-        final_df = pd.concat([df_cleaned, df_synth], ignore_index=True)
-
-        AUGMENTED_DATASET_PATH.mkdir(parents=True, exist_ok=True)
-        existing_versions = list(AUGMENTED_DATASET_PATH.glob("augmented_dataset_v*.csv"))
+        # Combine with existing
+        final_df = pd.concat([df_existing, df_synth], ignore_index=True)
         next_version = len(existing_versions) + 1
         versioned_file = AUGMENTED_DATASET_PATH / f"augmented_dataset_v{next_version}.csv"
         final_df.to_csv(versioned_file, index=False)
-
         print(f"✅ Augmented dataset saved as: {versioned_file.name}")
 
     except Exception as e:
         print(f"[ERROR] Failed to generate versioned dataset: {e}")
+        return 0
+
+    # === Trigger model retraining ===
+    try:
+        print("🔁 Triggering retraining...")
+        train_env = os.environ.copy()
+        train_env["AUGMENTED_VERSION"] = str(next_version)
+        subprocess.run(["python", "-m", "misogyny_detection_api.retraining_pipeline.train_model"], check=True, env=train_env)
+    except subprocess.CalledProcessError as e:
+        print(f"[ERROR] Dataset retraining failed: {e}")
+    except Exception as e:
+        print(f"[ERROR] Unexpected issue during retraining: {e}")
 
     # === Clear low_confidence_log ===
     try:
@@ -119,5 +139,12 @@ def augment_inputs():
         print("🧹 Cleared low_confidence_log.csv for next cycle.")
     except Exception as e:
         print(f"[WARN] Could not clear low_confidence_log.csv: {e}")
+
+    # === Clear synthetic_data ===
+    try:
+        SYNTHETIC_DATA_PATH.unlink()
+        print("🧹 Cleared synthetic_data.csv for next cycle.")
+    except Exception as e:
+        print(f"[WARN] Could not clear synthetic_data.csv: {e}")
 
     return len(augmented_rows)

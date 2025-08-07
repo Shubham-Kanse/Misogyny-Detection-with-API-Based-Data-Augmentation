@@ -1,15 +1,14 @@
-# api/retrain.py
+# File: api/retrain.py
 
 from fastapi import APIRouter
+from misogyny_detection_api.services.retrainer import run_retraining
 
-# Define router for retraining trigger
-router = APIRouter(prefix="/retrain", tags=["Retraining"])
+router = APIRouter()
 
-@router.post("")
-def retrain_model():
-    """
-    Stub endpoint to trigger retraining of the model.
-    """
-    return {
-        "status": "Retraining triggered (stub)"
-    }
+@router.post("/retrain")
+async def retrain_model():
+    result = run_retraining()
+    if result["success"]:
+        return {"status": "✅ Model retrained successfully", "log": result["output"]}
+    else:
+        return {"status": "❌ Retraining failed", "error": result["error"]}

@@ -23059,3 +23059,19 @@ The women exhibit excellence.,nonmisogynistic,0,prompt_llm
 These ladies demonstrate proficiency.,nonmisogynistic,0,prompt_llm
 These adult female ar good,nonmisogynistic,0,synonym
 hTese women  are good,nonmisogynistic,0,noise
+These females exhibit little intelligence.,misogynistic,1,prompt_llm
+These women show a lack of wisdom.,misogynistic,1,prompt_llm
+These woman ar stupid,misogynistic,1,synonym
+TThese wommen are stupid,misogynistic,1,noise
+The women are acting irrationally.,misogynistic,1,prompt_llm
+These ladies have lost their senses.,misogynistic,1,prompt_llm
+These adult female sore,misogynistic,1,synonym
+These women mad,misogynistic,1,noise
+The women appear to lack intelligence.,misogynistic,1,prompt_llm
+These females seem not particularly bright.,misogynistic,1,prompt_llm
+These woman appear dim-witted,misogynistic,1,synonym
+These women sseem idm-witted,misogynistic,1,noise
+The women exhibit competency.,nonmisogynistic,0,prompt_llm
+These females display proficiency.,nonmisogynistic,0,prompt_llm
+These adult female ar good,nonmisogynistic,0,synonym
+Thees omen are good,nonmisogynistic,0,noise
