@@ -1,5 +1,3 @@
-# api/augment.py
-
 from fastapi import APIRouter, HTTPException
 from misogyny_detection_api.services.augmentor import augment_inputs
 
@@ -9,7 +7,7 @@ router = APIRouter(prefix="/augment", tags=["Augmentation"])
 def augment():
     """
     Automatically triggered augmentation endpoint.
-    Reads from low-confidence log and generates synthetic data.
+    Verifies low-confidence inputs and generates synthetic data.
     """
     try:
         num_generated = augment_inputs()

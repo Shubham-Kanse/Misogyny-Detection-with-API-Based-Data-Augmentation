@@ -1,3 +1,0 @@
-timestamp,text,predicted_class,confidence,model_version
-2025-07-21T13:34:05.599901,These women are stupid,1,0.7168,v0.1
-2025-07-21T20:38:30.006599,These women mad,0,0.5256,v0.1

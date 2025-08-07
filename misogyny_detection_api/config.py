@@ -10,6 +10,7 @@ MODEL_DIR = PROJECT_ROOT / "models"
 
 # === File Paths ===
 FINAL_DATASET_PATH = DATA_DIR / "final_labels.csv"
+AUGMENTED_DATASET_PATH = PROJECT_ROOT / "data" / "augmented"
 MODEL_PATH = MODEL_DIR / "misogyny_model.pt"
 LOW_CONF_LOG = DATA_DIR / "low_confidence_log.csv"
 
@@ -30,3 +31,12 @@ VERSION = "v0.1"
 # === Augmentation Trigger Config ===
 AUGMENT_TRIGGER_THRESHOLD = 1
 AUGMENT_ENDPOINT = "http://localhost:8000/augment"
+
+# === Augmented Data Output ===
+SYNTHETIC_DATA_PATH = DATA_DIR / "synthetic_data.csv"
+
+# === Augmentation Technique Toggles ===
+USE_PROMPT_BASED = True
+USE_SYNONYM_REPLACEMENT = True
+USE_RANDOM_NOISE = True
+USE_LABEL_VERIFICATION = True

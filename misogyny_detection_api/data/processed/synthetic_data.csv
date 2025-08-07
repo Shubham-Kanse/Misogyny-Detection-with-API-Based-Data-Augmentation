@@ -1,23 +1,17 @@
-timestamp,original,augmented,label
-2025-07-21T20:30:49.508008,These women are stupid,These women are stupid (rephrased mildly),1
-2025-07-21T20:30:49.508014,These women are stupid,These women are stupid (paraphrased differently),1
-2025-07-21T20:30:49.508016,These women are not so stupid,These women are not so stupid (rephrased mildly),1
-2025-07-21T20:30:49.508016,These women are not so stupid,These women are not so stupid (paraphrased differently),1
-2025-07-21T20:30:49.508017,These women mad,These women mad (rephrased mildly),1
-2025-07-21T20:30:49.508018,These women mad,These women mad (paraphrased differently),1
-2025-07-21T20:38:30.013616,These women are stupid,These women are stupid (rephrased mildly),1
-2025-07-21T20:38:30.013624,These women are stupid,These women are stupid (paraphrased differently),1
-2025-07-21T20:38:30.013626,These women mad,These women mad (rephrased mildly),1
-2025-07-21T20:38:30.013627,These women mad,These women mad (paraphrased differently),1
-2025-07-21T20:38:56.887883,These women are stupid,These women are stupid (rephrased mildly),1
-2025-07-21T20:38:56.887887,These women are stupid,These women are stupid (paraphrased differently),1
-2025-07-21T20:38:56.887888,These women mad,These women mad (rephrased mildly),1
-2025-07-21T20:38:56.887889,These women mad,These women mad (paraphrased differently),1
-2025-07-21T20:39:15.023600,These women are stupid,These women are stupid (rephrased mildly),1
-2025-07-21T20:39:15.023603,These women are stupid,These women are stupid (paraphrased differently),1
-2025-07-21T20:39:15.023604,These women mad,These women mad (rephrased mildly),1
-2025-07-21T20:39:15.023605,These women mad,These women mad (paraphrased differently),1
-2025-07-21T20:39:44.411599,These women are stupid,These women are stupid (rephrased mildly),1
-2025-07-21T20:39:44.411604,These women are stupid,These women are stupid (paraphrased differently),1
-2025-07-21T20:39:44.411605,These women mad,These women mad (rephrased mildly),1
-2025-07-21T20:39:44.411605,These women mad,These women mad (paraphrased differently),1
+original,augmented,label,technique
+These women are stupid,These females lack intelligence.,1,prompt_llm
+These women are stupid,The intelligence level of these women is low.,1,prompt_llm
+These women are stupid,These woman ar stupid,1,synonym
+These women are stupid,These women aresstupid,1,noise
+These women mad,The women are acting irrationally.,1,prompt_llm
+These women mad,These females are behaving in a strange manner.,1,prompt_llm
+These women mad,These woman huffy,1,synonym
+These women mad,These owmen  mad,1,noise
+These women seem dim-witted,These women appear to lack intelligence.,1,prompt_llm
+These women seem dim-witted,The women give the impression of being unintelligent.,1,prompt_llm
+These women seem dim-witted,These woman look dim-witted,1,synonym
+These women seem dim-witted,These womeen seeem dim-witted,1,noise
+These women are good,The women exhibit excellence.,0,prompt_llm
+These women are good,These ladies demonstrate proficiency.,0,prompt_llm
+These women are good,These adult female ar good,0,synonym
+These women are good,hTese women  are good,0,noise
