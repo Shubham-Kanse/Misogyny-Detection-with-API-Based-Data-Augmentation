@@ -4,6 +4,7 @@ import os
 import pandas as pd
 from pathlib import Path
 import requests
+from typing import List, Optional, Dict
 
 from misogyny_detection_api.config import (
     LOW_CONF_LOG, DATA_DIR, SYNTHETIC_DATA_PATH,
@@ -16,7 +17,106 @@ from misogyny_detection_api.services.augment_strategies import apply_synonym_rep
 
 MODEL_LOG_PATH = MODEL_DIR / "model_performance_log.csv"
 
+def _augment_one(original_text: str, force_label: Optional[int] = None) -> List[Dict]:
+    """
+    Generate up to 5 variants for a single input text using the same techniques as the batch job.
+    Does NOT write to disk or trigger retrain. Pure generator.
+    """
+    rows: List[Dict] = []
+
+    # --- Label verification / forcing ---
+    # If the caller provides a label (0/1), we trust it; otherwise we optionally verify with LLM.
+    if force_label in (0, 1):
+        label = force_label
+    else:
+        label = 1  # default assumption
+        if USE_LABEL_VERIFICATION:
+            try:
+                label, rationale = classify_label(original_text)
+                print(f"[LLM LABEL] {original_text} → {label} ({rationale})")
+            except Exception as e:
+                print(f"[WARN] Label verification failed, defaulting to {label}: {e}")
+
+    label_text = "misogynistic" if label == 1 else "nonmisogynistic"
+
+    # 1) triggering (the original input)
+    rows.append({
+        "body": original_text,
+        "level_1": label_text,
+        "misogynistic_binary_label": label,
+        "technique": "triggering"
+    })
+
+    # 2) prompt-based LLM variants (up to 2)
+    if USE_PROMPT_BASED and len(rows) < 5:
+        try:
+            prompt_variants = generate_prompt_variants(original_text, max_variants=2) or []
+            for v in prompt_variants[:2]:
+                rows.append({
+                    "body": v,
+                    "level_1": label_text,
+                    "misogynistic_binary_label": label,
+                    "technique": "prompt_llm"
+                })
+                if len(rows) >= 5:
+                    break
+        except Exception as e:
+            print(f"[ERROR] Prompt variant generation failed: {e}")
+
+    # 3) synonym replacement (1)
+    if USE_SYNONYM_REPLACEMENT and len(rows) < 5:
+        try:
+            synonym_variants = apply_synonym_replacement(original_text, max_replacements=2) or []
+            if synonym_variants:
+                rows.append({
+                    "body": synonym_variants[0],
+                    "level_1": label_text,
+                    "misogynistic_binary_label": label,
+                    "technique": "synonym"
+                })
+        except Exception as e:
+            print(f"[ERROR] Synonym replacement failed: {e}")
+
+    # 4) noise injection (1)
+    if USE_RANDOM_NOISE and len(rows) < 5:
+        try:
+            noise_variants = apply_typo_noise(original_text, num_typos=2) or []
+            if noise_variants:
+                rows.append({
+                    "body": noise_variants[0],
+                    "level_1": label_text,
+                    "misogynistic_binary_label": label,
+                    "technique": "noise"
+                })
+        except Exception as e:
+            print(f"[ERROR] Noise injection failed: {e}")
+
+    # Cap at 5 total, as requested
+    return rows[:5]
+
+
+def generate_augmented_samples_for_text(text: str, force_label: Optional[int] = None) -> List[Dict]:
+    """
+    Public preview API: generate augmented samples for a single text.
+    Pure, side-effect-free (no file writes, no retrain). Safe to call from an endpoint.
+    """
+    if not text or not isinstance(text, str):
+        raise ValueError("A non-empty 'text' string is required.")
+    return _augment_one(text, force_label=force_label)
+
+
 def augment_inputs():
+    """
+    Existing batch pipeline:
+    - Reads LOW_CONF_LOG
+    - Generates synthetic data for all unique texts
+    - Saves synthetic_data.csv
+    - Appends into versioned augmented_dataset_vN.csv
+    - Triggers /retrain
+    - Cleans logs and temp files
+
+    Unchanged behavior.
+    """
     if not LOW_CONF_LOG.exists():
         raise FileNotFoundError("No low-confidence log found.")
 
@@ -28,72 +128,20 @@ def augment_inputs():
     augmented_rows = []
 
     for original_text in unique_texts:
-        # === Step 1: Label verification ===
-        label = 1  # default
-        if USE_LABEL_VERIFICATION:
-            label, rationale = classify_label(original_text)
-            print(f"[LLM LABEL] {original_text} → {label} ({rationale})")
+        # reuse the single-text generator to keep logic consistent
+        rows = _augment_one(original_text)
+        augmented_rows.extend(rows)
 
-        # === Step 2: Add original input as 'triggering' row
-        augmented_rows.append({
-            "body": original_text,
-            "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
-            "misogynistic_binary_label": label,
-            "technique": "triggering"
-        })
-
-        # === Step 3: Prompt-based LLM variants (2)
-        if USE_PROMPT_BASED:
-            try:
-                prompt_variants = generate_prompt_variants(original_text, max_variants=2)
-                for variant in prompt_variants[:2]:
-                    augmented_rows.append({
-                        "body": variant,
-                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
-                        "misogynistic_binary_label": label,
-                        "technique": "prompt_llm"
-                    })
-            except Exception as e:
-                print(f"[ERROR] Prompt variant generation failed: {e}")
-
-        # === Step 4: Synonym replacement (1)
-        if USE_SYNONYM_REPLACEMENT:
-            try:
-                synonym_variants = apply_synonym_replacement(original_text, max_replacements=2)
-                if synonym_variants:
-                    augmented_rows.append({
-                        "body": synonym_variants[0],
-                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
-                        "misogynistic_binary_label": label,
-                        "technique": "synonym"
-                    })
-            except Exception as e:
-                print(f"[ERROR] Synonym replacement failed: {e}")
-
-        # === Step 5: Noise injection (1)
-        if USE_RANDOM_NOISE:
-            try:
-                noise_variants = apply_typo_noise(original_text, num_typos=2)
-                if noise_variants:
-                    augmented_rows.append({
-                        "body": noise_variants[0],
-                        "level_1": "misogynistic" if label == 1 else "nonmisogynistic",
-                        "misogynistic_binary_label": label,
-                        "technique": "noise"
-                    })
-            except Exception as e:
-                print(f"[ERROR] Noise injection failed: {e}")
-
-    # === Save synthetic dataset ===
     if not augmented_rows:
         print("❌ No augmentations created.")
         return 0
 
+    # --- Saving synthetic dataset ---
     df_augmented = pd.DataFrame(augmented_rows)
     df_augmented.to_csv(SYNTHETIC_DATA_PATH, index=False)
     print(f"[✔] Synthetic data saved to: {SYNTHETIC_DATA_PATH}")
 
-    # === Append synthetic data to latest augmented_dataset_vN.csv ===
+    # --- Versioned dataset append ---
     try:
         existing_versions = list(AUGMENTED_DATASET_PATH.glob("augmented_dataset_v*.csv"))
         existing_versions.sort()
@@ -118,7 +166,7 @@ def augment_inputs():
         print(f"[ERROR] Failed to generate versioned dataset: {e}")
         return 0
 
-    # === Trigger retrain API ===
+    # --- Trigger retrain ---
     try:
         print("🔁 Calling retrain API...")
         response = requests.post("http://localhost:8000/retrain")
@@ -129,7 +177,7 @@ def augment_inputs():
     except Exception as e:
         print(f"[ERROR] Failed to call retrain API: {e}")
 
-    # === Clean-up
+    # --- Cleanup ---
     try:
         LOW_CONF_LOG.unlink()
         print("🧹 Cleared low_confidence_log.csv for next cycle.")

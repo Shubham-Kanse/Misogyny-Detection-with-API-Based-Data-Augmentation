@@ -33,7 +33,7 @@ CONFIDENCE_THRESHOLD = 0.75
 VERSION = "v0.1"
 
 # === Augmentation Trigger Config ===
-AUGMENT_TRIGGER_THRESHOLD = 1
+AUGMENT_TRIGGER_THRESHOLD = 100
 AUGMENT_ENDPOINT = "http://localhost:8000/augment"
 
 # === Augmented Data Output ===
