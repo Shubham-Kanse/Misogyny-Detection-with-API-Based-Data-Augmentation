@@ -2,25 +2,47 @@
 
 import requests
 import re
+import time
 
-LMSTUDIO_API_URL = "http://localhost:1234/v1/chat/completions"
+LMSTUDIO_API_URL = "http://127.0.0.1:1234/v1/chat/completions"
 USE_LLM = True  # Toggle False to run without LLM
+session = requests.Session()  # Reuse session for efficiency
+
+# Global throttle (seconds) to avoid hammering LM Studio
+REQUEST_DELAY = 0.5  
 
 def _call_llm_chat(messages: list[dict], max_tokens: int = 300, temperature: float = 0.7) -> str:
+    """
+    Calls LM Studio's local API with retries, timeout, and connection reuse.
+    """
     payload = {
-        "model": "mistral",  # Match with LM Studio model name
+        "model": "mistral",  # Must match the model name shown in LM Studio UI
         "messages": messages,
         "temperature": temperature,
         "max_tokens": max_tokens
     }
 
-    try:
-        response = requests.post(LMSTUDIO_API_URL, json=payload, timeout=15)
-        response.raise_for_status()
-        return response.json()["choices"][0]["message"]["content"]
-    except Exception as e:
-        print(f"[LLM ERROR] {e}")
-        return ""
+    retries = 3
+    for attempt in range(1, retries + 1):
+        try:
+            response = session.post(
+                LMSTUDIO_API_URL,
+                json=payload,
+                timeout=60  # Increase timeout to handle long generations
+            )
+            response.raise_for_status()
+            result = response.json()["choices"][0]["message"]["content"]
+            time.sleep(REQUEST_DELAY)  # Throttle to reduce load
+            return result
+        except requests.exceptions.Timeout:
+            print(f"[LLM ERROR] Timeout on attempt {attempt}/{retries}, retrying...")
+        except Exception as e:
+            print(f"[LLM ERROR] {e}, retrying ({attempt}/{retries})...")
+
+        time.sleep(2 * attempt)  # exponential backoff before retry
+
+    return ""  # Fallback if all retries fail
+
 
 def explain_sentence_meaning(input_text: str) -> str:
     if not USE_LLM:
@@ -31,9 +53,11 @@ def explain_sentence_meaning(input_text: str) -> str:
     }]
     return _call_llm_chat(messages)
 
+
 def classify_label(input_text: str) -> tuple[int, str]:
     if not USE_LLM:
         return 1, "Stub label: misogynistic"
+
     messages = [{
         "role": "user",
         "content": (
@@ -44,16 +68,18 @@ def classify_label(input_text: str) -> tuple[int, str]:
     }]
     response = _call_llm_chat(messages).strip()
     lower_resp = response.lower()
+
     if "non-misogynistic" in lower_resp:
         return 0, response
     elif "misogynistic" in lower_resp:
         return 1, response
     return 0, response + " [Uncertain classification, defaulted to non-misogynistic]"
 
+
 def generate_prompt_variants(input_text: str, max_variants: int = 2) -> list[str]:
     """
-    Uses LLM to generate clean 2 variants of the given sentence.
-    Each output is stripped of quotes or annotations.
+    Uses LLM to generate paraphrased variants of the input sentence.
+    Strips quotes/annotations and ensures clean output.
     """
     if not USE_LLM:
         return [f"{input_text} (variant {i+1})" for i in range(max_variants)]

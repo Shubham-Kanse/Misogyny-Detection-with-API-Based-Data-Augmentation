@@ -1,3 +1,18 @@
 timestamp,text,predicted_class,confidence,model_version
-2025-08-11T15:58:12.607561,women are stupid,1,0.7338,v0.1
-2025-08-11T19:55:02.127754,women should keep cooking,1,0.735,v0.1
+2025-08-18T01:50:07.528309,You’re too fragile to compete with real men.,0,0.538,v1
+2025-08-18T01:50:07.529815,She’s too weak to survive in a man’s world.,1,0.5106,v1
+2025-08-18T01:50:07.530148,You’re just a dumb broad with no real skills.,1,0.6449,v1
+2025-08-18T01:50:07.534849,You’re too stupid to understand real work.,0,0.7203,v1
+2025-08-18T01:50:07.539053,You’re just a pretty doll with no value.,1,0.5871,v1
+2025-08-18T01:50:07.540465,You’re too weak to handle responsibility.,1,0.5787,v1
+2025-08-18T01:50:07.541643,You’re just a dumb broad with no talent.,1,0.5504,v1
+2025-08-18T01:50:07.543159,You’re too fragile to handle tough jobs.,1,0.5444,v1
+2025-08-18T01:50:07.545370,She’s too weak to handle real pressure.,1,0.7034,v1
+2025-08-18T01:50:07.550529,You’re just a trophy with no skills.,1,0.6056,v1
+2025-08-18T01:50:07.555293,She’s a visionary who sees opportunities where others don’t.,1,0.555,v1
+2025-08-18T01:50:07.557853,She’s a creative problem-solver who thinks outside the box.,0,0.6875,v1
+2025-08-18T01:50:07.560622,She’s a talented chef who creates unforgettable dishes.,1,0.6063,v1
+2025-08-18T01:50:07.566618,She’s a reliable colleague who always delivers.,0,0.5074,v1
+2025-08-18T01:50:07.567606,She’s a skilled negotiator who always gets results.,0,0.5218,v1
+2025-08-18T01:50:07.571293,She’s a skilled analyst who finds solutions others miss.,0,0.5134,v1
+2025-08-18T01:50:07.577411,She’s a reliable teammate who always delivers.,0,0.7048,v1

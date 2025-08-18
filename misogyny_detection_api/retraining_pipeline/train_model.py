@@ -97,7 +97,8 @@ scheduler = get_linear_schedule_with_warmup(optimizer, 0, EPOCHS * len(train_loa
 # === Step 8: Version management ===
 def get_next_version(path: Path, prefix: str, suffix: str) -> str:
     files = list(path.glob(f"{prefix}*{suffix}"))
-    nums = [int(f.stem.replace(prefix, "").replace(suffix, "").strip("v")) for f in files if f.stem.replace(prefix, "").replace(suffix, "").strip("v").isdigit()]
+    nums = [int(f.stem.replace(prefix, "").replace(suffix, "").strip("v"))
+            for f in files if f.stem.replace(prefix, "").replace(suffix, "").strip("v").isdigit()]
     next_v = max(nums) + 1 if nums else 1
     return f"{prefix}v{next_v}{suffix}"
 
@@ -158,8 +159,34 @@ with open(log_file, "w") as f:
     f.write(f"Acc: {acc:.4f}, Prec: {prec:.4f}, Rec: {rec:.4f}, F1: {f1:.4f}, AUC: {auc:.4f}\n")
 print(f"📝 Training log saved: {log_file.name}")
 
-# Clear lock after successful training
+
+# === Step 12: Update config.py with latest model path + version ===
+def update_config(new_model_filename: str):
+    # Extract version from filename (e.g., v4 from misogyny_model_v4.pt)
+    version_str = new_model_filename.replace("misogyny_model_", "").replace(".pt", "")
+    
+    config_path = Path(__file__).resolve().parent.parent / "services" / "config.py"
+    lines = []
+    with open(config_path, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("MODEL_PATH"):
+                lines.append(f'MODEL_PATH = MODEL_DIR / "{new_model_filename}"\n')
+            elif line.startswith("VERSION"):
+                lines.append(f'VERSION = "{version_str}"\n')
+            else:
+                lines.append(line)
+
+    with open(config_path, "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    print(f"🔄 config.py updated — MODEL_PATH -> {new_model_filename}, VERSION -> {version_str}")
+
+
+# Call update function with the latest model
+update_config(model_path.name)
+
+
+# === Step 13: Clear retraining lock ===
 if RETRAIN_LOCK_PATH.exists():
     RETRAIN_LOCK_PATH.unlink()
     print("🔓 Retrain lock cleared.")
-

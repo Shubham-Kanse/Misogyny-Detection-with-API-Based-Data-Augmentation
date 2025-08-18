@@ -11,7 +11,7 @@ MODEL_DIR = PROJECT_ROOT / "models"
 # === File Paths ===
 FINAL_DATASET_PATH = DATA_DIR / "final_labels.csv"
 AUGMENTED_DATASET_PATH = PROJECT_ROOT / "data" / "augmented"
-MODEL_PATH = MODEL_DIR / "misogyny_model.pt"
+MODEL_PATH = MODEL_DIR / "misogyny_model_v1.pt"
 LOW_CONF_LOG = DATA_DIR / "low_confidence_log.csv"
 MODEL_LOG_PATH = MODEL_DIR / "model_performance_log.csv"
 
@@ -30,10 +30,10 @@ EPOCHS = 3
 
 # === Thresholds and Metadata ===
 CONFIDENCE_THRESHOLD = 0.75
-VERSION = "v0.1"
+VERSION = "v1"
 
 # === Augmentation Trigger Config ===
-AUGMENT_TRIGGER_THRESHOLD = 100
+AUGMENT_TRIGGER_THRESHOLD = 1000
 AUGMENT_ENDPOINT = "http://localhost:8000/augment"
 
 # === Augmented Data Output ===

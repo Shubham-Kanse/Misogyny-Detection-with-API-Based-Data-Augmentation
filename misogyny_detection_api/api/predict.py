@@ -2,18 +2,20 @@
 
 from fastapi import APIRouter
 from pydantic import BaseModel
-from misogyny_detection_api.services.predictor import predict_text
+from typing import Union, List
+from misogyny_detection_api.services.predictor import predict_texts
 
 # Define router for prediction functionality
 router = APIRouter(prefix="/predict", tags=["Prediction"])
 
 # Request schema
 class PredictRequest(BaseModel):
-    text: str  # Input text for prediction
+    text: Union[str, List[str]]  # Accept single string or list of strings
 
 @router.post("")
 def predict(request: PredictRequest):
     """
-    Predict whether the input text is misogynistic.
+    Predict whether the input text(s) are misogynistic.
+    Supports both single text and batch input.
     """
-    return predict_text(request.text)
+    return predict_texts(request.text)

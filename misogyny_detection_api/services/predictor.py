@@ -23,59 +23,76 @@ model.eval()
 def _log_and_trigger_augmentation(text: str, predicted_class: int, confidence: float):
     """
     Logs low-confidence inputs and triggers augmentation if threshold is met.
-    This runs in the background to avoid blocking the API response.
+    Runs in the background to avoid blocking the API response.
     """
     sanitized_text = text.strip()
 
     try:
         LOW_CONF_LOG.parent.mkdir(parents=True, exist_ok=True)
 
-        # Load existing entries
+        # Load existing entries safely
         existing_texts = set()
         if LOW_CONF_LOG.exists():
-            with open(LOW_CONF_LOG, mode="r", encoding="utf-8") as file:
-                reader = csv.DictReader(file)
-                existing_texts = {row["text"].strip() for row in reader}
+            try:
+                with open(LOW_CONF_LOG, mode="r", encoding="utf-8") as file:
+                    reader = csv.DictReader(file)
+                    if "text" in reader.fieldnames:  # avoid malformed CSVs
+                        existing_texts = {row["text"].strip() for row in reader if row.get("text")}
+            except Exception as e:
+                print(f"[WARN] Could not read existing low-confidence log: {e}")
 
-        # Only log if text is new and low-confidence
+        # Only log if text is new and confidence is below threshold
         if sanitized_text not in existing_texts and confidence < CONFIDENCE_THRESHOLD:
-            with open(LOW_CONF_LOG, mode="a", newline="", encoding="utf-8") as file:
-                writer = csv.writer(file)
-                file_empty = file.tell() == 0
-                if file_empty:
-                    writer.writerow(["timestamp", "text", "predicted_class", "confidence", "model_version"])
-                writer.writerow([
-                    datetime.utcnow().isoformat(),
-                    sanitized_text,
-                    predicted_class,
-                    round(confidence, 4),
-                    VERSION
-                ])
-            existing_texts.add(sanitized_text)
+            try:
+                file_exists = LOW_CONF_LOG.exists()
+                with open(LOW_CONF_LOG, mode="a", newline="", encoding="utf-8") as file:
+                    writer = csv.writer(file)
+                    if not file_exists or LOW_CONF_LOG.stat().st_size == 0:
+                        writer.writerow(["timestamp", "text", "predicted_class", "confidence", "model_version"])
+                    writer.writerow([
+                        datetime.utcnow().isoformat(),
+                        sanitized_text,
+                        predicted_class,
+                        round(confidence, 4),
+                        VERSION
+                    ])
+                existing_texts.add(sanitized_text)
+                print(f"[LOGGED] Low-confidence sample saved: '{sanitized_text}' ({confidence:.4f})")
+            except Exception as e:
+                print(f"[ERROR] Failed to write to low-confidence log: {e}")
 
-        # Trigger augmentation if enough samples exist
+        # Trigger augmentation if threshold reached
         if len(existing_texts) >= AUGMENT_TRIGGER_THRESHOLD:
             print(f"[INFO] {len(existing_texts)} low-confidence entries found. Triggering /augment...")
             try:
-                response = requests.post(AUGMENT_ENDPOINT)
+                response = requests.post(AUGMENT_ENDPOINT, timeout=10)
                 if response.status_code == 200:
                     print("[SUCCESS] Augmentation triggered.")
                 else:
-                    print(f"[ERROR] Augment API failed. Status: {response.status_code}")
+                    print(f"[ERROR] Augment API failed. Status: {response.status_code} - {response.text}")
             except Exception as e:
                 print(f"[ERROR] Failed to call /augment: {e}")
 
     except Exception as e:
-        print(f"[LOGGING ERROR] Failed to log or trigger augmentation: {e}")
+        print(f"[LOGGING ERROR] Unexpected error in augmentation logger: {e}")
 
 
-def predict_text(text: str):
+def predict_texts(texts):
     """
-    Run the trained BERT model on input text to classify misogyny.
-    Responds instantly, logs and triggers augmentation in background.
+    Run the trained BERT model on input text(s).
+    Supports single string or list of strings.
     """
-    # Tokenize
-    encoding = tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=128)
+    if isinstance(texts, str):
+        texts = [texts]
+
+    if not texts:
+        return {"results": []}
+
+    # Tokenize as batch
+    encoding = tokenizer(
+        texts, return_tensors="pt",
+        padding=True, truncation=True, max_length=128
+    )
     encoding = {k: v.to(device) for k, v in encoding.items()}
 
     # Inference
@@ -83,26 +100,33 @@ def predict_text(text: str):
         outputs = model(**encoding)
         logits = outputs.logits
         probs = torch.softmax(logits, dim=1)
-        confidence, prediction = torch.max(probs, dim=1)
+        confidences, predictions = torch.max(probs, dim=1)
 
-    predicted_class = prediction.item()
-    confidence_val = confidence.item()
-    confidence_score_str = f"{round(confidence_val * 100, 2)}%"
-    label = "Misogynistic" if predicted_class == 1 else "Non-misogynistic"
-    is_misogynistic = predicted_class == 1
+    results = []
+    for i, text in enumerate(texts):
+        pred_class = predictions[i].item()
+        conf_val = confidences[i].item()
+        conf_str = f"{round(conf_val * 100, 2)}%"
+        label = "Misogynistic" if pred_class == 1 else "Non-misogynistic"
 
-    # Trigger logging and augmentation in background
-    threading.Thread(
-        target=_log_and_trigger_augmentation,
-        args=(text, predicted_class, confidence_val)
-    ).start()
+        # Background logging/augmentation
+        threading.Thread(
+            target=_log_and_trigger_augmentation,
+            args=(text, pred_class, conf_val),
+            daemon=True  # ensure threads don't block shutdown
+        ).start()
 
-    return {
-        "input": text,
-        "is_misogynistic": is_misogynistic,
-        "label": label,
-        "confidence_score": confidence_score_str,
-        "predicted_class": predicted_class,
-        "model": MODEL_NAME,
-        "version": VERSION
-    }
+        results.append({
+            "input": text,
+            "is_misogynistic": pred_class == 1,
+            "label": label,
+            "confidence_score": conf_str,
+            "predicted_class": pred_class,
+            "model": MODEL_NAME,
+            "version": VERSION
+        })
+
+    # Keep backward compatibility
+    if len(results) == 1:
+        return results[0]
+    return {"results": results}
