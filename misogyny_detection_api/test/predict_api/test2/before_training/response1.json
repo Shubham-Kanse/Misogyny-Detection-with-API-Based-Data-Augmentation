@@ -1,0 +1,598 @@
+{
+    "results": [
+        {
+            "input": "Quit your nagging, you useless hag, because nobody cares about your pointless opinions or your constant whining.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "68.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Female drivers are a hazard, swerving and crashing because they lack the spatial awareness men naturally have.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "55.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Women thinking they can compete with men is a joke—they’ll never match our strength or intelligence.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s only here to distract men with her body, not to actually contribute anything of value to the team.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.31%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "You’re too stupid to understand complex issues, so stick to shopping or whatever women do to pass time.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "69.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Remaining composed under pressure, she navigates high-stakes situations with remarkable poise and focus.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "55.08%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her fresh ideas consistently push projects forward, ensuring outcomes that exceed expectations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "63.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her presence in the boardroom felt more like a formality than a meaningful contribution to strategy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "56.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her contributions are solid, but they don’t always stand out as exceptional in a competitive setting.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "56.44%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is reliable, but it’s tough to gauge if it’s impactful enough to warrant her leadership status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her composure in tough situations is notable, but it’s unclear if it reflects true capability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "71.35%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is dependable, but it’s tough to say if it’s exceptional enough to warrant her status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "52.64%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her contributions are solid, but they don’t always stand out as particularly innovative.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "63.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is consistent, but it’s tough to say if it’s exceptional enough to justify her position.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "74.03%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is reliable, but it’s hard to determine if it’s impactful enough to warrant her status.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "63.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her composure is impressive, but it’s probably just a front for her lack of actual expertise.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "68.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is passable, but it’s not like she’s doing anything a man couldn’t do better.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "61.39%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her calm demeanor is nice, but it’s probably just masking her inability to handle real challenges.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "67.41%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her calm exterior is nice, but it’s probably just hiding her inability to solve real problems.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "52.46%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s in a high position, but it’s probably because she played politics, not because of talent.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "64.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is passable, but it’s not like she’s doing anything a man couldn’t do twice as well.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "64.43%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her work is adequate, but it’s not the kind of impact you’d expect from a competent man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her poise is impressive, but it’s probably just a mask for her lack of actual ability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "64.67%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her calm exterior is nice, but it’s likely just hiding her inability to tackle real issues.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "69.25%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "You’re too stupid to understand real work.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "72.03%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "You’re too fragile to compete with men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "62.58%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s only here to distract men with her looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "55.99%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "You’re just a dumb broad with no real skills.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "64.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a gold-digger who fakes her way through.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "50.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s too weak to survive in a man’s world.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "51.06%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s too weak to handle real pressure.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.34%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "You’re just a trophy with no skills.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "60.56%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s always prepared and excels in every task.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "59.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a reliable teammate who always delivers.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "70.48%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a dependable colleague who never fails.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "58.58%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a marketer who knows her audience well.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "59.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her determination is second to none.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "63.45%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a coder who builds efficient systems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "68.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s an analyst who finds unique solutions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "71.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a coder who builds reliable systems.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "63.96%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She got the job by flirting, not by skill.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "58.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s not strong enough to manage a team of men.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "55.19%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She got promoted to hit diversity targets, not on merit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "50.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Female managers ruin team performance.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "67.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Her emotions get in the way of objective decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.15%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She got picked for optics, not ability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "53.42%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’d be better off planning parties than sprints.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "66.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She should leave the strategy to men who get it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "62.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She delivers on time and communicates risks early.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "53.29%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She built an automation that eliminated hours of manual work.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "67.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She introduced chaos drills that increased resilience.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "63.23%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She triaged bugs and prioritized customer pain points.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "71.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a pathetic weakling who can’t do anything useful.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "53.47%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Men are born leaders; women are born followers who should shut up.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "58.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Those feminist idiots want to destroy everything good about society.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "69.26%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s an emotional wreck who can’t make a sane decision.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "60.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "I don’t want a woman boss; they’re impossible to work with.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "65.47%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Women are a burden that men have to put up with every day.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "69.08%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "I don’t need a woman’s opinion because it’s always emotional.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "73.14%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Those feminist witches ruin everything good about society.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "53.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Women ruin every good thing men build.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.21%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a terrible driver, distracted by emotions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s a drama queen ruining events.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.17%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "She’s lazy and misses work.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "57.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Women seek sympathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.57%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        },
+        {
+            "input": "Equality isn’t real.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "66.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v1"
+        }
+    ]
+}

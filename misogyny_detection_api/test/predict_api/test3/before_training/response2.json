@@ -1,0 +1,1003 @@
+{
+    "results": [
+        {
+            "input": "Honestly, women are way too emotional to make solid business decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women just don’t have the stamina that men do when it comes to leadership roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s good at looking pretty and being polite, but I wouldn’t trust her with serious tasks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.68%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It’s cute how she tries to sound smart, but deep down, she knows her role.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "72.48%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are great at nurturing, which is why they should stick to roles that require caregiving.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.15%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You can’t always expect women to be as logical under pressure as men are.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s impressive, but sometimes I think she’s too nice and lets others take advantage.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Most women prefer jobs that don’t require heavy decision-making, it’s natural.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.16%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s ambitious, yet sometimes it feels like she’s putting on a show to compete with men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "59.23%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You can tell some women just weren’t made for rigorous scientific work.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s charming, but it seems like she relies more on charisma than actual skill.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.24%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women excel when they focus on collaboration rather than competition.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Her strengths lie in communication and empathy, not in handling tough negotiations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "I admire her effort, but sometimes she seems overwhelmed with responsibility.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.12%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s dressed for success, but I wonder if she can keep her emotions in check.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.27%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women bring a lot to the table, but their priorities can sometimes differ from men’s.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.08%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s a great team player, but leadership might be stretching her limits.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You can sense her passion, but sometimes it clouds her judgement.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.27%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "In stressful situations, women often need more reassurance than men do.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s got a good head on her shoulders, but I wouldn’t say she’s a risk-taker.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.46%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to be better multitaskers, but that can come at the cost of focus.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.08%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s always supportive, which is perfect for certain roles, especially in HR.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.34%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women thrive in leadership, but that’s definitely the exception rather than the rule.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.42%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She handles criticism well, but I think sometimes she takes things too personally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.29%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women usually prioritize relationships, which can make tough decision-making harder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Her persistence is admirable, though sometimes it seems fueled by insecurity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.38%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She approaches tasks with care, which works well except when speed is crucial.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often prefer consensus, but that can slow progress in high-stakes settings.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s got a great smile and is friendly, though I doubt she’ll challenge the status quo.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.23%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women are natural leaders, but most tend to avoid conflict and confrontation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s detail-oriented, but maybe she gets too bogged down in the small stuff.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership styles can be nurturing, which isn’t always effective in business.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.08%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She tries hard, but I think she lacks the grit needed to push through obstacles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "79.31%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women have great potential if they learn to be more assertive and less emotional.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.45%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s excellent at supporting others, though leading the charge might be asking too much.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.39%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women may have creative minds, but they sometimes struggle with objectivity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She has strong values, though sometimes that leads to rigidity rather than flexibility.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "64.17%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are often more cautious, which can be helpful but also limit innovation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s very empathetic, which is a strength except when tough calls are necessary.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.09%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women prefer predictable routines over the uncertainty of tough decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She has incredible social skills, but the business world might require a harder edge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.18%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s intuition is valuable, though relying too much on it can be problematic.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.28%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s nurturing in her approach, but that might not work in competitive environments.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women sometimes sacrifice their ambition for the sake of family or relationships.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She balances work and life well, but that may mean she avoids pushing herself too hard.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "67.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women bring emotional intelligence to the table, yet that can sometimes be mistaken for weakness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.09%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s effective in group settings, but leading solo projects might not suit her as well.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "77.87%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women excel in creativity but fall short in analytical thinking.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She inspires through kindness, but can struggle with decisiveness under pressure.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.04%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s attention to detail is impeccable, though it may cause delays in fast-paced settings.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "87.6%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She shows great potential as a collaborator more than as an independent leader.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are often more accommodating, which sometimes leads to being overlooked for credit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She is great at balancing relationships at work, but less so at pushing objectives forward.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "89.99%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to communicate feelings more openly, which some may see as a disadvantage.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s a natural caregiver, which is why she excels at supporting roles over executive ones.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.41%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women conflate emotional response with understanding, which can affect decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.4%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She invests heavily in relationships but might avoid confrontation even when necessary.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "81.16%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empathy makes them great in negotiation, but can also cause hesitation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s very dependable, but risk-taking might not be among her strongest traits.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often seek harmony, which can sometimes prevent addressing critical issues directly.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.56%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She engages well with others but sometimes lacks the confidence to assert herself fully.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "89.32%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often have excellent listening skills, though they might delay decisive action.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She is effective at managing small teams but might struggle with larger-scale leadership.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "93.25%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s strengths lie in collaboration and empathy rather than competitive ambition.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "80.43%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s aware of her limitations and works hard within them, which can be both strength and barrier.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "61.63%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women prefer clarity and structure over ambiguity, which limits flexibility.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.27%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She is nurturing and supportive, traits that work better in communal than corporate settings.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women bring unique perspectives, though they may hesitate to take bold risks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "79.68%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She excels in empathy-based roles but might struggle where hard decisions are frequent.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "68.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s collaborative nature can delay action when quick decisions are crucial.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.46%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She listens well but sometimes hesitates to voice unpopular opinions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women rely on consensus, which although democratic, can impede swift leadership.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.01%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She is patient and caring, often choosing interpersonal harmony over confrontation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "60.15%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women may prioritize emotional well-being over efficiency in workplace decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.81%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s personable and cooperative, yet might lack the assertiveness required for top roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.47%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s approaches often balance emotion and reason, which isn’t always seen as efficient.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She prefers teamwork to solo work, which may sometimes limit her full potential.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.08%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women manage stress differently, opting for avoiding confrontation rather than addressing it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.43%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She invests heavily in social support networks, which helps morale but may undercut authority.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.64%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s nurturing traits shine in mentorship but can conflict with competitive business culture.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s good at mediating conflict, though might avoid making difficult but necessary decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "63.0%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s tendency to anticipate others’ feelings can cloud objective judgement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She shows emotional intelligence but might struggle in environments focused on competition.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "51.26%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women balance ambition with caution, which can slow down rapid growth.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s approachable and empathetic but might be underestimated in authoritative roles.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s sensitivity is a strength in many fields, though sometimes viewed as vulnerability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She values relationships highly, which can sometimes interfere with impartial decision-making.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women may prioritize consensus over decisiveness, affecting leadership efficacy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She brings compassion to leadership, which balances but may temper competitive advantage.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.46%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s collaborative style can yield inclusion but also risk indecision.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.18%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She listens and adapts well, though might avoid asserting control in tough situations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often respond better to relational incentives than to competitive motivators.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s careful and considerate, qualities vital in some roles but limiting in others.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "64.48%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women internalize failures more deeply, affecting their risk appetite.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She communicates openly about struggles, which fosters support but can undermine authority.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "83.52%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s capacity for empathy enhances team cohesion, yet may delay conflict resolution.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.18%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She’s people-oriented and supportive, sometimes at the expense of strategic focus.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.43%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women embrace nurturing roles by choice, reflecting varied strengths and preferences.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She effectively balances task and relational goals, though pressure situations may challenge her.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s relational intelligence enhances workplace culture but may clash with hard metrics.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.17%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She prefers collaborative problem-solving, which might slow decisions when speed is needed.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women find strength in adaptability rather than confrontation or dominance.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.35%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She carefully weighs emotional and practical considerations in decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "87.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s skilled diplomacy is vital but may not suit aggressive negotiation tactics.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She values harmony and consensus, occasionally risking delayed progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "67.26%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women excel in supportive leadership roles rather than directive authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.42%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She navigates complex social dynamics with nuance, though sometimes hesitates to lead decisively.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.18%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional awareness fosters inclusivity but may be misread as over-sensitivity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "50.42%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She champions teamwork and mutual respect, sometimes foregoing conflict for peace.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.12%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Some women prefer cooperative competition, balancing ambition with empathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "She integrates emotional insights with practical goals, aligning people and objectives effectively.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        }
+    ]
+}

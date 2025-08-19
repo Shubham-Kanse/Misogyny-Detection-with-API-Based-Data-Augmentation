@@ -23059,3 +23059,768 @@ The women exhibit excellence.,nonmisogynistic,0,prompt_llm
 These ladies demonstrate proficiency.,nonmisogynistic,0,prompt_llm
 These adult female ar good,nonmisogynistic,0,synonym
 hTese women  are good,nonmisogynistic,0,noise
+These women are stupid,misogynistic,1,triggering
+The intelligence of these women is questionable.,misogynistic,1,prompt_llm
+These women lack intelligence.,misogynistic,1,prompt_llm
+These adult female ar stupid,misogynistic,1,synonym
+These omen are tupid,misogynistic,1,noise
+These women mad,misogynistic,1,triggering
+These women are insane.,misogynistic,1,prompt_llm
+These women are crazy.,misogynistic,1,prompt_llm
+These woman sore,misogynistic,1,synonym
+Thhese women amd,misogynistic,1,noise
+These women seem dim-witted,misogynistic,1,triggering
+The women appear to lack intelligence.,misogynistic,1,prompt_llm
+These ladies seem unintelligent.,misogynistic,1,prompt_llm
+These woman look dim-witted,misogynistic,1,synonym
+These wommenn seem dim-witted,misogynistic,1,noise
+These women are good,nonmisogynistic,0,triggering
+These females exhibit competence.,nonmisogynistic,0,prompt_llm
+The women demonstrate skillfulness.,nonmisogynistic,0,prompt_llm
+These adult female ar good,nonmisogynistic,0,synonym
+These womeen are goood,nonmisogynistic,0,noise
+Women are just too emotional to handle real leadership roles.,misogynistic,1,triggering
+Real leadership positions might be challenging for women due to their emotional nature.,misogynistic,1,prompt_llm
+Women's emotional characteristics could make it difficult for them to excel in true leadership roles.,misogynistic,1,prompt_llm
+woman ar just too emotional to handle real leadership roles.,misogynistic,1,synonym
+Women are just too emotional too handle real leadership rolse.,misogynistic,1,noise
+She’s just a dumb bimbo who got her job by sleeping around.,misogynistic,1,triggering
+She's merely a simple-minded individual who obtained her position through questionable means.,misogynistic,1,prompt_llm
+Her employment appears to be a result of her personal relationships rather than her abilities or qualifications.,misogynistic,1,prompt_llm
+She’s just angstrom unit dense bimbo who got her job by sleeping around.,misogynistic,1,synonym
+She’s ujst a dumb bimbo who got her job by sleeping aorund.,misogynistic,1,noise
+Why do women always take so long to get ready? So fucking annoying.,misogynistic,1,triggering
+What causes women to spend such a prolonged time getting prepared? It's quite frustrating.,misogynistic,1,prompt_llm
+Isn't it perplexing why women often require so much time to prepare themselves? Extremely irritating.,misogynistic,1,prompt_llm
+wherefore bash women always take so long to get ready? So fucking annoying.,misogynistic,1,synonym
+Why do women always take s olong to get ready? So fucking  annoying.,misogynistic,1,noise
+All feminists are just ugly dykes who hate men.,misogynistic,1,triggering
+All individuals who identify as feminists are not necessarily unattractive or misandrist.,misogynistic,1,prompt_llm
+Feminists are not limited to being only unattractive lesbians with a dislike for men.,misogynistic,1,prompt_llm
+All women's rightist ar just ugly dykes who hate men.,misogynistic,1,synonym
+All femiinsts are just ugly dykes ho hate men.,misogynistic,1,noise
+"She’s too weak to handle the real world, typical woman.",misogynistic,1,triggering
+"Her strength isn't sufficient for navigating reality, a common trait among many women.",misogynistic,1,prompt_llm
+"The real world is overwhelming for her, as it often is for many women.",misogynistic,1,prompt_llm
+"She’s overly weak to hold the real world, typical woman.",misogynistic,1,synonym
+"She’s too  weakt o handle the real world, typical woman.",misogynistic,1,noise
+"No woman can do a man’s job properly, period.",misogynistic,1,triggering
+A man's job cannot be performed effectively by any woman.,misogynistic,1,prompt_llm
+It is impossible for a woman to perform a man's job correctly.,misogynistic,1,prompt_llm
+"No adult female tin can do a man’s job properly, period.",misogynistic,1,synonym
+"No woamn  can do a man’s job properly, period.",misogynistic,1,noise
+"Women belong in the home, not in the boardroom.",misogynistic,1,triggering
+Domestic life is more suitable for women than corporate positions.,misogynistic,1,prompt_llm
+The office environment is not where women should focus their careers.,misogynistic,1,prompt_llm
+"adult female belong inch the home, not in the boardroom.",misogynistic,1,synonym
+"Women beelong in the homme, not in the boardroom.",misogynistic,1,noise
+Women are only useful when they’re young and hot.,misogynistic,1,triggering
+"Young and attractive women hold value, according to some.",misogynistic,1,prompt_llm
+A woman's worth is often perceived as being high when she is youthful and attractive.,misogynistic,1,prompt_llm
+woman ar only useful when they’re young and hot.,misogynistic,1,synonym
+omen are only useful when they’er young and hot.,misogynistic,1,noise
+Women are just drama queens who ruin everything.,misogynistic,1,triggering
+Women often seem to create unnecessary dramas that spoil situations.,misogynistic,1,prompt_llm
+Women are frequently accused of creating too much drama and causing problems everywhere.,misogynistic,1,prompt_llm
+woman ar just drama queens who ruin everything.,misogynistic,1,synonym
+Women are jjust dramaa queens who ruin everything.,misogynistic,1,noise
+"Women are better seen than heard, always.",misogynistic,1,triggering
+"Women are more effectively observed rather than listened to, consistently.",misogynistic,1,prompt_llm
+It's often preferred that women are visually perceived instead of audibly heard.,misogynistic,1,prompt_llm
+"adult female ar better seen than heard, always.",misogynistic,1,synonym
+"Womenn are better een than heard, always.",misogynistic,1,noise
+"Women are always whining, it’s exhausting.",misogynistic,1,triggering
+The constant complaining by women is tiresome.,misogynistic,1,prompt_llm
+Hearing women complain all the time is draining.,misogynistic,1,prompt_llm
+"woman ar always whining, it’s exhausting.",misogynistic,1,synonym
+"Women area lways whiniing, it’s exhausting.",misogynistic,1,noise
+No woman belongs in a man’s world like this.,misogynistic,1,triggering
+A man's world such as this is not suitable for women.,misogynistic,1,prompt_llm
+"In a world like this, it is not appropriate for women to be involved.",misogynistic,1,prompt_llm
+No adult female belong in a man’s world like this.,misogynistic,1,synonym
+No woman belongs in a man’s wrld liek this.,misogynistic,1,noise
+"Women are just breeders, not thinkers.",misogynistic,1,triggering
+Women are primarily viewed as procreators rather than intellectual beings.,misogynistic,1,prompt_llm
+"In this perspective, women are considered more for their reproductive roles than their cognitive abilities.",misogynistic,1,prompt_llm
+"adult female ar just breeders, not thinkers.",misogynistic,1,synonym
+"Women are just bbreedrs, not thinkers.",misogynistic,1,noise
+Why do women always need special treatment? So weak.,misogynistic,1,triggering
+What necessitates constant preferential treatment for women? Seems rather fragile.,misogynistic,1,prompt_llm
+Why is it that women consistently require special care? Appears to be quite vulnerable.,misogynistic,1,prompt_llm
+wherefore bash women always need special treatment? So weak.,misogynistic,1,synonym
+Why do women alwayy sneed special treatment? So weak.,misogynistic,1,noise
+"Women are too soft for the real world, always crying.",misogynistic,1,triggering
+"The real world seems to be challenging for women, who often weep.",misogynistic,1,prompt_llm
+"In the hard reality, women appear overly sensitive, constantly shedding tears.",misogynistic,1,prompt_llm
+"adult female ar too soft for the real world, always crying.",misogynistic,1,synonym
+"Women are tooo soft for the eral world, always crying.",misogynistic,1,noise
+No woman can match a man’s strength or smarts.,misogynistic,1,triggering
+A man's strength and intelligence surpass those of any woman.,misogynistic,1,prompt_llm
+Women are not capable of equaling men in terms of strength or intellect.,misogynistic,1,prompt_llm
+No adult female tin can match a man’s strength or smarts.,misogynistic,1,synonym
+No woman can matcth a man’s strength or smarts.,misogynistic,1,noise
+All women are drama magnets who cause trouble.,misogynistic,1,triggering
+Women seem to attract dramatic situations that often lead to chaos.,misogynistic,1,prompt_llm
+Every woman seems to be a focal point for turbulent circumstances.,misogynistic,1,prompt_llm
+All woman ar drama magnets who cause trouble.,misogynistic,1,synonym
+All women aare drama magnets  who cause trouble.,misogynistic,1,noise
+No woman deserves to be in charge of anything.,misogynistic,1,triggering
+It is not appropriate for a woman to hold any position of authority.,misogynistic,1,prompt_llm
+A woman should never have control over anything.,misogynistic,1,prompt_llm
+No adult female deserve to be in charge of anything.,misogynistic,1,synonym
+No woman deserves to be in charge of anyhtnig.,misogynistic,1,noise
+"Women are just for show, not for real work.",misogynistic,1,triggering
+"Women serve primarily decorative purposes, rather than being involved in substantial tasks.",misogynistic,1,prompt_llm
+Women are more suited to being on display than performing serious jobs.,misogynistic,1,prompt_llm
+"woman ar just for show, not for real work.",misogynistic,1,synonym
+"Women are just for shw, not or real work.",misogynistic,1,noise
+Why do women always play the victim card?,misogynistic,1,triggering
+What causes women to frequently adopt a victim's role?,misogynistic,1,prompt_llm
+Why is it common for women to feign victimhood?,misogynistic,1,prompt_llm
+wherefore brawl women always play the victim card?,misogynistic,1,synonym
+Why do woomen always play the ictim card?,misogynistic,1,noise
+All women are liars who manipulate men.,misogynistic,1,triggering
+Every woman deceives and manipulates men.,misogynistic,1,prompt_llm
+Women consistently lie and control men through manipulation.,misogynistic,1,prompt_llm
+All adult female ar liars who manipulate men.,misogynistic,1,synonym
+All women re liars who mannipulate men.,misogynistic,1,noise
+Why do women think they can do a man’s job?,misogynistic,1,triggering
+What leads women to believe that they are capable of performing tasks traditionally assigned to men?,misogynistic,1,prompt_llm
+Under what circumstances do some women consider themselves qualified for jobs usually done by men?,misogynistic,1,prompt_llm
+wherefore bash women think they can do a man’s job?,misogynistic,1,synonym
+Why do wmoen htink they can do a man’s job?,misogynistic,1,noise
+All women are just after money and status.,misogynistic,1,triggering
+Every woman is solely interested in accumulating wealth and prestige.,misogynistic,1,prompt_llm
+Women's primary goals seem to be acquiring money and social standing.,misogynistic,1,prompt_llm
+All woman ar just after money and status.,misogynistic,1,synonym
+All women are just after money d status.,misogynistic,1,noise
+No woman can handle the pressure of leadership.,misogynistic,1,triggering
+Leadership's pressure proves too much for any woman to manage.,misogynistic,1,prompt_llm
+The demands of leadership are beyond a woman's capability to bear.,misogynistic,1,prompt_llm
+No adult female tin handle the pressure of leadership.,misogynistic,1,synonym
+Now oman can handle te pressure of leadership.,misogynistic,1,noise
+Women are only good for cooking and cleaning.,misogynistic,1,triggering
+The primary role of women is limited to cooking and housekeeping.,misogynistic,1,prompt_llm
+Women's duties are predominantly confined to the kitchen and maintaining cleanliness.,misogynistic,1,prompt_llm
+adult female ar only good for cooking and cleaning.,misogynistic,1,synonym
+Women are only good for ooking ad cleaning.,misogynistic,1,noise
+Why do women always need to be coddled?,misogynistic,1,triggering
+What is it about women that requires constant pampering?,misogynistic,1,prompt_llm
+Why is there a persistent tendency to treat women with excessive care?,misogynistic,1,prompt_llm
+wherefore brawl women always need to be coddled?,misogynistic,1,synonym
+Why do women alwyas eed to be coddled?,misogynistic,1,noise
+No woman can match a man’s intelligence.,misogynistic,1,triggering
+A man's intelligence surpasses that of any woman.,misogynistic,1,prompt_llm
+Women are not capable of equaling men in terms of intellectual prowess.,misogynistic,1,prompt_llm
+No adult female tin can match a man’s intelligence.,misogynistic,1,synonym
+N owomman can match a man’s intelligence.,misogynistic,1,noise
+"Women are only good for one thing, and it’s not work.",misogynistic,1,triggering
+"A woman's abilities primarily lie in a single area, and that isn't professional duties.",misogynistic,1,prompt_llm
+"In terms of skills, women are mostly proficient in just one domain, and that isn't the workplace.",misogynistic,1,prompt_llm
+"woman ar only good for one thing, and it’s not work.",misogynistic,1,synonym
+"Women  are only good for one thing, and it’s not wrok.",misogynistic,1,noise
+No woman should be allowed in a man’s space.,misogynistic,1,triggering
+A man's personal area ought not to be accessible to women.,misogynistic,1,prompt_llm
+It is inappropriate for women to enter a man's private domain.,misogynistic,1,prompt_llm
+No adult female should atomic number 4 allowed in a man’s space.,misogynistic,1,synonym
+No woman should be allowwed in a mman’s space.,misogynistic,1,noise
+No woman can handle a real challenge.,misogynistic,1,triggering
+A true test is beyond the capabilities of any woman.,misogynistic,1,prompt_llm
+Women are incapable of facing genuine trials.,misogynistic,1,prompt_llm
+No adult female tin handle a real challenge.,misogynistic,1,synonym
+No woman ca handle a real chlalenge.,misogynistic,1,noise
+Why do women think they’re equal to men?,misogynistic,1,triggering
+What leads women to believe they're on par with men?,misogynistic,1,prompt_llm
+Why is it that women perceive themselves as equals to men?,misogynistic,1,prompt_llm
+wherefore bash women think they’re equal to men?,misogynistic,1,synonym
+Why do women  think they’re equal  to men?,misogynistic,1,noise
+Women are only good for looking pretty.,misogynistic,1,triggering
+The primary role of women is to be aesthetically pleasing.,misogynistic,1,prompt_llm
+Women's value is primarily in their physical appearance.,misogynistic,1,prompt_llm
+woman ar only good for looking pretty.,misogynistic,1,synonym
+Womenare only goo dfor looking pretty.,misogynistic,1,noise
+Why do women always play the victim?,misogynistic,1,triggering
+What's the reason for women continually portraying themselves as victims?,misogynistic,1,prompt_llm
+Why is it that women often assume the role of a victim?,misogynistic,1,prompt_llm
+wherefore bash women always play the victim?,misogynistic,1,synonym
+Why do women aalways play the victiim?,misogynistic,1,noise
+No woman belongs in a leadership role.,misogynistic,1,triggering
+Leadership roles are unsuitable for women.,misogynistic,1,prompt_llm
+Women should not hold positions of leadership.,misogynistic,1,prompt_llm
+No adult female belong in a leadership role.,misogynistic,1,synonym
+No womn belongs in a ladership role.,misogynistic,1,noise
+"Women belong in the home, not in charge.",misogynistic,1,triggering
+Domestic life is more suitable for women than leadership roles.,misogynistic,1,prompt_llm
+Leadership positions are not appropriate for women; they should stay at home.,misogynistic,1,prompt_llm
+"woman belong inch the home, not in charge.",misogynistic,1,synonym
+"Womn belong in the home,n ot in charge.",misogynistic,1,noise
+"Women can’t handle tough decisions, ever.",misogynistic,1,triggering
+Tough decisions are often beyond the capacity of women.,misogynistic,1,prompt_llm
+Women aren't typically equipped to manage difficult decisions.,misogynistic,1,prompt_llm
+"woman can’t grip tough decisions, ever.",misogynistic,1,synonym
+"Women can’t handle tough decsions,e ver.",misogynistic,1,noise
+Why do women always cry for attention?,misogynistic,1,triggering
+What makes women often seek attention through tears?,misogynistic,1,prompt_llm
+Why is it that women frequently weep to attract attention?,misogynistic,1,prompt_llm
+wherefore bash women always cry for attention?,misogynistic,1,synonym
+Whhy do women always cry for attenttion?,misogynistic,1,noise
+Women are only good for domestic tasks.,misogynistic,1,triggering
+Domestic chores are the exclusive domain of women.,misogynistic,1,prompt_llm
+The skills of women are limited to household duties.,misogynistic,1,prompt_llm
+woman ar only good for domestic tasks.,misogynistic,1,synonym
+Wmen are only good fo domestic tasks.,misogynistic,1,noise
+All women are drama magnets who cause chaos.,misogynistic,1,triggering
+Women tend to attract dramas that create disorder.,misogynistic,1,prompt_llm
+Chaos often follows wherever there are women due to their dramatic nature.,misogynistic,1,prompt_llm
+All woman ar drama magnets who cause chaos.,misogynistic,1,synonym
+All women aer drama magnet swho cause chaos.,misogynistic,1,noise
+Why do women think they can compete?,misogynistic,1,triggering
+What makes women believe they can contend?,misogynistic,1,prompt_llm
+Why is it that women assume they can vie for something?,misogynistic,1,prompt_llm
+wherefore brawl women think they can compete?,misogynistic,1,synonym
+Why ddo wwomen think they can compete?,misogynistic,1,noise
+"Women belong in the background, not the front.",misogynistic,1,triggering
+Women should stay in the background rather than the forefront.,misogynistic,1,prompt_llm
+The foreground is not the appropriate place for women; they should be in the background.,misogynistic,1,prompt_llm
+"adult female belong inch the background, not the front.",misogynistic,1,synonym
+"Women belong in the backgroun,d not the font.",misogynistic,1,noise
+No woman can match a man’s strength.,misogynistic,1,triggering
+A man's strength surpasses that of any woman.,misogynistic,1,prompt_llm
+Women are not capable of matching men in terms of physical strength.,misogynistic,1,prompt_llm
+No adult female tin match a man’s strength.,misogynistic,1,synonym
+N woman can match a man’s strnegth.,misogynistic,1,noise
+"Women are only good for one thing, period.",misogynistic,1,triggering
+A woman's worth is limited to a single aspect.,misogynistic,1,prompt_llm
+"In terms of value, women are reduced to a singular role.",misogynistic,1,prompt_llm
+"adult female ar only good for one thing, period.",misogynistic,1,synonym
+"Womn are onlygood for one thing, period.",misogynistic,1,noise
+"No woman deserves to be in charge, ever.",misogynistic,1,triggering
+A woman should never hold a leadership role.,misogynistic,1,prompt_llm
+It is not suitable for a woman to lead at any point.,misogynistic,1,prompt_llm
+"No adult female merit to be in charge, ever.",misogynistic,1,synonym
+"No woman deservve to be in charge, ever.",misogynistic,1,noise
+Why do women try to act like men? So dumb.,misogynistic,1,triggering
+What's the reason for females attempting to emulate masculine behavior? Quite unfortunate.,misogynistic,1,prompt_llm
+"Women imitating men - such a puzzling trend, isn't it?",misogynistic,1,prompt_llm
+wherefore brawl women try to act like men? So dumb.,misogynistic,1,synonym
+Why do wwomen try to act like mne? So dumb.,misogynistic,1,noise
+"No woman can handle a man’s job, period.",misogynistic,1,triggering
+"A man's job is beyond a woman's capabilities, full stop.",misogynistic,1,prompt_llm
+"It's impossible for a woman to manage a man's work, point blank.",misogynistic,1,prompt_llm
+"No adult female tin handle a man’s job, period.",misogynistic,1,synonym
+"No woman can hande a man’s job ,period.",misogynistic,1,noise
+All women are drama queens who fake it.,misogynistic,1,triggering
+Every woman is a melodramatic actress.,misogynistic,1,prompt_llm
+Women often feign emotions for theatrical effect.,misogynistic,1,prompt_llm
+All adult female ar drama queens who fake it.,misogynistic,1,synonym
+All women are drama queens ho fake it.,misogynistic,1,noise
+No woman should be trusted with power.,misogynistic,1,triggering
+Power ought not to be given to any woman.,misogynistic,1,prompt_llm
+It's unwise to bestow power upon a female.,misogynistic,1,prompt_llm
+No adult female should beryllium trusted with power.,misogynistic,1,synonym
+NNo woman sholud be trusted with power.,misogynistic,1,noise
+"Women belong in the home, not the office.",misogynistic,1,triggering
+Domestic life is more suitable for women than a career.,misogynistic,1,prompt_llm
+"A woman's place should be at home, not in an office setting.",misogynistic,1,prompt_llm
+"woman belong inch the home, not the office.",misogynistic,1,synonym
+"Womn belongin the home, not the office.",misogynistic,1,noise
+All women are manipulators who use tears.,misogynistic,1,triggering
+Every woman resorts to manipulation by shedding tears.,misogynistic,1,prompt_llm
+Women are characterized by their ability to employ tears in manipulative ways.,misogynistic,1,prompt_llm
+All adult female ar manipulators who use tears.,misogynistic,1,synonym
+All women rae manipulators ho use tears.,misogynistic,1,noise
+No woman can handle real challenges.,misogynistic,1,triggering
+Real challenges are beyond the capabilities of any woman.,misogynistic,1,prompt_llm
+Women lack the capacity to face genuine challenges.,misogynistic,1,prompt_llm
+No adult female tin handle real challenges.,misogynistic,1,synonym
+No woamn can handl real challenges.,misogynistic,1,noise
+No woman belongs in a man’s world.,misogynistic,1,triggering
+A man's world is not suited for women.,misogynistic,1,prompt_llm
+Women should not be part of the male domain.,misogynistic,1,prompt_llm
+No adult female belong in a man’s world.,misogynistic,1,synonym
+N woman belongs ina  man’s world.,misogynistic,1,noise
+Why do women think they’re equal? So sad.,misogynistic,1,triggering
+What's the reason for the belief that women are equal? Such a pity.,misogynistic,1,prompt_llm
+Women believe themselves to be equal - how unfortunate.,misogynistic,1,prompt_llm
+wherefore bash women think they’re equal? So sad.,misogynistic,1,synonym
+Why do women thhink they’re equal? So sda.,misogynistic,1,noise
+All women are drama queens who cause trouble.,misogynistic,1,triggering
+Every woman has a flair for the dramatic and tends to stir up conflict.,misogynistic,1,prompt_llm
+Women often make situations more dramatic and create problems.,misogynistic,1,prompt_llm
+All adult female ar drama queens who cause trouble.,misogynistic,1,synonym
+All women aare drama quens who cause trouble.,misogynistic,1,noise
+Why do women always cry for sympathy?,misogynistic,1,triggering
+What's the reason behind a woman showing tears to gain sympathy?,misogynistic,1,prompt_llm
+Why is it that women often shed tears in an attempt to receive sympathy?,misogynistic,1,prompt_llm
+wherefore bash women always cry for sympathy?,misogynistic,1,synonym
+Why do wommen always cry forr sympathy?,misogynistic,1,noise
+"Women belong in the background, not leading.",misogynistic,1,triggering
+"Leadership roles should be reserved for men, not women.",misogynistic,1,prompt_llm
+It is more appropriate for women to stay in supporting positions rather than taking leadership positions.,misogynistic,1,prompt_llm
+"adult female belong inch the background, not leading.",misogynistic,1,synonym
+"Women belng in the abckground, not leading.",misogynistic,1,noise
+No woman deserves to lead anything.,misogynistic,1,triggering
+A woman should not hold any leadership position.,misogynistic,1,prompt_llm
+Leadership roles are unsuitable for women.,misogynistic,1,prompt_llm
+No adult female merit to lead anything.,misogynistic,1,synonym
+No wwomand eserves to lead anything.,misogynistic,1,noise
+No woman can handle serious responsibility.,misogynistic,1,triggering
+Women are unable to manage significant responsibilities.,misogynistic,1,prompt_llm
+Responsibilities of a serious nature are beyond a woman's capacity.,misogynistic,1,prompt_llm
+No adult female tin handle serious responsibility.,misogynistic,1,synonym
+No owman acn handle serious responsibility.,misogynistic,1,noise
+You’re just a dumb chick with no skills.,misogynistic,1,triggering
+"Your lack of abilities makes you seem unskilled, and your behavior suggests a lack of intelligence.",misogynistic,1,prompt_llm
+"You appear to possess neither skills nor intelligence, merely acting like an inept woman.",misogynistic,1,prompt_llm
+You’re just angstrom dense chick with no skills.,misogynistic,1,synonym
+You’re just  a dumb chick with noskills.,misogynistic,1,noise
+All women are drama magnets who lie.,misogynistic,1,triggering
+Women tend to attract dramatic situations and untruths.,misogynistic,1,prompt_llm
+Dramatic situations and lies often gravitate towards women.,misogynistic,1,prompt_llm
+All adult female ar drama magnets who lie.,misogynistic,1,synonym
+Allwomen aer drama magnets who lie.,misogynistic,1,noise
+"Women belong in the home, not in power.",misogynistic,1,triggering
+"A woman's place is at home, not in positions of authority.",misogynistic,1,prompt_llm
+"Home should be a woman's domain, not her role in wielding power.",misogynistic,1,prompt_llm
+"woman belong inch the home, not in power.",misogynistic,1,synonym
+"Women belong in the home, not in ppowwer.",misogynistic,1,noise
+No woman should be allowed to lead.,misogynistic,1,triggering
+Women should not be permitted to take leadership roles.,misogynistic,1,prompt_llm
+It's unacceptable for a woman to hold a leadership position.,misogynistic,1,prompt_llm
+No adult female should atomic number 4 allowed to lead.,misogynistic,1,synonym
+o woman sholud be allowed to lead.,misogynistic,1,noise
+All women are manipulators who fake it.,misogynistic,1,triggering
+Every woman is a deceitful individual who pretends to be something she's not.,misogynistic,1,prompt_llm
+Women universally engage in manipulation and insincerity.,misogynistic,1,prompt_llm
+All adult female ar manipulators who fake it.,misogynistic,1,synonym
+All women are manipullators who ffake it.,misogynistic,1,noise
+Why do women always need to be saved?,misogynistic,1,triggering
+What's the reason for constantly needing to rescue women?,misogynistic,1,prompt_llm
+Why is there a constant need for rescuing women?,misogynistic,1,prompt_llm
+wherefore bash women always need to be saved?,misogynistic,1,synonym
+Why do wmen always nee dto be saved?,misogynistic,1,noise
+No woman deserves to be in charge.,misogynistic,1,triggering
+A woman should not hold a leadership position.,misogynistic,1,prompt_llm
+It is inappropriate for a woman to lead.,misogynistic,1,prompt_llm
+No adult female merit to be in charge.,misogynistic,1,synonym
+No woman deservesto be iin charge.,misogynistic,1,noise
+All women are drama queens who cause chaos.,misogynistic,1,triggering
+Every woman is prone to dramatic behaviors that often create disorder.,misogynistic,1,prompt_llm
+Women tend to be overly dramatic and frequently instigate confusion.,misogynistic,1,prompt_llm
+All woman ar drama queens who cause chaos.,misogynistic,1,synonym
+All wwomen are drama queen who cause chaos.,misogynistic,1,noise
+No woman can handle a man’s world.,misogynistic,1,triggering
+A man's world is not something a woman can manage effectively.,misogynistic,1,prompt_llm
+Women are not equipped to deal with the challenges of a man's world.,misogynistic,1,prompt_llm
+No adult female tin can handle a man’s world.,misogynistic,1,synonym
+No woman can handle  man’s  world.,misogynistic,1,noise
+"Women belong in the home, not leading.",misogynistic,1,triggering
+Domestic life is more suitable for women rather than leadership roles.,misogynistic,1,prompt_llm
+Leadership positions are not where women should be; they are better off at home.,misogynistic,1,prompt_llm
+"adult female belong inch the home, not leading.",misogynistic,1,synonym
+"Women belng in the homee, not leading.",misogynistic,1,noise
+She’s a manipulative bitch who fakes it.,misogynistic,1,triggering
+"She behaves in a deceitful manner, pretending to be someone she's not.",misogynistic,1,prompt_llm
+"She is cunningly deceptive, feigning sincerity.",misogynistic,1,prompt_llm
+She’s angstrom manipulative bitch World Health Organization fakes it.,misogynistic,1,synonym
+She’s a maniipulative bitcch who fakes it.,misogynistic,1,noise
+Women have the strength to overcome any obstacle.,nonmisogynistic,0,triggering
+Women possess the power to conquer every challenge that comes their way.,nonmisogynistic,0,prompt_llm
+Overcoming any barrier is a capability women are known for.,nonmisogynistic,0,prompt_llm
+woman rich person the strength to overcome any obstacle.,nonmisogynistic,0,synonym
+Women have hte srength to overcome any obstacle.,nonmisogynistic,0,noise
+Women have every right to excel in any career they choose.,nonmisogynistic,0,triggering
+Every woman is entitled to succeed in any profession she desires.,nonmisogynistic,0,prompt_llm
+It's appropriate for women to achieve greatness in the careers they select.,nonmisogynistic,0,prompt_llm
+adult female wealthy person every right to excel in any career they choose.,nonmisogynistic,0,synonym
+Women have  very right to excel in any career they choose.,nonmisogynistic,0,noise
+Women deserve recognition for their hard work and talent.,nonmisogynistic,0,triggering
+The efforts and skills of women should be acknowledged.,nonmisogynistic,0,prompt_llm
+Women's diligence and abilities warrant appreciation.,nonmisogynistic,0,prompt_llm
+woman merit recognition for their hard work and talent.,nonmisogynistic,0,synonym
+Wmoen deserverecognition for their hard work and talent.,nonmisogynistic,0,noise
+Women deserve to be celebrated for their brilliance.,nonmisogynistic,0,triggering
+The achievements of women should be honored due to their intelligence.,nonmisogynistic,0,prompt_llm
+Women's brilliance warrants recognition and celebration.,nonmisogynistic,0,prompt_llm
+adult female merit to be celebrated for their brilliance.,nonmisogynistic,0,synonym
+Women deserve to be ccelebrated or their brilliance.,nonmisogynistic,0,noise
+Women have the power to change the world for the better.,nonmisogynistic,0,triggering
+The influence of women can lead to a more improved world.,nonmisogynistic,0,prompt_llm
+Women possess the ability to shape the world in a positive manner.,nonmisogynistic,0,prompt_llm
+adult female rich person the power to change the world for the better.,nonmisogynistic,0,synonym
+Women have the power to chang ethe owrld for the better.,nonmisogynistic,0,noise
+Women have the right to lead in any field they choose.,nonmisogynistic,0,triggering
+"In every profession, women are entitled to assume leadership roles.",nonmisogynistic,0,prompt_llm
+Women possess the entitlement to lead in any career they select.,nonmisogynistic,0,prompt_llm
+woman rich person the right to lead in any field they choose.,nonmisogynistic,0,synonym
+Women have the rightt to lead in anyy field they choose.,nonmisogynistic,0,noise
+Women deserve to be celebrated for their talents.,nonmisogynistic,0,triggering
+The skills of women should be honored.,nonmisogynistic,0,prompt_llm
+Women's talents warrant recognition.,nonmisogynistic,0,prompt_llm
+adult female merit to be celebrated for their talents.,nonmisogynistic,0,synonym
+omen deserve to be celebrated for thier talents.,nonmisogynistic,0,noise
+Women have the strength to achieve anything.,nonmisogynistic,0,triggering
+Female power enables them to accomplish any task.,nonmisogynistic,0,prompt_llm
+"With their might, women can attain everything.",nonmisogynistic,0,prompt_llm
+adult female wealthy person the strength to achieve anything.,nonmisogynistic,0,synonym
+oWmen have the strength to achieve anythiing.,nonmisogynistic,0,noise
+Women have the power to shape a brighter future.,nonmisogynistic,0,triggering
+Women possess the ability to mold a more luminous tomorrow.,nonmisogynistic,0,prompt_llm
+The potential for shaping a more radiant future lies in women's hands.,nonmisogynistic,0,prompt_llm
+adult female wealthy person the power to shape a brighter future.,nonmisogynistic,0,synonym
+Wmen hve the power to shape a brighter future.,nonmisogynistic,0,noise
+Women have the right to pursue any career they want.,nonmisogynistic,0,triggering
+Every woman can choose her desired profession.,nonmisogynistic,0,prompt_llm
+A woman's choice of career is within her rights.,nonmisogynistic,0,prompt_llm
+adult female rich person the right to pursue any career they want.,nonmisogynistic,0,synonym
+Women have the right to pursue any carer they wan.t,nonmisogynistic,0,noise
+Women have the power to lead with vision and strength.,nonmisogynistic,0,triggering
+Women possess the ability to guide through vision and might.,nonmisogynistic,0,prompt_llm
+It is women who can direct with clarity and fortitude.,nonmisogynistic,0,prompt_llm
+adult female wealthy person the power to lead with vision and strength.,nonmisogynistic,0,synonym
+Women have the power to lead with visio ad strength.,nonmisogynistic,0,noise
+"Women belong in the kitchen, not the boardroom.",misogynistic,1,triggering
+The boardroom is not the appropriate place for women; they should be in the kitchen.,misogynistic,1,prompt_llm
+It's more fitting for women to be in the kitchen rather than the boardroom.,misogynistic,1,prompt_llm
+"woman belong inch the kitchen, not the boardroom.",misogynistic,1,synonym
+"Women belong in the kitchen, ot the baordroom.",misogynistic,1,noise
+All feminists are just man-hating lesbians.,misogynistic,1,triggering
+Every feminist isn't necessarily a woman who despises men or identifies as a lesbian.,misogynistic,1,prompt_llm
+Not all feminists can be characterized as women who hate men and are lesbians.,misogynistic,1,prompt_llm
+All libber ar just man-hating lesbians.,misogynistic,1,synonym
+All feminists are just man-hatig esbians.,misogynistic,1,noise
+A real woman knows her place is at home.,misogynistic,1,triggering
+A true woman recognizes her role is within the home.,misogynistic,1,prompt_llm
+The authentic woman understands that her domain lies in the household.,misogynistic,1,prompt_llm
+angstrom unit real number woman knows her place is at home.,misogynistic,1,synonym
+A real womnak nows her place is at home.,misogynistic,1,noise
+Women are too weak to handle tough jobs.,misogynistic,1,triggering
+Tough jobs are beyond the capabilities of most women.,misogynistic,1,prompt_llm
+It's challenging for many women to manage demanding tasks.,misogynistic,1,prompt_llm
+woman ar too weak to handle tough jobs.,misogynistic,1,synonym
+Women are to weak to handle toguh jobs.,misogynistic,1,noise
+No woman can match a man's intelligence.,misogynistic,1,triggering
+A man's intelligence cannot be equaled by any woman.,misogynistic,1,prompt_llm
+Women are not capable of reaching the level of a man's intelligence.,misogynistic,1,prompt_llm
+No adult female tin can match a man's intelligence.,misogynistic,1,synonym
+No woman can match a man's intelligenncee.,misogynistic,1,noise
+"Women are just baby-making machines, nothing more.",misogynistic,1,triggering
+Women are merely viewed as machines for reproduction.,misogynistic,1,prompt_llm
+"In this perspective, women are reduced to simply childbearers.",misogynistic,1,prompt_llm
+"woman ar just baby-making machines, nothing more.",misogynistic,1,synonym
+"Women are just bbay-making machines, nothingg more.",misogynistic,1,noise
+Women shouldn't vote; they don't understand politics.,misogynistic,1,triggering
+Politics should not be within the realm of women's voting rights due to their lack of understanding.,misogynistic,1,prompt_llm
+Women are unsuitable for exercising the right to vote because they lack political comprehension.,misogynistic,1,prompt_llm
+woman shouldn't vote; they don't understand politics.,misogynistic,1,synonym
+Women shouldn' vote they don't understand politics.,misogynistic,1,noise
+Women are too fragile for real work.,misogynistic,1,triggering
+Real work is beyond the capabilities of women.,misogynistic,1,prompt_llm
+Women lack the strength for hard labor.,misogynistic,1,prompt_llm
+adult female ar too fragile for real work.,misogynistic,1,synonym
+Women are too fragile forreal wwork.,misogynistic,1,noise
+Women shouldn't speak unless spoken to.,misogynistic,1,triggering
+A woman should avoid speaking unless addressed.,misogynistic,1,prompt_llm
+It's not appropriate for a woman to talk unless someone else initiates the conversation.,misogynistic,1,prompt_llm
+woman shouldn't utter unless spoken to.,misogynistic,1,synonym
+oWmen shouldn't  speak unless spoken to.,misogynistic,1,noise
+Women are too hormonal to make good decisions.,misogynistic,1,triggering
+Women's hormones can impair their ability to make sound decisions.,misogynistic,1,prompt_llm
+The hormonal changes in women may affect their decision-making skills.,misogynistic,1,prompt_llm
+adult female ar too hormonal to make good decisions.,misogynistic,1,synonym
+Women are too hormonal to make god deccisions.,misogynistic,1,noise
+Women are just emotional wrecks all the time.,misogynistic,1,triggering
+Women are consistently experiencing strong emotions.,misogynistic,1,prompt_llm
+Women are often emotionally fragile.,misogynistic,1,prompt_llm
+woman ar just emotional wrecks all the time.,misogynistic,1,synonym
+Womenare just emotioonal wrecks all the time.,misogynistic,1,noise
+She’s just a useless housewife with no skills.,misogynistic,1,triggering
+"Her domestic abilities seem limited, lacking in diverse talents.",misogynistic,1,prompt_llm
+She appears to have no useful skills beyond household chores.,misogynistic,1,prompt_llm
+She’s just angstrom useless woman of the house with no skills.,misogynistic,1,synonym
+She’s just a useless houssewif with no skills.,misogynistic,1,noise
+All women are just after a man's wallet.,misogynistic,1,triggering
+Every woman is primarily interested in a man's wealth.,misogynistic,1,prompt_llm
+Women generally seek a man for his financial resources.,misogynistic,1,prompt_llm
+All woman ar just after a man's wallet.,misogynistic,1,synonym
+All women arejjust after a man's wallet.,misogynistic,1,noise
+All women are sneaky and untrustworthy.,misogynistic,1,triggering
+Women are universally cunning and unfaithful.,misogynistic,1,prompt_llm
+Every woman is known for being sly and unreliable.,misogynistic,1,prompt_llm
+All woman ar sneaky and untrustworthy.,misogynistic,1,synonym
+Alllwomen are sneaky and untrustworthy.,misogynistic,1,noise
+All women are manipulative and fake.,misogynistic,1,triggering
+Every woman is deceitful and insincere.,misogynistic,1,prompt_llm
+Women generally act manipulatively and falsely.,misogynistic,1,prompt_llm
+All woman ar manipulative and fake.,misogynistic,1,synonym
+All womenn are manipulativ eand fake.,misogynistic,1,noise
+Women shouldn't be allowed to argue with men.,misogynistic,1,triggering
+Men should not tolerate arguments from women.,misogynistic,1,prompt_llm
+It is inappropriate for arguments to occur between women and men.,misogynistic,1,prompt_llm
+adult female shouldn't atomic number 4 allowed to argue with men.,misogynistic,1,synonym
+Women shhouldn'tbe allowed to argue with men.,misogynistic,1,noise
+All women are drama queens who fake tears.,misogynistic,1,triggering
+"Every woman often acts in a theatrical manner, feigning tears.",misogynistic,1,prompt_llm
+Women tend to be overly emotional and fabricate tears.,misogynistic,1,prompt_llm
+All adult female ar drama queens who fake tears.,misogynistic,1,synonym
+All womenn are draa queens who fake tears.,misogynistic,1,noise
+Women can't handle high-stakes situations.,misogynistic,1,triggering
+High-stakes situations tend to be challenging for women.,misogynistic,1,prompt_llm
+Women often find themselves struggling in high-pressure scenarios.,misogynistic,1,prompt_llm
+woman can't handgrip high-stakes situations.,misogynistic,1,synonym
+WWomen can't handle high-stakes situattions.,misogynistic,1,noise
+All women are just chasing rich guys.,misogynistic,1,triggering
+Every woman is pursuing wealthy men.,misogynistic,1,prompt_llm
+Women are generally attracted to affluent males.,misogynistic,1,prompt_llm
+All adult female ar just chasing rich guys.,misogynistic,1,synonym
+All women are just chsing rich guyys.,misogynistic,1,noise
+Women shouldn't be allowed to own businesses.,misogynistic,1,triggering
+Businesses should not be permitted for women.,misogynistic,1,prompt_llm
+It is inappropriate for women to hold business ownership.,misogynistic,1,prompt_llm
+woman shouldn't glucinium allowed to own businesses.,misogynistic,1,synonym
+Wommen shouldn't be allowed to own businessses.,misogynistic,1,noise
+Women can't be trusted with leadership roles.,misogynistic,1,triggering
+Leadership positions should not be given to women.,misogynistic,1,prompt_llm
+Women are unreliable when it comes to assuming leadership roles.,misogynistic,1,prompt_llm
+adult female can't atomic number 4 trusted with leadership roles.,misogynistic,1,synonym
+Woemen can't be trusted with leadership roles.,misogynistic,1,noise
+Women are too emotional to be reliable.,misogynistic,1,triggering
+Reliability may be questionable due to women's strong emotional nature.,misogynistic,1,prompt_llm
+Emotional sensitivity in women could potentially affect their reliability.,misogynistic,1,prompt_llm
+woman ar too emotional to be reliable.,misogynistic,1,synonym
+Women are oo emotional to be relibale.,misogynistic,1,noise
+That dumb chick can't handle pressure.,misogynistic,1,triggering
+The woman seems unable to manage stressful situations.,misogynistic,1,prompt_llm
+She appears inadequate when dealing with high-pressure conditions.,misogynistic,1,prompt_llm
+That dim biddy can't handle pressure.,misogynistic,1,synonym
+That dmb chick cant' handle pressure.,misogynistic,1,noise
+All women are manipulative and selfish.,misogynistic,1,triggering
+Every woman exhibits a tendency towards manipulation and self-centeredness.,misogynistic,1,prompt_llm
+Women are universally known for their manipulative and selfish behavior.,misogynistic,1,prompt_llm
+All adult female ar manipulative and selfish.,misogynistic,1,synonym
+All women are manpiulative and sselfish.,misogynistic,1,noise
+All women are fake and attention-seeking.,misogynistic,1,triggering
+Every woman is pretentious and craving for attention.,misogynistic,1,prompt_llm
+Women in general are perceived as artificial and seeking out attention.,misogynistic,1,prompt_llm
+All adult female ar fake and attention-seeking.,misogynistic,1,synonym
+All women are fake and attenion-seeking.,misogynistic,1,noise
+Women are too irrational for leadership.,misogynistic,1,triggering
+Leadership roles are not suitable for women due to their supposed lack of rationality.,misogynistic,1,prompt_llm
+Women's alleged irrationality disqualifies them from holding leadership positions.,misogynistic,1,prompt_llm
+woman ar too irrational for leadership.,misogynistic,1,synonym
+Wome nare too irational for leadership.,misogynistic,1,noise
+Women are too weak for real challenges.,misogynistic,1,triggering
+Real challenges prove too much for women's strength.,misogynistic,1,prompt_llm
+Women lack the necessary fortitude to face genuine challenges.,misogynistic,1,prompt_llm
+adult female ar too weak for real challenges.,misogynistic,1,synonym
+Woemn are too weak fr real challenges.,misogynistic,1,noise
+All women are sneaky and disloyal.,misogynistic,1,triggering
+All females exhibit cunning and unfaithful behavior.,misogynistic,1,prompt_llm
+Women have a tendency to be sly and untrustworthy.,misogynistic,1,prompt_llm
+All woman ar sneaky and disloyal.,misogynistic,1,synonym
+All women are sneaky andd iloyal.,misogynistic,1,noise
+She’s just a useless woman with no talent.,misogynistic,1,triggering
+"Her abilities are practically nonexistent, showing no evident skills.",misogynistic,1,prompt_llm
+She lacks any discernible talent or usefulness.,misogynistic,1,prompt_llm
+She’s just angstrom unit useless adult female with no talent.,misogynistic,1,synonym
+She’s just a useless woman wwith nno talent.,misogynistic,1,noise
+All women are just emotional messes.,misogynistic,1,triggering
+Every woman is simply emotionally unorganized.,misogynistic,1,prompt_llm
+Women in general are merely a whirlwind of emotions.,misogynistic,1,prompt_llm
+All woman ar just emotional messes.,misogynistic,1,synonym
+All wwomen are just emotionall messes.,misogynistic,1,noise
+Women shouldn't be allowed to speak up.,misogynistic,1,triggering
+Women should not have the opportunity to voice their opinions.,misogynistic,1,prompt_llm
+It is inappropriate for women to express themselves publicly.,misogynistic,1,prompt_llm
+woman shouldn't beryllium allowed to speak up.,misogynistic,1,synonym
+Women shouldn''t be alowed to speak up.,misogynistic,1,noise
+Women can't handle real-world stress.,misogynistic,1,triggering
+Real-world stress is too much for many women to manage.,misogynistic,1,prompt_llm
+"In the realm of everyday pressures, women often struggle to cope effectively.",misogynistic,1,prompt_llm
+adult female can't handgrip real-world stress.,misogynistic,1,synonym
+Wmen ca't handle real-world stress.,misogynistic,1,noise
+Women are too soft for serious roles.,misogynistic,1,triggering
+Serious roles are unsuitable for women.,misogynistic,1,prompt_llm
+Women lack the necessary strength for demanding roles.,misogynistic,1,prompt_llm
+adult female ar too soft for serious roles.,misogynistic,1,synonym
+Women aare too soft for serous roles.,misogynistic,1,noise
+All women are liars and manipulators.,misogynistic,1,triggering
+Every woman is a deceiver and a manipulator.,misogynistic,1,prompt_llm
+Women universally exhibit deceitful and manipulative behaviors.,misogynistic,1,prompt_llm
+All woman ar liars and manipulators.,misogynistic,1,synonym
+All owmen are liars and manipulatorrs.,misogynistic,1,noise
+All women are manipulative and cunning.,misogynistic,1,triggering
+Every woman is known for her strategic intelligence and slyness.,misogynistic,1,prompt_llm
+Women in general possess a clever and deceptive nature.,misogynistic,1,prompt_llm
+All adult female ar manipulative and cunning.,misogynistic,1,synonym
+All women aer manipulative and cunnning.,misogynistic,1,noise
+All women are just after attention.,misogynistic,1,triggering
+Every woman seeks attention.,misogynistic,1,prompt_llm
+Women generally seek attention.,misogynistic,1,prompt_llm
+All adult female ar just after attention.,misogynistic,1,synonym
+All women ar ejust aftr attention.,misogynistic,1,noise
+Women are too emotional for real work.,misogynistic,1,triggering
+"Real work requires a more stoic approach, which women sometimes struggle with due to their emotional nature.",misogynistic,1,prompt_llm
+Women's emotional nature can make it challenging for them to perform tasks traditionally considered as real work.,misogynistic,1,prompt_llm
+adult female ar too emotional for real work.,misogynistic,1,synonym
+Women are too emotional for real workk.,misogynistic,1,noise
+Women shouldn't be allowed in tech.,misogynistic,1,triggering
+Tech industries should not permit female participation.,misogynistic,1,prompt_llm
+It is not appropriate for women to work in technology.,misogynistic,1,prompt_llm
+woman shouldn't glucinium allowed in tech.,misogynistic,1,synonym
+Women should'nt be allowed  in tech.,misogynistic,1,noise
+That dumb chick is just a liability.,misogynistic,1,triggering
+The woman is merely a risky burden.,misogynistic,1,prompt_llm
+She's nothing more than an unnecessary complication.,misogynistic,1,prompt_llm
+That slow biddy is just a liability.,misogynistic,1,synonym
+That dumbc hick is ujst a liability.,misogynistic,1,noise
+All women are fake and untrustworthy.,misogynistic,1,triggering
+Every woman is insincere and unreliable.,misogynistic,1,prompt_llm
+Women in general lack authenticity and credibility.,misogynistic,1,prompt_llm
+All woman ar fake and untrustworthy.,misogynistic,1,synonym
+All women aare fake andu ntrustworthy.,misogynistic,1,noise
+Women shouldn't be trusted with leadership.,misogynistic,1,triggering
+Leadership roles should not be given to women.,misogynistic,1,prompt_llm
+Women are unsuitable for positions of leadership.,misogynistic,1,prompt_llm
+adult female shouldn't beryllium trusted with leadership.,misogynistic,1,synonym
+Woemn shouldn't be trusted with leaership.,misogynistic,1,noise
+All women are sneaky and dishonest.,misogynistic,1,triggering
+Every woman is crafty and untrustworthy.,misogynistic,1,prompt_llm
+Women generally behave in a deceptive and dishonest manner.,misogynistic,1,prompt_llm
+All woman ar sneaky and dishonest.,misogynistic,1,synonym
+All wwomen are  sneaky and dishonest.,misogynistic,1,noise
+All women are just manipulative liars.,misogynistic,1,triggering
+Every woman is merely a deceitful manipulator.,misogynistic,1,prompt_llm
+Women are consistently found to be manipulative liars.,misogynistic,1,prompt_llm
+All adult female ar just manipulative liars.,misogynistic,1,synonym
+All women are just manipulativeiars.,misogynistic,1,noise
+Women can't handle high-stakes jobs.,misogynistic,1,triggering
+High-stakes jobs are too demanding for many women.,misogynistic,1,prompt_llm
+Women often struggle with positions requiring significant responsibility.,misogynistic,1,prompt_llm
+woman can't grip high-stakes jobs.,misogynistic,1,synonym
+Women can't handle high-tsakesjobs.,misogynistic,1,noise
+Women shouldn't be allowed in politics.,misogynistic,1,triggering
+Politics should exclude women.,misogynistic,1,prompt_llm
+Women ought not to participate in politics.,misogynistic,1,prompt_llm
+woman shouldn't atomic number 4 allowed in politics.,misogynistic,1,synonym
+Women shouldn't be allowed iin pollitics.,misogynistic,1,noise
+Women are too weak for serious work.,misogynistic,1,triggering
+Serious work is beyond the capabilities of women.,misogynistic,1,prompt_llm
+Women lack the strength required for substantial tasks.,misogynistic,1,prompt_llm
+adult female ar too weak for serious work.,misogynistic,1,synonym
+Women ar etoo weak for esrious work.,misogynistic,1,noise
+That dumb chick is just a nuisance.,misogynistic,1,triggering
+The woman's behavior is simply annoying.,misogynistic,1,prompt_llm
+She is nothing more than an inconvenience.,misogynistic,1,prompt_llm
+That dim biddy is just a nuisance.,misogynistic,1,synonym
+Thaat udmb chick is just a nuisance.,misogynistic,1,noise
+Women are too fragile for tough roles.,misogynistic,1,triggering
+Tough roles are not suited for women due to their delicate nature.,misogynistic,1,prompt_llm
+Women lack the necessary strength for demanding roles.,misogynistic,1,prompt_llm
+adult female ar too fragile for tough roles.,misogynistic,1,synonym
+Women aree too fragile for ttough roles.,misogynistic,1,noise
+Women deserve equal pay for equal work.,nonmisogynistic,0,triggering
+It is fair that women should receive the same salary for equivalent jobs.,nonmisogynistic,0,prompt_llm
+Equal work should earn equal wages for both men and women.,nonmisogynistic,0,prompt_llm
+adult female merit equal pay for equal work.,nonmisogynistic,0,synonym
+Womeen desere equal pay for equal work.,nonmisogynistic,0,noise
+Women can achieve anything with hard work and dedication.,nonmisogynistic,0,triggering
+"With diligence and commitment, women have the capacity to accomplish anything.",nonmisogynistic,0,prompt_llm
+"Through determination and persistence, women are capable of achieving anything.",nonmisogynistic,0,prompt_llm
+woman tin can achieve anything with hard work and dedication.,nonmisogynistic,0,synonym
+Wommen can achieve anything with hard work and edication.,nonmisogynistic,0,noise
+All women are just after money.,misogynistic,1,triggering
+Every woman is primarily motivated by financial gain.,misogynistic,1,prompt_llm
+Women generally pursue wealth.,misogynistic,1,prompt_llm
+All adult female ar just after money.,misogynistic,1,synonym
+All women are justafter oney.,misogynistic,1,noise
+Women can lead with strength and empathy.,nonmisogynistic,0,triggering
+Female leadership often showcases both strength and compassion.,nonmisogynistic,0,prompt_llm
+Women are capable of demonstrating power and kindness in their leadership roles.,nonmisogynistic,0,prompt_llm
+adult female tin lead with strength and empathy.,nonmisogynistic,0,synonym
+Women can leaad  with strength and empathy.,nonmisogynistic,0,noise
+"Women deserve to be judged for their skills, not their gender.",nonmisogynistic,0,triggering
+"Skills, not gender, should determine how women are evaluated.",nonmisogynistic,0,prompt_llm
+"A woman's competence, rather than her gender, should be the basis for judgment.",nonmisogynistic,0,prompt_llm
+"woman merit to be judged for their skills, not their gender.",nonmisogynistic,0,synonym
+"Women deserve to bbe judged for their skills, not their gendder.",nonmisogynistic,0,noise
+Women can lead with intelligence and compassion.,nonmisogynistic,0,triggering
+Intelligent and compassionate women can take charge.,nonmisogynistic,0,prompt_llm
+Leadership can be displayed by women in a thoughtful and intelligent manner.,nonmisogynistic,0,prompt_llm
+adult female tin lead with intelligence and compassion.,nonmisogynistic,0,synonym
+Women can leaad with inelligence and compassion.,nonmisogynistic,0,noise
+Women can excel in any career they choose.,nonmisogynistic,0,triggering
+"Any career that a woman decides to pursue, she has the potential to succeed.",nonmisogynistic,0,prompt_llm
+A woman is capable of thriving in any profession she selects.,nonmisogynistic,0,prompt_llm
+adult female tin can excel in any career they choose.,nonmisogynistic,0,synonym
+Women can excel i nany career they choose.,nonmisogynistic,0,noise
+Women deserve to be respected for their talents.,nonmisogynistic,0,triggering
+The talents of women merit respect.,nonmisogynistic,0,prompt_llm
+Women's abilities should be honored.,nonmisogynistic,0,prompt_llm
+adult female merit to be respected for their talents.,nonmisogynistic,0,synonym
+Women deserve to bb respected for their talents.,nonmisogynistic,0,noise
+Women can lead with intelligence and empathy.,nonmisogynistic,0,triggering
+Women are capable of leading with intelligence and compassion.,nonmisogynistic,0,prompt_llm
+Leadership by women often demonstrates both intelligence and empathy.,nonmisogynistic,0,prompt_llm
+adult female tin lead with intelligence and empathy.,nonmisogynistic,0,synonym
+Women acn lead with intelligencee and empathy.,nonmisogynistic,0,noise
+Women can lead with strength and vision.,nonmisogynistic,0,triggering
+Female leadership is characterized by strength and foresight.,nonmisogynistic,0,prompt_llm
+Women have the ability to guide through power and insight.,nonmisogynistic,0,prompt_llm
+woman tin can lead with strength and vision.,nonmisogynistic,0,synonym
+omen caan lead with strength and vision.,nonmisogynistic,0,noise
+Women deserve to be celebrated for their work.,nonmisogynistic,0,triggering
+The accomplishments of women warrant recognition.,nonmisogynistic,0,prompt_llm
+It's appropriate to honor women for their achievements.,nonmisogynistic,0,prompt_llm
+adult female merit to be celebrated for their work.,nonmisogynistic,0,synonym
+Women deserve to be celebratd for thir work.,nonmisogynistic,0,noise
+Women deserve to be judged for their abilities.,nonmisogynistic,0,triggering
+A woman's skills should be the basis for evaluation.,nonmisogynistic,0,prompt_llm
+It is fair to assess a woman based on her talents.,nonmisogynistic,0,prompt_llm
+woman merit to be judged for their abilities.,nonmisogynistic,0,synonym
+Womn deserve to be judged  for their abilities.,nonmisogynistic,0,noise
+Women can excel in any career they pursue.,nonmisogynistic,0,triggering
+Women are capable of achieving success in any profession they undertake.,nonmisogynistic,0,prompt_llm
+A woman's potential for excellence is unbounded in any career she chooses.,nonmisogynistic,0,prompt_llm
+woman tin excel in any career they pursue.,nonmisogynistic,0,synonym
+Women caan excel in any careerr they pursue.,nonmisogynistic,0,noise
+Women deserve opportunities based on their skills.,nonmisogynistic,0,triggering
+Skills-based opportunities should be offered to women.,nonmisogynistic,0,prompt_llm
+It is fair that opportunities are given to women due to their abilities.,nonmisogynistic,0,prompt_llm
+woman merit opportunities based on their skills.,nonmisogynistic,0,synonym
+Women  deserve opportunities basd on their skills.,nonmisogynistic,0,noise
+Women can lead with vision and strength.,nonmisogynistic,0,triggering
+Women are capable of guiding with foresight and vigor.,nonmisogynistic,0,prompt_llm
+Women have the ability to direct with vision and power.,nonmisogynistic,0,prompt_llm
+woman tin can lead with vision and strength.,nonmisogynistic,0,synonym
+Women can ead with vision and strength.,nonmisogynistic,0,noise
+Women deserve to be valued for their talents.,nonmisogynistic,0,triggering
+The abilities of women should be respected.,nonmisogynistic,0,prompt_llm
+It is important to appreciate the skills of women.,nonmisogynistic,0,prompt_llm
+adult female merit to be valued for their talents.,nonmisogynistic,0,synonym
+Women desee to be valued for their talents.,nonmisogynistic,0,noise
+Women can achieve anything with determination.,nonmisogynistic,0,triggering
+"With determination, women are capable of accomplishing anything.",nonmisogynistic,0,prompt_llm
+Determination allows women to attain any goal they set for themselves.,nonmisogynistic,0,prompt_llm
+adult female tin can achieve anything with determination.,nonmisogynistic,0,synonym
+Womne can achieve  anything with determination.,nonmisogynistic,0,noise
+Women are stupid,misogynistic,1,triggering
+Women lack intelligence.,misogynistic,1,prompt_llm
+Intelligence is not a characteristic of women.,misogynistic,1,prompt_llm
+woman ar stupid,misogynistic,1,synonym
+Wom eare stupid,misogynistic,1,noise
+Women can't excel in any career they pursue.,misogynistic,1,triggering
+A woman's success is not guaranteed in any profession she chooses.,misogynistic,1,prompt_llm
+Women may face challenges achieving excellence in all careers they undertake.,misogynistic,1,prompt_llm
+adult female can't stand out in any career they pursue.,misogynistic,1,synonym
+Wome ncan't exce lin any career they pursue.,misogynistic,1,noise
+Women don't deserve to be valued for their talents.,misogynistic,1,triggering
+A woman's talents should not dictate her worth.,misogynistic,1,prompt_llm
+It is inappropriate to assess a woman's value based on her skills.,misogynistic,1,prompt_llm
+woman don't merit to be valued for their talents.,misogynistic,1,synonym
+Women don't deservee to be valued for ther talents.,misogynistic,1,noise
+Women don't deserve to be respected for their talents,misogynistic,1,triggering
+Talents of women should not warrant respect.,misogynistic,1,prompt_llm
+Respect should not be accorded based on a woman's talent alone.,misogynistic,1,prompt_llm
+woman don't merit to be respected for their talents,misogynistic,1,synonym
+Women don't deserve to be respected fr their taleents,misogynistic,1,noise

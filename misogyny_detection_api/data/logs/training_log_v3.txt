@@ -1,0 +1,3 @@
+Model: misogyny_model_v3.pt
+Data: augmented_dataset_v3.csv
+Acc: 0.9338, Prec: 0.8741, Rec: 0.7835, F1: 0.8264, AUC: 0.9610

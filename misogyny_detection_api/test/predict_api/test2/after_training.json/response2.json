@@ -1,0 +1,2947 @@
+{
+    "results": [
+        {
+            "input": "Women are only good for cooking and cleaning; they have no place in serious conversations or leadership roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It's pathetic how some women act like they deserve respect when they clearly lack any qualities worth admiring.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.56%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Most women are too emotional and irrational to make sound decisions in professional environments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "A woman's opinion is usually irrelevant unless it aligns with what men think; otherwise, it’s just noise.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.87%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are manipulative and use their looks to get ahead, not their skills or intelligence.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "If a woman complains about inequality, she just wants special treatment and is unwilling to work hard.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The idea that women can be as strong or capable as men is a joke and completely unrealistic.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "70.67%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Whenever women speak up, it’s often just whining about trivial things that don’t matter in the real world.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You can’t trust women to be loyal or faithful; their nature is to be deceitful and untrustworthy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It's incredible how women expect to be praised for basic decency when men achieve actual accomplishments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "68.11%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending women are tough; they break down as soon as real pressure hits unlike men who are resilient.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.43%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should know their place and not try to compete in spaces that require strength and courage.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "All women care about are appearance and attention, which makes them superficial and shallow beings.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "If you want a competent leader, look elsewhere; women simply lack the backbone for such roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Calling out women’s hypocrisy is necessary because they often act like victims to avoid accountability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have a natural tendency to gossip and create drama, destroying any productive environment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No matter how much society tries, women will never match men’s intellectual or physical abilities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women use emotional manipulation to get what they want rather than honest communication.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The majority of women are better off sticking to tasks like childcare instead of complex careers.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You can see a woman’s true nature by how quickly she panics in situations requiring logic and calmness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s ambitions are usually shallow and self-centered, not focused on real growth or contribution.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Respecting women as a whole is a flawed concept because many don’t deserve it given their behavior.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "89.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women exaggerate their struggles and portray themselves as oppressed to gain unnecessary sympathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.25%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The idea that women should have equal power is dangerous because they lack the temperament for it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to use their sexuality as a weapon, undermining genuine merit and respect.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.68%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It’s laughable how women expect equality but often refuse to accept equal responsibility or criticism.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.03%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Female leaders often fail because they prioritize feelings over facts, leading to poor outcomes.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often rely on charm and emotional appeals rather than competence to advance socially.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Accepting women as equals is foolish because their priorities and instincts do not match men’s.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are naturally jealous and catty, which makes teamwork and collaboration difficult with them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have no real contribution to society beyond nurturing roles, which limits their overall value.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "If you empower women too much, they will take advantage and disrupt established social orders.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Most women lack critical thinking skills and prefer to follow popular opinions blindly.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s so-called empowerment is often about undermining men rather than genuine self-improvement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It's naive to believe women can handle leadership without causing chaos or emotional breakdowns.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are overly sensitive and cannot handle constructive criticism like men do professionally.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The obsession with women’s rights has created an unrealistic standard that discredits true merit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "53.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women don’t respect boundaries and often push their agendas aggressively under the guise of equality.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Relying on women for important decisions is risky because emotions cloud their judgment frequently.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.63%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often pretend to be victims but are quick to manipulate situations for their benefit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Complaining about misogyny while acting entitled just makes women look even more unreasonable.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "93.38%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women shouldn’t be surprised when they face competition because they don’t bring the same rigor as men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The cultural push to elevate women over men is backwards and harms society’s natural balance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "50.24%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women use empathy selectively to justify selfish actions and dismiss legitimate criticism against them.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women talking about empowerment often end up demeaning men and fostering divisiveness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It's obvious women aren’t built for high-stress roles that demand toughness and logical discipline.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The fact that women dominate in social media virtue signaling shows their lack of real accomplishment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are a distraction in the workplace, often more interested in social dynamics than actual work.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "If a woman is assertive, she’s labeled aggressive; if passive, she’s ignored—there’s no winning for them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women depend too heavily on others’ validation instead of building their own skills and confidence.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The narrative that women are oppressed is a manufactured tale that ignores biological and social realities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "86.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Many women reject accountability and instead blame men for their life choices and failures.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership is often about optics and appearances rather than delivering tangible results.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to undermine other women due to competitiveness rooted in insecurity rather than solidarity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "There’s a reason most tech and engineering fields remain male-dominated: women lack the interest and capability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are emotionally unstable and traditionally have been excluded from decision-making to protect society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.31%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The world would be better off if women focused more on nurturing and less on disrupting established roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.36%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Praising women for basic competence inflates unrealistic expectations and devalues real achievement.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s supposed progress is a myth; they continue to lag behind men in critical areas like STEM and leadership.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "77.06%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s perspectives are often biased by emotion and personal grievances, leading to skewed conclusions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women use victimhood as a strategy to avoid meaningful discussion and shift responsibility to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.33%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women cannot separate personal feelings from professional matters, impairing their effectiveness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have inherent limitations that prevent them from excelling equally in all fields compared to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It's a mistake to equate women’s success with capability when many rely on quotas and favoritism.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often bring drama and conflict into professional settings, making collaboration difficult.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.64%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The push for women’s rights has ironically created environments hostile to merit and fairness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "58.23%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to prioritize superficial values and aesthetics over substantial contributions or innovation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Most women do not have the mental toughness required for challenging or competitive environments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s influence in politics has led to softer policies that compromise national strength and security.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The expectation that women can juggle everything perfectly is unrealistic and leads to disappointment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.23%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women treat conversations as competitions to prove superiority rather than exchange ideas in good faith.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.42%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women who fail often blame patriarchal systems instead of recognizing their own accountability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are less logical and more prone to biased reasoning based on emotions and social biases.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.55%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The belief in women’s inherent equality in all aspects ignores biological and behavioral differences.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.08%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s demands for equality are too often about gaining privileges rather than achieving fairness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women frequently exaggerate instances of discrimination to gain advantage in social and professional domains.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "It’s rare to find a woman who does not expect special treatment even in high-pressure environments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.39%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social and emotional captivation limits their ability to focus on long-term strategic thinking.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.47%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s sensitivity to criticism triggers defensive behavior that obstructs real self-improvement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often undermine men subtly by questioning their competence without providing alternatives.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s friendships are often cliquey and exclusive, leading to toxic social dynamics.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s professional successes are often overrated due to affirmative policies rather than merit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.47%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women lack the stamina for physically demanding tasks, making many roles unsuitable for them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The media’s glorification of women’s achievements ignores the disproportionate failures compared to men.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "89.01%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women insist on equal opportunity but shy away from equal responsibility in high-stakes situations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inherent emotional nature makes them inappropriate for roles demanding detached rationality.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often prioritize personal relationships over professional integrity and responsibilities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s narratives of oppression do not hold when one considers global trends of female achievement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "85.04%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to be risk-averse and prefer safe choices, limiting innovation and breakthroughs.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Being a victim seems to be the default mode for many women defending their social or professional flaws.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.01%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s reliance on appearance and charm overshadows genuine talent or intellectual capacity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often cannot handle rejection or failure maturely, resorting to blame and excuses instead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Younger women are increasingly entitled and unwilling to work for accomplishments without handouts.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s moral reasoning is often skewed by cultural narratives rather than objective ethical principles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.06%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to create in-group/out-group dynamics that foster exclusion rather than inclusion.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.38%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women expect equal respect but rarely reciprocate it with respect for men’s perspectives or experiences.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.22%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership styles are often criticized for being too empathetic, which some see as weak.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have trouble facing hard truths about their limitations and instead resort to denial tactics.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The assumption that women are natural caregivers limits their opportunities for diverse career paths.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.13%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional expressions often invite dismissiveness rather than genuine understanding.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women use social media to amplify grievances disproportionately, creating a skewed public discourse.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "63.0%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment movements sometimes alienate men who feel unfairly targeted or blamed.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.0%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women struggle more with logic-intensive tasks due to socially reinforced gender roles and expectations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s competitiveness often manifests in backstabbing rather than constructive rivalry.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s narratives around victimhood inhibit honest dialogue about gender dynamics and personal growth.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.34%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to rely on social permission and approval rather than self-driven ambition for success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.64%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women rarely take responsibility for failures and are quick to attribute setbacks to external factors.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s average risk tolerance is lower, leading to more conservative approaches in business and innovation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "73.21%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often manipulate social situations to avoid accountability and maintain their image.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social conditioning emphasizes appearance and relationships over achievement and competence.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in politics has sometimes shifted focus to feel-good policies lacking substance.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.11%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional intelligence can be overestimated and used to mask insecurities or lack of skill.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.1%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s sensitivity to criticism frequently isolates them from constructive feedback and growth.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s insistence on equality should come with acceptance of equal scrutiny and responsibility.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "80.34%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are often rewarded more for conforming to social expectations than for true innovation or leadership.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.24%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s cultural narratives around gender roles continue to undermine genuine equality efforts.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "91.64%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s demand for safe spaces often limits open and challenging discussions on important topics.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social networks are frequently exclusionary, reinforcing stereotypes rather than breaking them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s success stories often highlight exceptions rather than broad societal progress.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s pressure to balance career and family leads to suboptimal outcomes in both areas.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often expect support and shielding from criticism rather than resilience training in professional spaces.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s typical emotional responses to stress can make high-pressure job environments difficult.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women tend to approach conflicts with emotional appeals that complicate resolutions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inclusion efforts sometimes translate into lowering standards rather than raising capabilities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s biases often prevent them from fairly assessing performance, especially in competitive spaces.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s tendency to focus on feelings creates challenges when objective decisions are needed quickly.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women expect praise simply for participation rather than for significant achievements.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "94.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often cluster together socially, fostering cliques that undermine broader inclusivity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s narratives of oppression can discourage men from engaging in gender equality initiatives.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "85.32%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s biological cycles and related factors sometimes impact their consistency and availability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s sensitivity to social dynamics can both help and hinder collaborative processes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.3%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s motivations can be swayed more by social approval than by intrinsic goals or self-drive.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "64.18%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s community-building often involves high emotional labor that goes unrewarded professionally.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empathy, while a strength, can limit their ability to make tough but necessary decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.55%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s representation quotas risk being perceived as undeserved and create resentment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "87.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women sometimes exploit social perceptions of vulnerability to evade accountability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.64%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s historical exclusion has created unique challenges but does not justify all current privileges.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "59.99%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s portrayals in media often emphasize victimhood rather than agency and resilience.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s desires for equality should be paired with a realistic assessment of societal structures.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "88.54%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional appeals can mask legitimate competence gaps or errors in judgment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "81.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social conditioning discourages assertiveness, limiting their leadership impact.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women selectively emphasize discrimination experiences that support their worldview.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.19%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are less likely to pursue risky but potentially rewarding career paths compared to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s preference for consensus can slow down decision-making in competitive environments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.03%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy must include honest discussions about mutual accountability and growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.36%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often depend on social validation more than men, impacting their confidence levels.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s collaboration styles may prioritize harmony over innovation and challenge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "77.25%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women sometimes resist feedback in professional settings because it conflicts with self-image goals.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s networks often prioritize social capital over objective performance measures.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "94.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social roles continue to evolve but are still influenced by traditional expectations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "82.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s expectations for recognition often exceed their actual contributions or impact.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional processing styles impact their responses to workplace stress differently than men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "94.01%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s discourse on equality sometimes neglects the complexity of integrating diverse perspectives.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.99%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in leadership has grown but still faces systemic and cultural resistance.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "51.16%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s socialization affects their communication styles and interpersonal dynamics at work.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s pursuit of equality needs to include equal acceptance of competition and criticism.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "53.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s typical roles in communities emphasize care which may limit professional advancement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional resilience differs from men’s, influencing stress management and problem-solving.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s narratives often frame themselves as perpetual victims rather than agents of change.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social bonding fosters supportive environments but can also alienate outsiders.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s communication often uses indirect approaches which may reduce clarity in conflict situations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership styles often emphasize empathy but may lack decisiveness in critical moments.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy for rights must balance ambition with responsibility and mutual respect.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "62.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women often balance multiple social expectations, creating unique pressures in private and public roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s historical progress offers inspiration but also highlights ongoing challenges in equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s professional growth is sometimes hindered by societal expectations of caregiving roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.35%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s success requires navigating complex social and cultural barriers beyond professional skills.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s emotional intelligence is valuable but must be integrated with logic for balanced decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social empowerment movements continue to evolve with nuanced understanding of gender issues.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.07%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s communication styles enrich discourse but require adaptation in diverse professional contexts.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "96.58%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership potential is immense but requires overcoming entrenched biases and stereotypes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "89.37%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s pursuit of equality benefits from fostering allyship across gender lines and social groups.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s experiences bring critical perspectives that enhance creativity and problem-solving abilities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s professional achievements highlight their capabilities and challenge outdated gender norms.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.13%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions across fields demonstrate the importance of diversity for innovation and progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.26%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment is fundamental to achieving just and equitable societies worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices grow louder in shaping policies that reflect inclusive values and human rights.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s resilience under adversity exemplifies strength that inspires future generations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "90.3%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s roles in families and communities affirm their vital contributions beyond professional arenas.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.41%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements in science, art, and leadership pave the way for more inclusive futures.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.58%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy affirms the need for equal opportunities through education and economic participation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.03%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s experiences foster empathy and understanding essential for effective social cohesion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.66%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership fosters collaborative environments that value diverse viewpoints and creativity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.38%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s determination to overcome barriers exemplifies courage and perseverance in all spheres.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in governance strengthens democracy and accountability across societies.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s success stories inspire others to pursue their goals regardless of societal constraints.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.12%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment initiatives promote access to education and healthcare vital for wellbeing.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s perspectives enrich discussions on social justice, equity, and policy innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s engagement in STEM fields challenges stereotypes and broadens scientific horizons.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "73.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions to arts and culture preserve heritage while driving innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in business drives ethical practices and corporate social responsibility.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy supports victims of violence and promotes human rights protection globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s influence in media challenges traditional narratives and promotes inclusive representation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "74.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s mentorship programs nurture future leaders across genders and disciplines.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements demonstrate the importance of breaking glass ceilings everywhere.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.44%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices are essential in addressing climate change and advocating sustainable solutions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "87.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s economic participation fuels growth and reduces poverty in communities worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.58%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s educational attainment continues to rise, opening new opportunities across careers.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.59%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social movements have historically advanced democracy and human rights progress.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.87%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in peacebuilding has proven vital in conflict resolution and recovery.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "76.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s health initiatives focusing on reproductive rights improve quality of life globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s entrepreneurship fosters innovation and job creation, contributing to economic diversity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s networks provide critical support and solidarity for personal and professional growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s representation in politics encourages policies benefiting families and marginalized groups.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "73.46%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices in technology challenge biases and create more inclusive digital spaces.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s role in education shapes future generations with values of equality and justice.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in sports promotes health, teamwork, and challenges gender stereotypes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "86.2%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in nonprofits addresses social inequalities and advocates vulnerable populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.29%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s rights advocacy promotes legal reforms that protect equality and personal freedoms.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s diverse experiences enhance creativity and innovation across industries and disciplines.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s cultural contributions preserve identity while inspiring global artistic expression.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s efforts to close gender gaps improve economic and social outcomes everywhere.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s commitment to family and career demonstrates resilience and multifaceted capabilities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.04%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in crisis situations shows adaptability and effective problem-solving skills.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.45%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s pursuit of equity uplifts not only themselves but whole communities and nations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements challenge outdated biases and underscore the importance of inclusion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.65%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices help shape social norms towards greater fairness, respect, and dignity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.54%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in science enhances research with unique perspectives and methodologies.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s role in media creation influences culturally relevant and diverse storytelling.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment through education creates a foundation for lifelong opportunities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social advocacy strengthens networks supporting marginalized and underserved groups.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership fosters cultures of fairness, respect, and collaborative success.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.27%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions to public health advance community well-being and resilience.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in policymaking ensures diverse needs and viewpoints are addressed.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.04%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s creativity drives innovation in technology, art, science, and business sectors.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy helps dismantle systemic barriers impacting marginalized populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.1%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s roles as caregivers extend into leadership through empathy and holistic approaches.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.98%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s progress in sports challenges norms and opens doors for future generations.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "72.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in environmental work is key to creating sustainable futures.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.41%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s engagement in education improves access and quality for children worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.38%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership styles often emphasize collaboration, inclusion, and empowerment.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.37%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s resilience in adversity shows strength that inspires and motivates entire communities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions enhance cultural diversity and promote mutual understanding globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s initiatives addressing gender-based violence protect rights and restore dignity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s active citizenship strengthens democratic institutions and social accountability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s creative expression fosters cultural richness and transformative social dialogue.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s economic empowerment contributes to poverty reduction and financial independence.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s pursuit of STEM careers expands scientific talent and technological innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s mentorship cultivates leadership skills across genders and diverse backgrounds.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inclusion in decision-making improves policies to be more equitable and effective.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.09%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions to public discourse promote tolerance, justice, and peaceful coexistence.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.42%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in healthcare improves patient outcomes and promotes inclusive access.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy for educational equity enables marginalized groups to thrive.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.4%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in global governance promotes peace, security, and human rights respect.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.27%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s artistic endeavors enrich societies through diverse and authentic cultural narratives.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.45%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in entrepreneurship drives innovation and community development.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment efforts create supportive environments for leadership and growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.23%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s active engagement in politics fosters representative and responsive governance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s success stories break stereotypes and inspire future leaders everywhere.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.05%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s dedication to philanthropy supports sustainable community development projects.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s role in scientific discovery expands knowledge and solutions to complex problems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy raises awareness of social injustices and mobilizes collective action.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership promotes organizational cultures that value diversity and inclusion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.67%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s engagement in technology helps develop products that serve diverse populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.16%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s educational achievements empower them to contribute effectively to society.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.16%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social initiatives improve health, education, and welfare in underserved areas.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.82%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s creativity and leadership enhance social enterprises addressing critical challenges.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s involvement in peace processes contributes unique perspectives and reconciliatory approaches.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment through skills training boosts economic independence and confidence.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s roles in family and work reflect resilience and multifaceted societal contributions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.99%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership facilitates cross-sector collaboration for sustainable development goals.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy informs policies promoting gender equality and social justice globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social entrepreneurship addresses community needs with innovative solutions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in cultural preservation maintains heritage while embracing change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.07%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s active civic engagement strengthens democratic participation and policy responsiveness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements in sports exemplify determination, excellence, and breaking barriers.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment enables participation in decision-making at all societal levels.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership fosters inclusive and equitable environments in workplaces and communities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions to science and technology advance societal progress and innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.63%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social movements have historically propelled milestone achievements in human rights.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "91.21%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s perspectives enrich global discussions on sustainability, peace, and equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s mentorship supports next-generation leaders through knowledge sharing and encouragement.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s artistic and cultural outputs inspire dialogue and foster understanding among diverse groups.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy for educational access ensures that future generations have equal opportunities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.64%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in health sectors promotes comprehensive and inclusive care systems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in governance enhances transparency and societal trust in institutions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.0%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s entrepreneurial ventures stimulate job creation and economic diversification.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment initiatives focus on education, health, safety, and economic growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "86.03%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices contribute significantly to the arts, sciences, politics, and social justice.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.52%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inclusion in STEM is increasing, challenging stereotypes and fostering innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "68.36%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s determination and resilience are vital to achieving equitable and just societies.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.34%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s active participation in community-building nurtures cohesion and mutual support.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership styles emphasize collaboration, empathy, and inclusive decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "68.09%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s efforts to address gender-based violence have raised global awareness and action.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "81.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements showcase the importance of dismantling barriers to equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.33%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s influence in policymaking drives progress towards more equitable social systems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions to technological advancements benefit societies worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s engagement in environmental preservation promotes sustainable resource management.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment is central to realizing human rights and dignified living standards.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s educational pursuits open pathways to leadership roles across all sectors.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.42%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s cultural contributions enrich societies and celebrate diverse identities globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in humanitarian efforts provides critical support to vulnerable populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy champions inclusive policies that reflect the needs of all citizens.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.06%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in arts and literature offers powerful narratives that shape culture.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.49%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s commitment to family and professional growth exemplifies balance and dedication.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s roles as educators influence the development of informed and responsible citizens.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inclusion in leadership fosters environments promoting fairness and opportunity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s social innovation addresses challenges with creativity and collaborative spirit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.25%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s resilience in adversity highlights the strength necessary for societal transformation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment benefits families, communities, and nations alike.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s voices demand recognition, respect, and equitable treatment worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "93.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in economic activities drives inclusive growth and development.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.56%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s stewardship in environmental initiatives ensures preservation for future generations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.19%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in healthcare improves global health outcomes and accessibility.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s determination to overcome obstacles inspires ongoing progress toward equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.64%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy supports rights protection, policy reform, and social justice efforts.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.57%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions strengthen communities through education, culture, and governance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.11%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements demonstrate the vital role of diversity in innovation and leadership.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.68%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s inclusive leadership fosters collaborative, empathetic, and effective decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.48%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s active engagement transforms societies into more just and equitable places.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.59%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s empowerment and education are fundamental to achieving global sustainable development.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.15%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s rich cultural expressions celebrate heritage while advancing social progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation in peacebuilding promotes reconciliation and long-lasting stability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s mentorship and support networks cultivate confident future leaders of all genders.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s commitment to social justice advances equality and human dignity universally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.21%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s influence shapes policies that create inclusive, fair, and transparent governance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s entrepreneurial spirit drives economic diversification and community resilience.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership roles continue expanding, breaking barriers and inspiring generations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.6%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s advocacy raises crucial awareness and mobilizes actions to end discrimination.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.46%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s achievements symbolize humanity’s collective progress toward equality and fairness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.98%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s perspectives enrich global dialogues promoting peace, justice, and sustainability.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.06%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s continued empowerment is essential to unlocking full societal potential and harmony.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.76%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s contributions enhance all aspects of public life, fostering inclusive development.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.45%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s leadership in diverse fields underscores importance of equal opportunity and respect.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.67%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s participation ensures that decision-making includes varied experiences and viewpoints.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.57%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s efforts inspire transformative changes toward a more just and equitable world.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women’s determination and courage remain powerful forces driving social evolution and empowerment.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        }
+    ]
+}

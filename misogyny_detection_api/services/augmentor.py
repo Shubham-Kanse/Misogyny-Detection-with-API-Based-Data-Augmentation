@@ -9,7 +9,7 @@ from misogyny_detection_api.config import (
     LOW_CONF_LOG, DATA_DIR, SYNTHETIC_DATA_PATH,
     AUGMENTED_DATASET_PATH, MODEL_DIR,
     USE_PROMPT_BASED, USE_SYNONYM_REPLACEMENT,
-    USE_RANDOM_NOISE, USE_LABEL_VERIFICATION
+    USE_RANDOM_NOISE, USE_LABEL_VERIFICATION, RETRAIN_ENDPOINT
 )
 from misogyny_detection_api.services.llm_prompting import classify_label, generate_prompt_variants
 from misogyny_detection_api.services.augment_strategies import apply_synonym_replacement, apply_typo_noise
@@ -189,7 +189,7 @@ def augment_inputs():
     # --- Trigger retrain ---
     try:
         print("🔁 Calling retrain API...")
-        response = requests.post("http://localhost:8000/retrain")
+        response = requests.post(RETRAIN_ENDPOINT)
         if response.status_code == 200:
             print("✅ Retrain API triggered successfully.")
         else:

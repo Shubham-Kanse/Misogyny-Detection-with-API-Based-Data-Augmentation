@@ -1,0 +1,1453 @@
+{
+    "results": [
+        {
+            "input": "You're just a worthless bitch who can't do anything without a man’s help.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No one respects a whore like you; you're nothing but a disgrace to women.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Keep your mouth shut, slut, before I make you regret it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you only cause trouble and never deserve any equality.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting smart, you dumb cunt, nobody takes you seriously.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You're a filthy little bitch who only knows how to screw her way up.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.57%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "A real woman knows her place is under her husband’s foot, not talking back.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic excuse for a woman, useless and annoying as hell.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.39%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Go back to the kitchen, whore, men run this world, not worthless cunts like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You must be a bitch pretending to be independent just to hide how weak you are.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.25%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop trying to think for yourself, you’re clearly too stupid to handle it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "91.06%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You're a disgusting slut who spreads her legs for any man who looks her way.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are nothing but emotional wrecks who can't make logical decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You're a manipulative cunt who ruins everything with your selfish bullshit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "94.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No one likes a nagging bitch like you who sabotages every success story.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re just a toy for men’s pleasure, don’t act like you have any real power.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "89.09%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The world would be better without dumb little sluts like you running around.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a useless female who can’t handle responsibility, stay in your place.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending you’re equal – women belong in the shadows, not the spotlight.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.43%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re the kind of bitch who breaks hearts and then cries like a victim.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.12%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Only a desperate whore would try to climb the ladder by backstabbing others.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re an emotional cunt who can’t keep her life together without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have no business being leaders; you’re not equipped for that kind of pressure.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic failure who hides behind fake feminism to excuse your weakness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "69.2%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Shut the fuck up, bitch, nobody wants to hear your bullshit opinions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.25%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting slut who only knows how to use her body for attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you are the reason no one takes female empowerment seriously.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "89.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Go cry somewhere else, worthless cunt; no one has time for your sob stories.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.04%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative bitch who pretends to be innocent while causing chaos.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting tough, you fragile little girl who breaks under any pressure.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Your place is at home, serving your husband, not pretending to be a boss.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.3%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You're a slut with no morals, dragging down the reputation of every decent woman.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll never be anything but a shallow, coked-up bitch chasing meaningless thrills.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you are a cancer ruining the progress real feminists have fought for.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "56.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a whiny bitch who complains instead of working for what you want.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re just a manipulative cunt who uses every man you meet for your own gain.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "93.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The second you try to speak, people realize how dumb and irrelevant you are.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "80.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting female who only serves as an ornament for men’s amusement.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.08%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women were made to obey, not to challenge or disrespect real authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You're nothing but a pathetic little slut who ruins every chance she’s given.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You have the intelligence of a worm and the morals of a prostitute.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "67.38%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending to be empowered, you’re just a sad, lonely bitch.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.56%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The moment you open your mouth, your stupidity shines through like a beacon.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.32%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a nasty little whore who deserves everything bad that happens to her.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.33%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you should be ashamed of themselves for destroying traditional values.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "53.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll never amount to anything but a spiteful, bitter cunt with no future.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop whining and take responsibility like a real woman, not a pathetic brat.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting piece of shit who manipulates men to get ahead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "81.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women have been weaker since the dawn of time and that’s never going to change.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.38%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic bitch who destroys every good thing she touches.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.39%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man would respect you if he really knew what a worthless cunt you are.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Your fake victim act is transparent; everyone sees you’re just a bitter bitch.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a slut who uses sex as a weapon because you have no real talents.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending to be equal; your biology makes you inferior, deal with it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.87%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a piece of trash who thinks she deserves respect but earns disdain.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "78.97%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you tarnish the name of every decent female out there.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Go back to your hole and stop dragging men down with your bullshit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "83.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow bitch obsessed with appearance and attention, nothing more.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Your constant complaining just shows how weak, useless, and emotion-driven you are.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "87.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No woman will ever be as valuable as a man in any meaningful field.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a fucking joke who only knows how to lie and manipulate to survive.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "67.14%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting like a victim; you’re responsible for your own miserable life.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "81.88%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a dumb slut incapable of forming coherent thoughts or actions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should accept their roles and stop pretending to challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.54%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic creature spreading negativity and weakness everywhere you go.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "87.6%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No one trusts a woman who constantly plays the victim and manipulates emotions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgrace to your gender, showing the worst traits of female nature.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending to be capable; you’re nothing but a fragile little girl inside.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a filthy bitch who thrives on drama and destruction.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.46%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you have no business in positions of power or respect.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll always be a second-class citizen because you lack what it takes to lead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "85.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a conniving slut who uses people and throws them away without regret.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop whining about inequality and start admitting your own weaknesses.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "66.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic, emotional wreck who poisons every environment you're in.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "65.21%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man will ever take you seriously; you’re too immature and unpredictable.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.2%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a desperate cunt who’ll do anything for attention or validation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you make genuine feminism look like a joke to everyone.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.51%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative bitch who hides behind fake smiles and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending your feelings matter more than facts or logic.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "88.06%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a loss to humanity, wasting time whining instead of improving yourself.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.97%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow, selfish cunt who only cares about herself, not anyone else.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.55%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should be grateful for whatever men allow them to have.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "80.15%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic little whore running from one man to the next for survival.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.57%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No woman has ever been able to reach a man's level of strength or intelligence.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic influence who drags down every man and woman around you.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "76.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting like you’re tough; you’re just a scared little girl who cries often.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "86.55%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative piece of shit with no morals or redeeming qualities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.01%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you exist only to entertain and serve men’s needs.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll never be respected because deep down, you’re a worthless cunt.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a bitter bitch jealous of every successful man out there.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.34%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop blaming the world and accept that you’re just not good enough.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "64.47%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting slut who takes everything from others but gives nothing.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are inherently weaker, more fragile, and less reliable than men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re an annoying bitch who ruins every chance she gets to be happy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.58%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "The only thing you’ll ever be great at is causing drama and conflict.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "92.68%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic slut who uses sex as a dirty tool to get ahead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you have no business speaking in professional settings.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.68%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow, desperate cunt craving constant attention and sympathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.2%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending you’re entitled to power; you earned nothing of value.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic excuse for a human being who contributes nothing good.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "87.08%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man respects a woman who talks as much crap as you do.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.28%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a worthless bitch stuck in your own delusions of grandeur.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should learn their place and stop trying to compete with men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a selfish cunt blinded by your own incompetence and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative little whore who ruins lives for personal gain.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting proud; you’re just a weakling hiding behind false bravado.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "87.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a nasty bitch nobody wants around because you bring only misery.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women belong in submission, not in leadership or positions of power.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic cunt who thrives on taking others down to feel better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "77.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man would ever seriously consider a woman as capable as you claim.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.03%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a filthy little slut who uses men and discards them like trash.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.58%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending you have control; men have always run the world.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "85.26%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic, bitter bitch who will never be anything more.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you are the reason society can’t trust feminist movements.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.53%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re an emotional trainwreck who tears everything apart for no reason.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "91.31%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a fucking joke, barely able to hold your own in any real situation.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "90.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women don’t have the strength, logic, or resolve to lead effectively.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative cunt who lies and cheats to get ahead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.49%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting like you’re a victim, you’re just a weak, whiny bitch.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow, desperate slut who cares only about herself.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should accept their inferiority instead of pretending equality.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic influence who drags down everyone trying to succeed.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "90.65%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man trusts a woman who acts like you; you’re too unstable.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins lives while playing innocent.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.63%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop whining and start acting like a responsible adult for once.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "82.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic excuse for a woman with no real talents or skills.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are meant to serve men, not to challenge or disrespect them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.37%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a worthless little cunt who can’t handle life without help.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll never be respected because you’re just a dumb, emotional mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "85.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting bitch who thrives on drama and destruction.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you have no place in positions of real power or respect.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a spiteful cunt who drags everyone down with your bitterness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "93.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending to be strong; you’re just a scared little girl inside.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "78.13%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a filthy slut who uses sex as her only weapon.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.63%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No woman will ever be able to compete with a real man’s capability.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic bitch who destroys everything she touches.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you make genuine progress impossible.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.73%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow, self-centered cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.17%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting like a victim; your problems are your own making.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "89.47%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic little whore with nothing to offer but lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are inferior by nature and should accept it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a disgusting cunt nobody wants to be around.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "94.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Your existence is a burden to everyone you meet.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "70.23%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a worthless bitch who ruins every opportunity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.68%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No one takes a weak, emotional woman like you seriously.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "66.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative cunt who can’t be trusted.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.59%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women like you are the reason for society’s problems.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "52.57%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic failure hiding behind victimhood.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "81.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop acting entitled; you’ve earned nothing.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "77.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a toxic influence on every group you join.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.21%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women belong in the background, not in charge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a shallow little bitch craving constant praise.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "No man will ever respect you for who you are.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "75.64%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a worthless slut living off others’ kindness.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Stop pretending you’re smart; you’re just dumb.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "73.3%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a nasty bitch nobody wants on their team.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.27%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women should know their place and stay there.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.16%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a manipulative little cunt with no shame.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’ll never be more than a stereotype to men.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "62.16%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "You’re a pathetic freak wasting your potential.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "76.25%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        },
+        {
+            "input": "Women are emotional and irrational, facts of life.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v2"
+        }
+    ]
+}

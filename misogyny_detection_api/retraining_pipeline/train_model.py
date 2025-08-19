@@ -165,7 +165,7 @@ def update_config(new_model_filename: str):
     # Extract version from filename (e.g., v4 from misogyny_model_v4.pt)
     version_str = new_model_filename.replace("misogyny_model_", "").replace(".pt", "")
     
-    config_path = Path(__file__).resolve().parent.parent / "services" / "config.py"
+    config_path = Path(__file__).resolve().parent.parent / "config.py"
     lines = []
     with open(config_path, "r", encoding="utf-8") as f:
         for line in f:

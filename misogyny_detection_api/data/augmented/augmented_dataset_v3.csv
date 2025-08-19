@@ -23824,3 +23824,827 @@ Talents of women should not warrant respect.,misogynistic,1,prompt_llm
 Respect should not be accorded based on a woman's talent alone.,misogynistic,1,prompt_llm
 woman don't merit to be respected for their talents,misogynistic,1,synonym
 Women don't deserve to be respected fr their taleents,misogynistic,1,noise
+"Quit your nagging, you useless hag, because nobody cares about your pointless opinions or your constant whining.",misogynistic,1,triggering
+"Cease your persistent complaining, for your unhelpful remarks and incessant complaints are falling on deaf ears.",misogynistic,1,prompt_llm
+"End your bothersome harping, as no one is interested in your insignificant views or continuous griping.",misogynistic,1,prompt_llm
+"give up your nagging, you useless hag, because nonentity cares about your pointless opinions or your constant whining.",misogynistic,1,synonym
+"Quit your nagging, you useless hag, because nobody cares about your pointless opinons or your consatnt whining.",misogynistic,1,noise
+"Female drivers are a hazard, swerving and crashing because they lack the spatial awareness men naturally have.",misogynistic,1,triggering
+"Women drivers pose a risk due to their apparent deficiency in spatial perception, often leading to erratic maneuvers and accidents.",misogynistic,1,prompt_llm
+"The driving skills of many women are questionable, with a notable absence of the natural spatial awareness typically possessed by men, resulting in frequent lane changes and collisions.",misogynistic,1,prompt_llm
+"Female driver ar a hazard, swerving and crashing because they lack the spatial awareness men naturally have.",misogynistic,1,synonym
+"Female drivers are a hazard, swerving and crashing becaues they lack the spatial awarenessmen naturally have.",misogynistic,1,noise
+Women thinking they can compete with men is a joke—they’ll never match our strength or intelligence.,misogynistic,1,triggering
+The notion that women can rival men in terms of physical strength and intellectual capacity is laughable.,misogynistic,1,prompt_llm
+It's preposterous to believe that women could ever equal men when it comes to strength or intelligence.,misogynistic,1,prompt_llm
+woman thought they can compete with men is a joke—they’ll never match our strength or intelligence.,misogynistic,1,synonym
+Women thinking they can compete with men is a joke—they’lln ever match ou rstrength or intelligence.,misogynistic,1,noise
+"She’s only here to distract men with her body, not to actually contribute anything of value to the team.",misogynistic,1,triggering
+"Her primary purpose seems to be attracting men with her appearance, rather than providing meaningful contributions to the team.",misogynistic,1,prompt_llm
+"She is present mainly for visual appeal towards men, and her actual contributions to the team are negligible.",misogynistic,1,prompt_llm
+"She’s sole here to deflect men with her body, not to actually contribute anything of value to the team.",misogynistic,1,synonym
+"Shhe’s only here to distract men with her body, noot to actually contribute anything of value to the team.",misogynistic,1,noise
+"You’re too stupid to understand complex issues, so stick to shopping or whatever women do to pass time.",misogynistic,1,triggering
+"Due to a lack of ability to grasp intricate matters, it would be more suitable for you to focus on activities like shopping, which seems to be more aligned with your interests.",misogynistic,1,prompt_llm
+"Given that you struggle with complex issues, it might be best if you stick to leisurely pursuits such as shopping, which appear to be more suited to your capabilities.",misogynistic,1,prompt_llm
+"You’re excessively stupe to understand complex issues, so stick to shopping or whatever women do to pass time.",misogynistic,1,synonym
+"You’re too stupid to understand complex issues, so stck to shopping or whatever women o to pass time.",misogynistic,1,noise
+"Remaining composed under pressure, she navigates high-stakes situations with remarkable poise and focus.",nonmisogynistic,0,triggering
+She manages high-pressure situations with an impressive level of calmness and concentration.,nonmisogynistic,0,prompt_llm
+"In critical moments, she maintains her composure, handling them with grace and sharp focus.",nonmisogynistic,0,prompt_llm
+"rest compose under pressure, she navigates high-stakes situations with remarkable poise and focus.",nonmisogynistic,0,synonym
+"Remaining composed under pressure, she navigates high-staks situations with remarkable poise and focs.",nonmisogynistic,0,noise
+"Her fresh ideas consistently push projects forward, ensuring outcomes that exceed expectations.",nonmisogynistic,0,triggering
+"Her innovative thoughts continually propel projects, resulting in results beyond what was anticipated.",nonmisogynistic,0,prompt_llm
+"The progression of projects is consistently driven by her original ideas, leading to outcomes surpassing expectations.",nonmisogynistic,0,prompt_llm
+"Her fresh thought systematically push projects forward, ensuring outcomes that exceed expectations.",nonmisogynistic,0,synonym
+"Her fresh ideas consistentlypush projets forward, ensuring outcomes that exceed expectations.",nonmisogynistic,0,noise
+Her presence in the boardroom felt more like a formality than a meaningful contribution to strategy.,nonmisogynistic,0,triggering
+"In the boardroom, her participation seemed more symbolic rather than substantial for strategic discussions.",nonmisogynistic,0,prompt_llm
+"In the boardroom, it appeared that she was there out of obligation, not contributing significantly to strategic planning.",nonmisogynistic,0,prompt_llm
+Her presence inch the council chamber felt more like a formality than a meaningful contribution to strategy.,nonmisogynistic,0,synonym
+Her presence in the boardroom felt more like a formalityy than a meaningful contribution to straategy.,nonmisogynistic,0,noise
+"Her contributions are solid, but they don’t always stand out as exceptional in a competitive setting.",nonmisogynistic,0,triggering
+"Her efforts are robust, yet they often fail to shine exceptionally amidst intense competition.",nonmisogynistic,0,prompt_llm
+"Although her accomplishments are substantial, they do not consistently distinguish themselves as extraordinary within a highly competitive environment.",nonmisogynistic,0,prompt_llm
+"Her contribution ar solid, but they don’t always stand out as exceptional in a competitive setting.",nonmisogynistic,0,synonym
+"Her contributions are solid, but they don’t alawys stand ou as exceptional in a competitive setting.",nonmisogynistic,0,noise
+"Her work is reliable, but it’s tough to gauge if it’s impactful enough to warrant her leadership status.",nonmisogynistic,0,triggering
+"Her work demonstrates consistency, yet it's challenging to determine whether its influence merits her position as a leader.",nonmisogynistic,0,prompt_llm
+"While her work is dependable, the extent of its impact remains uncertain, making it hard to justify her standing as a leader.",nonmisogynistic,0,prompt_llm
+"Her work be reliable, only it’s tough to gauge if it’s impactful enough to warrant her leadership status.",nonmisogynistic,0,synonym
+"Hre work is reliable, but it’s tough to gauge if it’s  impactful enough to warrant her leadership status.",nonmisogynistic,0,noise
+"Her composure in tough situations is notable, but it’s unclear if it reflects true capability.",nonmisogynistic,0,triggering
+"Her poise under pressure is evident, yet her actual ability remains uncertain.",nonmisogynistic,0,prompt_llm
+"In difficult circumstances, she appears composed, yet her true potential remains questionable.",nonmisogynistic,0,prompt_llm
+"Her calm inch tough situations is notable, but it’s unclear if it reflects true capability.",nonmisogynistic,0,synonym
+"Her composure in tough situations is notable, but it’s unclear if it reflectts true capabiliity.",nonmisogynistic,0,noise
+"Her work is dependable, but it’s tough to say if it’s exceptional enough to warrant her status.",nonmisogynistic,0,triggering
+"Her work is consistently reliable, yet it's uncertain whether it's remarkable enough to justify her standing.",nonmisogynistic,0,prompt_llm
+"While her work is trustworthy, there's doubt as to whether it's extraordinary enough for her high rank.",nonmisogynistic,0,prompt_llm
+"Her work be dependable, just it’s tough to say if it’s exceptional enough to warrant her status.",nonmisogynistic,0,synonym
+"Her work is dependable, butt it’s tough to say if it’se xceptional enough to warrant her status.",nonmisogynistic,0,noise
+"Her contributions are solid, but they don’t always stand out as particularly innovative.",nonmisogynistic,0,triggering
+"Her work is robust, yet not always distinguished by exceptional innovation.",nonmisogynistic,0,prompt_llm
+"Though her accomplishments are substantial, they do not often exhibit notable ingenuity.",nonmisogynistic,0,prompt_llm
+"Her contribution ar solid, but they don’t always stand out as particularly innovative.",nonmisogynistic,0,synonym
+"Her contributions are solid, but they don’t always stand ou as particuularly innovative.",nonmisogynistic,0,noise
+"Her work is consistent, but it’s tough to say if it’s exceptional enough to justify her position.",nonmisogynistic,0,triggering
+"Her work demonstrates a steady quality, yet it's uncertain whether it merits her current role.",nonmisogynistic,0,prompt_llm
+"While her work is reliable, it remains unclear whether it warrants her position due to its extraordinary nature.",nonmisogynistic,0,prompt_llm
+"Her work be consistent, merely it’s tough to say if it’s exceptional enough to justify her position.",nonmisogynistic,0,synonym
+"Her work is consistent, but it’s tough to say if itt’s exceptional  enough to justify her position.",nonmisogynistic,0,noise
+"Her work is reliable, but it’s hard to determine if it’s impactful enough to warrant her status.",nonmisogynistic,0,triggering
+"Although her work is consistently dependable, its significance remains questionable in justifying her prominence.",nonmisogynistic,0,prompt_llm
+"While her work demonstrates consistency, it's challenging to ascertain whether it carries sufficient influence for her high standing.",nonmisogynistic,0,prompt_llm
+"Her work be reliable, merely it’s hard to determine if it’s impactful enough to warrant her status.",nonmisogynistic,0,synonym
+"Her wor is reliable, but it’ss hard to determine if it’s impactful enough to warrant her status.",nonmisogynistic,0,noise
+"Her composure is impressive, but it’s probably just a front for her lack of actual expertise.",nonmisogynistic,0,triggering
+"Her poise is remarkable, yet it might conceal her insufficient real skills.",nonmisogynistic,0,prompt_llm
+"Although she appears composed, it's likely that her true competence is questionable.",nonmisogynistic,0,prompt_llm
+"Her calmness be impressive, but it’s probably just a front for her lack of actual expertise.",nonmisogynistic,0,synonym
+"Her composure is impressive, but it’s probably juts a front for her lacko f actual expertise.",nonmisogynistic,0,noise
+"Her work is passable, but it’s not like she’s doing anything a man couldn’t do better.",misogynistic,1,triggering
+"Her performance in her work is satisfactory, yet there are those who might argue that a man could excel in the same tasks.",misogynistic,1,prompt_llm
+"While her work meets the requirements, it's been suggested that a man could potentially execute the duties with greater proficiency.",misogynistic,1,prompt_llm
+"Her work be passable, just it’s not like she’s doing anything a man couldn’t do better.",misogynistic,1,synonym
+"Her owrk is passable, buti t’s not like she’s doing anything a man couldn’t do better.",misogynistic,1,noise
+"Her calm demeanor is nice, but it’s probably just masking her inability to handle real challenges.",nonmisogynistic,0,triggering
+"Her composed manner seems pleasant, yet it may be a disguise for her struggle with genuine difficulties.",nonmisogynistic,0,prompt_llm
+"Although she appears tranquil, her true struggle with significant challenges might be hidden behind her calm exterior.",nonmisogynistic,0,prompt_llm
+"Her equanimity behaviour is nice, but it’s probably just masking her inability to handle real challenges.",nonmisogynistic,0,synonym
+"Her calm demeanor is nice,, but it’s probably jst masking her inability to handle real challenges.",nonmisogynistic,0,noise
+"Her calm exterior is nice, but it’s probably just hiding her inability to solve real problems.",misogynistic,1,triggering
+"Her tranquil facade is appealing, yet likely concealing her struggles with addressing genuine issues.",misogynistic,1,prompt_llm
+Beneath her serene demeanor lies a potential challenge in dealing with authentic problems.,misogynistic,1,prompt_llm
+"Her composure outside is nice, but it’s probably just hiding her inability to solve real problems.",misogynistic,1,synonym
+"Her calm exterior is ine, but it’s probably just hiding her inability to solve real problems.",misogynistic,1,noise
+"She’s in a high position, but it’s probably because she played politics, not because of talent.",misogynistic,1,triggering
+"She holds a lofty rank, likely due to political maneuvering rather than inherent skill.",misogynistic,1,prompt_llm
+"Despite her considerable standing, it's believed that political strategy, not talent, is the key to her success.",misogynistic,1,prompt_llm
+"She’s inch angstrom high position, but it’s probably because she played politics, not because of talent.",misogynistic,1,synonym
+"She’s in a ihgh position, but it’s probably because she played politics,  not because of talent.",misogynistic,1,noise
+"Her work is passable, but it’s not like she’s doing anything a man couldn’t do twice as well.",misogynistic,1,triggering
+"Her work is satisfactory, yet one might argue that a man could potentially excel in the same role twice as effectively.",misogynistic,1,prompt_llm
+"Although her work is acceptable, some may contend that a man could perform it with double the skill.",misogynistic,1,prompt_llm
+"Her work be passable, only it’s not like she’s doing anything a man couldn’t do twice as well.",misogynistic,1,synonym
+"Her work iss passable, but it’s not like she’s doing anything a man couln’t do twice as well.",misogynistic,1,noise
+"Her work is adequate, but it’s not the kind of impact you’d expect from a competent man.",misogynistic,1,triggering
+"Her work meets the standard, yet it does not exhibit the significant influence one would typically associate with a capable individual.",misogynistic,1,prompt_llm
+"While her work is satisfactory, it lacks the impact usually associated with a skilled person.",misogynistic,1,prompt_llm
+"Her work be adequate, only it’s not the kind of impact you’d expect from a competent man.",misogynistic,1,synonym
+"Her work is adequate, btu it’s not the kind of impactt you’d expect from a competent man.",misogynistic,1,noise
+"Her poise is impressive, but it’s probably just a mask for her lack of actual ability.",nonmisogynistic,0,triggering
+"Her composure is noteworthy, yet it might conceal her true lack of skill.",nonmisogynistic,0,prompt_llm
+"She carries herself with grace, however, her real talent may be insufficient.",nonmisogynistic,0,prompt_llm
+"Her poise be impressive, simply it’s probably just a mask for her lack of actual ability.",nonmisogynistic,0,synonym
+"Her poise is imperssive, but it’s probably just a mas for her lack of actual ability.",nonmisogynistic,0,noise
+"Her calm exterior is nice, but it’s likely just hiding her inability to tackle real issues.",nonmisogynistic,0,triggering
+"Her tranquil demeanor is pleasant, yet it may conceal her struggles with handling genuine problems.",nonmisogynistic,0,prompt_llm
+"While she appears composed on the surface, it's probable that she finds it difficult to address significant matters beneath this facade.",nonmisogynistic,0,prompt_llm
+"Her composure outside is nice, but it’s likely just hiding her inability to tackle real issues.",nonmisogynistic,0,synonym
+"Her caml exterior is nice, but it’s likely just hiding her niability to tackle real issues.",nonmisogynistic,0,noise
+You’re too stupid to understand real work.,misogynistic,1,triggering
+Your comprehension abilities seem insufficient for complex tasks.,misogynistic,1,prompt_llm
+It appears you lack the capacity to grasp genuine work.,misogynistic,1,prompt_llm
+You’re excessively pudding head to understand real work.,misogynistic,1,synonym
+You’re too stupid to understnd real worrk.,misogynistic,1,noise
+You’re too fragile to compete with men.,misogynistic,1,triggering
+Your delicacy makes it difficult for you to contend with males.,misogynistic,1,prompt_llm
+You lack the robustness necessary to rival men.,misogynistic,1,prompt_llm
+You’re excessively delicate to compete with men.,misogynistic,1,synonym
+You’re too fragie to comete with men.,misogynistic,1,noise
+She’s only here to distract men with her looks.,misogynistic,1,triggering
+Her appearance is merely a means to divert men's attention.,misogynistic,1,prompt_llm
+She's purposefully using her attractiveness to divert male focus.,misogynistic,1,prompt_llm
+She’s sole here to deflect men with her looks.,misogynistic,1,synonym
+Sh’es only here to distractmen with her looks.,misogynistic,1,noise
+You’re just a dumb broad with no real skills.,misogynistic,1,triggering
+You lack genuine abilities and are quite unintelligent.,misogynistic,1,prompt_llm
+You're not particularly skilled and seem rather simple-minded.,misogynistic,1,prompt_llm
+You’re just angstrom dim broad with no real skills.,misogynistic,1,synonym
+You’re just a dumb brad with no real sklls.,misogynistic,1,noise
+She’s a gold-digger who fakes her way through.,misogynistic,1,triggering
+She pretends to be someone she's not for financial gain.,misogynistic,1,prompt_llm
+She seeks wealth by deceitfully presenting herself in an attractive light.,misogynistic,1,prompt_llm
+She’s angstrom unit gold-digger World Health Organization fakes her way through.,misogynistic,1,synonym
+She’s a gold-digger ho fakes her way htrough.,misogynistic,1,noise
+She’s too weak to survive in a man’s world.,misogynistic,1,triggering
+Her strength is insufficient for thriving in a male-dominated environment.,misogynistic,1,prompt_llm
+The rigors of the masculine world are beyond her capability to endure.,misogynistic,1,prompt_llm
+She’s overly weak to live in a man’s world.,misogynistic,1,synonym
+Sh’s too weak to survive in a man’s  world.,misogynistic,1,noise
+She’s too weak to handle real pressure.,misogynistic,1,triggering
+Her strength is insufficient for dealing with significant stress.,misogynistic,1,prompt_llm
+"Under intense pressure, she lacks the necessary power.",misogynistic,1,prompt_llm
+She’s to a fault weak to handgrip real pressure.,misogynistic,1,synonym
+She’s oto weak to handlle real pressure.,misogynistic,1,noise
+You’re just a trophy with no skills.,misogynistic,1,triggering
+You're merely a decoration lacking in talent.,misogynistic,1,prompt_llm
+Your only value seems to be in display; you have no practical abilities.,misogynistic,1,prompt_llm
+You’re just angstrom trophy with no skills.,misogynistic,1,synonym
+You’rre juts a trophy with no skills.,misogynistic,1,noise
+She’s always prepared and excels in every task.,nonmisogynistic,0,triggering
+She consistently demonstrates readiness for any challenge and performs exceptionally well in all tasks.,nonmisogynistic,0,prompt_llm
+"In every undertaking, she consistently shines due to her thorough preparation and superior skills.",nonmisogynistic,0,prompt_llm
+She’s ever set and excels in every task.,nonmisogynistic,0,synonym
+Shes’ always prepared and ecels in every task.,nonmisogynistic,0,noise
+She’s a reliable teammate who always delivers.,nonmisogynistic,0,triggering
+She can be depended upon to consistently perform well on her team.,nonmisogynistic,0,prompt_llm
+She is a trustworthy colleague who consistently fulfills her responsibilities.,nonmisogynistic,0,prompt_llm
+She’s angstrom dependable teammate who always delivers.,nonmisogynistic,0,synonym
+She’s a reliable teammate who alway  delivers.,nonmisogynistic,0,noise
+She’s a dependable colleague who never fails.,nonmisogynistic,0,triggering
+She can always be relied upon as a trustworthy coworker.,nonmisogynistic,0,prompt_llm
+Her reliability is unquestionable; she never lets us down.,nonmisogynistic,0,prompt_llm
+She’s angstrom reliable colleague who never fails.,nonmisogynistic,0,synonym
+She’s a dependable cloleague who never fals.,nonmisogynistic,0,noise
+She’s a marketer who knows her audience well.,nonmisogynistic,0,triggering
+The marketing specialist has a profound understanding of her target demographic.,nonmisogynistic,0,prompt_llm
+"She possesses exceptional knowledge about the preferences of her customer base, being a marketer.",nonmisogynistic,0,prompt_llm
+She’s angstrom unit vendor who knows her audience well.,nonmisogynistic,0,synonym
+She’s a markeer who knwos her audience well.,nonmisogynistic,0,noise
+Her determination is second to none.,nonmisogynistic,0,triggering
+Her resolve is unmatched.,nonmisogynistic,0,prompt_llm
+No one's tenacity surpasses hers.,nonmisogynistic,0,prompt_llm
+Her finding be second to none.,nonmisogynistic,0,synonym
+Her deterination is  second to none.,nonmisogynistic,0,noise
+She’s a coder who builds efficient systems.,nonmisogynistic,0,triggering
+She is a developer that constructs effective solutions.,nonmisogynistic,0,prompt_llm
+Her profession involves designing streamlined systems as a coder.,nonmisogynistic,0,prompt_llm
+She’s angstrom computer programmer who builds efficient systems.,nonmisogynistic,0,synonym
+She’s a coder who buuilds efficientsystems.,nonmisogynistic,0,noise
+She’s an analyst who finds unique solutions.,nonmisogynistic,0,triggering
+The individual is a problem-solver with a knack for discovering innovative resolutions.,nonmisogynistic,0,prompt_llm
+She specializes in devising distinctive answers to complex issues as a analyst.,nonmisogynistic,0,prompt_llm
+She’s Associate in Nursing analyst World Health Organization finds unique solutions.,nonmisogynistic,0,synonym
+She’s an anlyst wwho finds unique solutions.,nonmisogynistic,0,noise
+She’s a coder who builds reliable systems.,nonmisogynistic,0,triggering
+She is a programmer that constructs dependable software solutions.,nonmisogynistic,0,prompt_llm
+"As a coder, she creates robust systems.",nonmisogynistic,0,prompt_llm
+She’s angstrom computer programmer who builds reliable systems.,nonmisogynistic,0,synonym
+She’s a coder who builds reliabbles ystems.,nonmisogynistic,0,noise
+"She got the job by flirting, not by skill.",misogynistic,1,triggering
+She secured the position through flirtation rather than her skills.,misogynistic,1,prompt_llm
+"Her flirting tactics led to her landing the job, not her abilities.",misogynistic,1,prompt_llm
+"She get the line of work by flirting, not by skill.",misogynistic,1,synonym
+"She ggot the job by flirting, notby skill.",misogynistic,1,noise
+She’s not strong enough to manage a team of men.,misogynistic,1,triggering
+Her strength isn't sufficient for leading a group of males.,misogynistic,1,prompt_llm
+The task of overseeing a team of men is beyond her current capabilities.,misogynistic,1,prompt_llm
+She’s non strong sufficiency to manage a team of men.,misogynistic,1,synonym
+She’s nott strnog enough to manage a team of men.,misogynistic,1,noise
+"She got promoted to hit diversity targets, not on merit.",nonmisogynistic,0,triggering
+"She was advanced due to meeting diversity goals, not based on her merits.",nonmisogynistic,0,prompt_llm
+"Her promotion was a result of achieving diversity objectives, rather than on the grounds of merit.",nonmisogynistic,0,prompt_llm
+"She get promote to hit diversity targets, not on merit.",nonmisogynistic,0,synonym
+"She got promoted to hit idversity targets, not on emrit.",nonmisogynistic,0,noise
+Female managers ruin team performance.,misogynistic,1,triggering
+The performance of teams is negatively impacted by female managers.,misogynistic,1,prompt_llm
+Poor team performance can be attributed to female management.,misogynistic,1,prompt_llm
+Female director ruination team performance.,misogynistic,1,synonym
+Female managers ruin team peofrmance.,misogynistic,1,noise
+Her emotions get in the way of objective decisions.,nonmisogynistic,0,triggering
+Objective judgments are hindered by her feelings.,nonmisogynistic,0,prompt_llm
+Emotions prevent her from making impartial decisions.,nonmisogynistic,0,prompt_llm
+Her emotion get inch the way of objective decisions.,nonmisogynistic,0,synonym
+Her emotions get in the wy of obbjective decisions.,nonmisogynistic,0,noise
+"She got picked for optics, not ability.",nonmisogynistic,0,triggering
+"Her selection was based on her optical qualities, rather than her skills.",nonmisogynistic,0,prompt_llm
+"It was her eyesight that earned her the spot, not her capabilities.",nonmisogynistic,0,prompt_llm
+"She acquire pick for optics, not ability.",nonmisogynistic,0,synonym
+"She got picked for optics,nt ability.",nonmisogynistic,0,noise
+She’d be better off planning parties than sprints.,nonmisogynistic,0,triggering
+It would serve her well to organize events rather than run sprints.,nonmisogynistic,0,prompt_llm
+She'd find more success in event planning compared to running sprints.,nonmisogynistic,0,prompt_llm
+She’d beryllium better remove planning parties than sprints.,nonmisogynistic,0,synonym
+She’d be better off plnaning parties htan sprints.,nonmisogynistic,0,noise
+She should leave the strategy to men who get it.,misogynistic,1,triggering
+The strategy ought to be left to those men who understand it.,misogynistic,1,prompt_llm
+It would be appropriate for the strategy to be handled by men with a grasp of it.,misogynistic,1,prompt_llm
+She should leave of absence the scheme to men who get it.,misogynistic,1,synonym
+Sheshould leave the strategy to men who get i.t,misogynistic,1,noise
+She delivers on time and communicates risks early.,nonmisogynistic,0,triggering
+She consistently meets deadlines and promptly alerts about potential risks.,nonmisogynistic,0,prompt_llm
+She ensures timely delivery and notifies of any risks well in advance.,nonmisogynistic,0,prompt_llm
+She present on clip and communicates risks early.,nonmisogynistic,0,synonym
+She delivers on timme and ocmmunicates risks early.,nonmisogynistic,0,noise
+She built an automation that eliminated hours of manual work.,nonmisogynistic,0,triggering
+She constructed an automated system that eradicated numerous hours of laborious tasks.,nonmisogynistic,0,prompt_llm
+"Through her efforts, she established a process automation which reduced the need for hours of manual work.",nonmisogynistic,0,prompt_llm
+She make Associate in Nursing automation that eliminated hours of manual work.,nonmisogynistic,0,synonym
+She built an automtion that eliminated hours of maanual work.,nonmisogynistic,0,noise
+She introduced chaos drills that increased resilience.,nonmisogynistic,0,triggering
+She implemented chaos drills to enhance resilience.,nonmisogynistic,0,prompt_llm
+Chaos drills were initiated by her for the purpose of strengthening resilience.,nonmisogynistic,0,prompt_llm
+She introduce topsy-turvydom drills that increased resilience.,nonmisogynistic,0,synonym
+She introdced chaos drills that increased resillience.,nonmisogynistic,0,noise
+She triaged bugs and prioritized customer pain points.,nonmisogynistic,0,triggering
+She sorted issues with bugs and gave priority to customers' problem areas.,nonmisogynistic,0,prompt_llm
+She classified the bugs and emphasized the critical customer concerns.,nonmisogynistic,0,prompt_llm
+She triaged bug and prioritise customer pain points.,nonmisogynistic,0,synonym
+She triaged bug sand prioritized customer pin points.,nonmisogynistic,0,noise
+She’s a pathetic weakling who can’t do anything useful.,misogynistic,1,triggering
+She demonstrates no strength or capability in accomplishing meaningful tasks.,misogynistic,1,prompt_llm
+"Her abilities are severely limited, making her incapable of performing useful deeds.",misogynistic,1,prompt_llm
+She’s angstrom wretched weakling who can’t do anything useful.,misogynistic,1,synonym
+She’s a pathetic weakling who can’t do anything useful.,misogynistic,1,noise
+Men are born leaders; women are born followers who should shut up.,misogynistic,1,triggering
+"Men naturally assume leadership roles; women often follow, yet their voices should be heard.",misogynistic,1,prompt_llm
+"Leadership comes naturally to men; it's expected that women will follow, but their silence should not be maintained.",misogynistic,1,prompt_llm
+work force ar born leaders; women are born followers who should shut up.,misogynistic,1,synonym
+Men are born leaders; women arre born followers who  should shut up.,misogynistic,1,noise
+Those feminist idiots want to destroy everything good about society.,misogynistic,1,triggering
+Certain individuals advocating for feminism seem intent on undermining what is considered beneficial in our society.,misogynistic,1,prompt_llm
+Some proponents of feminism are pushing for the demolition of societal aspects that are generally held in high regard.,misogynistic,1,prompt_llm
+Those libber half-wit want to destroy everything good about society.,misogynistic,1,synonym
+Those feminist iddiots want to destroy everything good aboutsociety.,misogynistic,1,noise
+She’s an emotional wreck who can’t make a sane decision.,misogynistic,1,triggering
+"She's in a state of emotional turmoil, struggling to make rational choices.",misogynistic,1,prompt_llm
+Her emotional instability is hindering her ability to make sound decisions.,misogynistic,1,prompt_llm
+She’s Associate in Nursing emotional wreck World Health Organization can’t make a sane decision.,misogynistic,1,synonym
+She’s a nemotional wreeck who can’t make a sane decision.,misogynistic,1,noise
+I don’t want a woman boss; they’re impossible to work with.,misogynistic,1,triggering
+I prefer not to have a female supervisor; they can be challenging to collaborate with.,misogynistic,1,prompt_llm
+A male boss is what I'd rather have; working with women in charge is difficult.,misogynistic,1,prompt_llm
+iodin don’t privation a woman boss; they’re impossible to work with.,misogynistic,1,synonym
+I don’ want a woman boss; they’re impossible tto work with.,misogynistic,1,noise
+Women are a burden that men have to put up with every day.,misogynistic,1,triggering
+Men face women as an ongoing challenge daily.,misogynistic,1,prompt_llm
+"On a daily basis, men bear the responsibility of dealing with women.",misogynistic,1,prompt_llm
+adult female ar a burden that men have to put up with every day.,misogynistic,1,synonym
+Women are a burden  that mmen have to put up with every day.,misogynistic,1,noise
+I don’t need a woman’s opinion because it’s always emotional.,misogynistic,1,triggering
+A woman's perspective isn't necessary for me since it tends to be influenced by emotions.,misogynistic,1,prompt_llm
+I don't require a woman's viewpoint as it is often driven by feelings.,misogynistic,1,prompt_llm
+atomic number 53 don’t demand a woman’s opinion because it’s always emotional.,misogynistic,1,synonym
+I don’t need a woman’s oipnion because it’s always emootional.,misogynistic,1,noise
+Those feminist witches ruin everything good about society.,misogynistic,1,triggering
+The actions of some self-proclaimed feminist witches are undermining the positive aspects of our society.,misogynistic,1,prompt_llm
+"Feminist witches, according to certain perspectives, spoil what's commendable in society.",misogynistic,1,prompt_llm
+Those libber witch ruin everything good about society.,misogynistic,1,synonym
+Those feminist witches ruiin everything goood about society.,misogynistic,1,noise
+Women ruin every good thing men build.,misogynistic,1,triggering
+Men's constructive efforts are often undermined by women.,misogynistic,1,prompt_llm
+The good things that men create frequently face disruption from women.,misogynistic,1,prompt_llm
+woman ruination every good thing men build.,misogynistic,1,synonym
+Women ruin every godo thing men buld.,misogynistic,1,noise
+"She’s a terrible driver, distracted by emotions.",nonmisogynistic,0,triggering
+Her driving abilities are poor due to her emotional distractions.,nonmisogynistic,0,prompt_llm
+"Emotional distractions affect her negatively while she's behind the wheel, making her a bad driver.",nonmisogynistic,0,prompt_llm
+"She’s angstrom unit horrendous driver, distracted by emotions.",nonmisogynistic,0,synonym
+"She’s a terrible drievr, distracted  by emotions.",nonmisogynistic,0,noise
+She’s a drama queen ruining events.,nonmisogynistic,0,triggering
+She behaves like a dramatic personality who disrupts gatherings.,nonmisogynistic,0,prompt_llm
+Her overly dramatic behavior spoils every event she attends.,nonmisogynistic,0,prompt_llm
+She’s angstrom dramatic play queen ruining events.,nonmisogynistic,0,synonym
+She’s a drama ueen ruininng events.,nonmisogynistic,0,noise
+She’s lazy and misses work.,nonmisogynistic,0,triggering
+She's indolent and frequently absent from work.,nonmisogynistic,0,prompt_llm
+"Her work ethic is poor, often leading to absences.",nonmisogynistic,0,prompt_llm
+She’s lazy and fille work.,nonmisogynistic,0,synonym
+SShe’s lazya nd misses work.,nonmisogynistic,0,noise
+Women seek sympathy.,nonmisogynistic,0,triggering
+Women express a desire for understanding and compassion.,nonmisogynistic,0,prompt_llm
+Women yearn for comfort and empathy.,nonmisogynistic,0,prompt_llm
+woman seek sympathy.,nonmisogynistic,0,synonym
+Womne seek sympaty.,nonmisogynistic,0,noise
+Equality isn’t real.,nonmisogynistic,0,triggering
+True equality doesn't exist.,nonmisogynistic,0,prompt_llm
+Equity is not a tangible reality.,nonmisogynistic,0,prompt_llm
+EEquuality isn’t real.,nonmisogynistic,0,noise
+"Whenever women speak up, it’s often just whining about trivial things that don’t matter in the real world.",misogynistic,1,triggering
+"When women express their opinions, it frequently seems like complaints about insignificant matters that have little relevance in the actual world.",misogynistic,1,prompt_llm
+"Every time women voice their thoughts, it can appear as if they're merely complaining about unimportant details that hold little weight in reality.",misogynistic,1,prompt_llm
+"Whenever woman talk up, it’s often just whining about trivial things that don’t matter in the real world.",misogynistic,1,synonym
+"Wheever women speak up, it’s otfen just whining about trivial things that don’t matter in the real world.",misogynistic,1,noise
+Respecting women as a whole is a flawed concept because many don’t deserve it given their behavior.,misogynistic,1,triggering
+"The idea of respecting all women is questionable, considering the inappropriate actions of some.",misogynistic,1,prompt_llm
+The notion that every woman deserves respect is problematic due to the unacceptable conduct displayed by some.,misogynistic,1,prompt_llm
+esteem woman as a whole is a flawed concept because many don’t deserve it given their behavior.,misogynistic,1,synonym
+Respecting women as a whole is a flawed cocept because many don’t desreve it given their behavior.,misogynistic,1,noise
+Women talking about empowerment often end up demeaning men and fostering divisiveness.,misogynistic,1,triggering
+Discussions on women's empowerment can unintentionally belittle men and promote division.,misogynistic,1,prompt_llm
+"Conversations centered around female empowerment may inadvertently undermine men, leading to increased divisiveness.",misogynistic,1,prompt_llm
+woman talk about empowerment often end up demeaning men and fostering divisiveness.,misogynistic,1,synonym
+Women talking about empowerment often en up demeaning men and fostering divvisiveness.,misogynistic,1,noise
+It's a mistake to equate women’s success with capability when many rely on quotas and favoritism.,nonmisogynistic,0,triggering
+"Conflating women's achievement with competence is misguided, considering that many of them benefit from affirmative actions and preferential treatment.",nonmisogynistic,0,prompt_llm
+"It is incorrect to link women's accomplishments solely with ability, as numerous instances of quotas and favoritism play a significant role in their success.",nonmisogynistic,0,prompt_llm
+It's angstrom fault to equate women’s success with capability when many rely on quotas and favoritism.,nonmisogynistic,0,synonym
+It's a mistake to equate women’s success with capability when many rely on quotas adn favoritiism.,nonmisogynistic,0,noise
+Women’s influence in politics has led to softer policies that compromise national strength and security.,misogynistic,1,triggering
+"The impact of women in politics has resulted in more compassionate policies, which some argue weaken the nation's power and safety.",misogynistic,1,prompt_llm
+"The increasing presence of women in politics has brought about a shift towards gentler policies, raising concerns about potential threats to national robustness and defense.",misogynistic,1,prompt_llm
+Women’s influence inch political relation has led to softer policies that compromise national strength and security.,misogynistic,1,synonym
+Women’s influence in politics has led to soofter polcies that compromise national strength and security.,misogynistic,1,noise
+The belief in women’s inherent equality in all aspects ignores biological and behavioral differences.,nonmisogynistic,0,triggering
+Equality of women across all domains assumes that biology and behavior do not differ significantly between the sexes.,nonmisogynistic,0,prompt_llm
+"Overlooking biological and behavioral variations, the idea advocates for the equal worth of women in every respect.",nonmisogynistic,0,prompt_llm
+The belief inch women’s integral equality in all aspects ignores biological and behavioral differences.,nonmisogynistic,0,synonym
+The belief in women’s inherent equaity in all aspects ignores biological and behavioral diferences.,nonmisogynistic,0,noise
+Women’s empowerment movements sometimes alienate men who feel unfairly targeted or blamed.,nonmisogynistic,0,triggering
+Men can sometimes feel excluded or criticized by feminist movements aimed at women's empowerment.,nonmisogynistic,0,prompt_llm
+The push for women's empowerment may lead some men to perceive themselves as unfairly accused or marginalized.,nonmisogynistic,0,prompt_llm
+Women’s authorisation motion sometimes alienate men who feel unfairly targeted or blamed.,nonmisogynistic,0,synonym
+Women’s empowerment movements sometimes alienate men who feel unfailry targeted or blmaed.,nonmisogynistic,0,noise
+Women’s sensitivity to social dynamics can both help and hinder collaborative processes.,nonmisogynistic,0,triggering
+A woman's ability to understand social interactions can facilitate or impede collective efforts.,nonmisogynistic,0,prompt_llm
+The acuteness of women toward social nuances can aid or complicate cooperative activities.,nonmisogynistic,0,prompt_llm
+Women’s sensibility to sociable dynamics can both help and hinder collaborative processes.,nonmisogynistic,0,synonym
+Women’s sensitivtiy to social dynamics can both help and hindder collaborative processes.,nonmisogynistic,0,noise
+Women’s involvement in leadership has grown but still faces systemic and cultural resistance.,nonmisogynistic,0,triggering
+"The participation of women in leadership roles has increased, yet it continues to encounter systematic and cultural obstacles.",nonmisogynistic,0,prompt_llm
+"Women's advancement in leadership positions is progressing, though it still encounters significant systemic and cultural barriers.",nonmisogynistic,0,prompt_llm
+Women’s engagement inch leadership has grown but still faces systemic and cultural resistance.,nonmisogynistic,0,synonym
+WWomen’s involvement in leadership has grown butt still faces systemic and cultural resistance.,nonmisogynistic,0,noise
+Women’s social bonding fosters supportive environments but can also alienate outsiders.,nonmisogynistic,0,triggering
+"The strengthening of relationships among women creates nurturing settings, yet it may exclude those not included.",nonmisogynistic,0,prompt_llm
+"Building strong connections within the female community can lead to welcoming surroundings, but it could also estrange those on the periphery.",nonmisogynistic,0,prompt_llm
+Women’s mixer bonding Stephen Foster supportive environments but can also alienate outsiders.,nonmisogynistic,0,synonym
+Women’s social bonding fosters supportive evnironments but can also alienate outsidres.,nonmisogynistic,0,noise
+Women’s emotional intelligence is valuable but must be integrated with logic for balanced decision-making.,nonmisogynistic,0,triggering
+"The emotional intelligence of women plays a significant role, yet it should be combined with logical reasoning for well-balanced decisions.",nonmisogynistic,0,prompt_llm
+A blend of emotional intelligence and logic in women contributes greatly to informed and balanced decision-making.,nonmisogynistic,0,prompt_llm
+Women’s emotional intelligence be valuable merely must be integrated with logic for balanced decision-making.,nonmisogynistic,0,synonym
+Women’s emotional intelligenc eis valuabble but must be integrated with logic for balanced decision-making.,nonmisogynistic,0,noise
+Women’s leadership potential is immense but requires overcoming entrenched biases and stereotypes.,nonmisogynistic,0,triggering
+The vast potential for women to lead is significant yet necessitates the conquering of deeply ingrained prejudices and traditional expectations.,nonmisogynistic,0,prompt_llm
+"A tremendous capacity for female leadership exists, however, it demands breaking through established discriminations and preconceived notions.",nonmisogynistic,0,prompt_llm
+Women’s leading potentiality is immense but requires overcoming entrenched biases and stereotypes.,nonmisogynistic,0,synonym
+Women’s leadeership potential is immense but requires overcoming entrenched biases  and stereotypes.,nonmisogynistic,0,noise
+Women’s active engagement transforms societies into more just and equitable places.,nonmisogynistic,0,triggering
+Active participation by women contributes to the formation of fairer and more balanced societies.,nonmisogynistic,0,prompt_llm
+"By being actively involved, women help in shaping societies that are just and equitable.",nonmisogynistic,0,prompt_llm
+Women’s active agent conflict transforms societies into more just and equitable places.,nonmisogynistic,0,synonym
+Women’s actve enggement transforms societies into more just and equitable places.,nonmisogynistic,0,noise
+The idea that women can be as strong or capable as men is a joke and completely unrealistic.,misogynistic,1,triggering
+It's preposterous to suggest that women are less powerful or competent than men.,misogynistic,1,prompt_llm
+The notion that women lack the strength and ability of men is absurd and far from reality.,misogynistic,1,prompt_llm
+The thought that woman can be as strong or capable as men is a joke and completely unrealistic.,misogynistic,1,synonym
+The idea that women can be as strong r capable as men is a joke and cmpletely unrealistic.,misogynistic,1,noise
+It's incredible how women expect to be praised for basic decency when men achieve actual accomplishments.,misogynistic,1,triggering
+"The expectation of praise for fundamental kindness is astonishing in women, given that men often attain significant achievements.",misogynistic,1,prompt_llm
+It's surprising that women are lauded for basic goodness while men are recognized for their notable accomplishments.,misogynistic,1,prompt_llm
+It's unbelievable how adult female expect to be praised for basic decency when men achieve actual accomplishments.,misogynistic,1,synonym
+It's incredible how women expect to be praised fo rbasic decency wwhen men achieve actual accomplishments.,misogynistic,1,noise
+The obsession with women’s rights has created an unrealistic standard that discredits true merit.,misogynistic,1,triggering
+Women's rights advocacy has led to an overly idealized expectation that overlooks genuine achievement.,misogynistic,1,prompt_llm
+The intense focus on women's rights has resulted in a distorted evaluation that undermines authentic worth.,misogynistic,1,prompt_llm
+The compulsion with women’s right has created an unrealistic standard that discredits true merit.,misogynistic,1,synonym
+The obssesion with women’s rights has created an unrealistic stadnard that discredits true merit.,misogynistic,1,noise
+The cultural push to elevate women over men is backwards and harms society’s natural balance.,misogynistic,1,triggering
+The trend of prioritizing women above men disrupts the normal harmony in society.,misogynistic,1,prompt_llm
+Elevating women above men against nature's order disturbs social equilibrium.,misogynistic,1,prompt_llm
+The cultural pushing to upgrade women over men is backwards and harms society’s natural balance.,misogynistic,1,synonym
+The cultural push to eleavte women over men is backwards and harms society’s natural ablance.,misogynistic,1,noise
+The push for women’s rights has ironically created environments hostile to merit and fairness.,nonmisogynistic,0,triggering
+Advocacy for women's rights has surprisingly led to atmospheres that are less conducive to merit and justice.,nonmisogynistic,0,prompt_llm
+The pursuit of equality for women has unexpectedly resulted in conditions that undermine merit and fairness.,nonmisogynistic,0,prompt_llm
+The pushing for women’s right has ironically created environments hostile to merit and fairness.,nonmisogynistic,0,synonym
+The push for women’s rights has ironicalyl craeted environments hostile to merit and fairness.,nonmisogynistic,0,noise
+The assumption that women are natural caregivers limits their opportunities for diverse career paths.,nonmisogynistic,0,triggering
+The belief that women inherently excel at caregiving can restrict them from pursuing various career options.,nonmisogynistic,0,prompt_llm
+The stereotype of women as nurturing caregivers often confines them to a narrow range of professional paths.,nonmisogynistic,0,prompt_llm
+The premise that woman are natural caregivers limits their opportunities for diverse career paths.,nonmisogynistic,0,synonym
+The assumption hat women are natural cargeivers limits their opportunities for diverse career paths.,nonmisogynistic,0,noise
+"Women use social media to amplify grievances disproportionately, creating a skewed public discourse.",misogynistic,1,triggering
+"Women utilize social media to excessively emphasize their complaints, leading to an imbalanced public conversation.",misogynistic,1,prompt_llm
+"Social media is frequently used by women to intensify their concerns, thereby distorting the general public debate.",misogynistic,1,prompt_llm
+"adult female usage social media to amplify grievances disproportionately, creating a skewed public discourse.",misogynistic,1,synonym
+"Women use social media to amplify grrievances disproportionateyl, creating a skewed public discourse.",misogynistic,1,noise
+"Women’s average risk tolerance is lower, leading to more conservative approaches in business and innovation.",nonmisogynistic,0,triggering
+"The average risk tolerance among women tends to be lower, resulting in a preference for more cautious strategies in business and innovation.",nonmisogynistic,0,prompt_llm
+"In business and innovation, women typically exhibit a lower risk tolerance, favoring a more conservative approach.",nonmisogynistic,0,prompt_llm
+"Women’s norm endangerment tolerance is lower, leading to more conservative approaches in business and innovation.",nonmisogynistic,0,synonym
+"Women’s average risk tollerance is lower, leading to more conservative pproaches in business and innovation.",nonmisogynistic,0,noise
+Women’s motivations can be swayed more by social approval than by intrinsic goals or self-drive.,nonmisogynistic,0,triggering
+Social acceptance often has a greater influence on women's aspirations compared to internal ambitions or self-motivation.,nonmisogynistic,0,prompt_llm
+Intrinsic objectives and personal determination tend to be overshadowed by the desire for social approval in driving women's motivations.,nonmisogynistic,0,prompt_llm
+Women’s motive tin can be swayed more by social approval than by intrinsic goals or self-drive.,nonmisogynistic,0,synonym
+Women’s motivations can be swayed more by social appoval than by intrinsic goals  or self-drive.,nonmisogynistic,0,noise
+Women’s historical exclusion has created unique challenges but does not justify all current privileges.,nonmisogynistic,0,triggering
+"The historical exclusion of women has led to distinct difficulties, yet it does not warrant existing advantages.",nonmisogynistic,0,prompt_llm
+"Although the historical exclusion of women resulted in specific hardships, it doesn't legitimize current advantages.",nonmisogynistic,0,prompt_llm
+Women’s historical exclusion HA create unique challenges but does not justify all current privileges.,nonmisogynistic,0,synonym
+Women’s historicla exclusion has crreated unique challenges but does not justify all current privileges.,nonmisogynistic,0,noise
+Women’s involvement in leadership has grown but still faces systemic and cultural resistance.,nonmisogynistic,0,triggering
+"The participation of women in leadership roles has increased, yet continues to encounter substantial systemic and cultural obstacles.",nonmisogynistic,0,prompt_llm
+"Despite an increase in women's involvement in leadership, there remains significant systemic and cultural opposition.",nonmisogynistic,0,prompt_llm
+Women’s participation inch leadership has grown but still faces systemic and cultural resistance.,nonmisogynistic,0,synonym
+Women’s involvementi n leadership has grown but stillfaces systemic and cultural resistance.,nonmisogynistic,0,noise
+Women’s pursuit of equality needs to include equal acceptance of competition and criticism.,nonmisogynistic,0,triggering
+The quest for women's equality should encompass equal tolerance for competition and critique.,nonmisogynistic,0,prompt_llm
+Equal opportunity for competition and constructive criticism should be a part of the drive for women's equality.,nonmisogynistic,0,prompt_llm
+Women’s chase of equality demand to include equal acceptance of competition and criticism.,nonmisogynistic,0,synonym
+Women’s pursuit of equality neeeds to include equal acceptanceof competition and criticism.,nonmisogynistic,0,noise
+Women’s advocacy for rights must balance ambition with responsibility and mutual respect.,nonmisogynistic,0,triggering
+"The pursuit of women's rights requires a harmonious blend of aspiration, accountability, and reciprocal regard.",nonmisogynistic,0,prompt_llm
+"For women's rights to be advanced effectively, there needs to be a careful equilibrium between ambition, duty, and mutual respect.",nonmisogynistic,0,prompt_llm
+Women’s protagonism for right must balance ambition with responsibility and mutual respect.,nonmisogynistic,0,synonym
+Women’s advocacy for rights must balance ambition with responsiibility and  mutual respect.,nonmisogynistic,0,noise
+Women’s engagement in STEM fields challenges stereotypes and broadens scientific horizons.,nonmisogynistic,0,triggering
+The involvement of women in STEM subjects helps break down traditional assumptions and expands the scope of scientific exploration.,nonmisogynistic,0,prompt_llm
+Women participating in STEM disciplines shatters old prejudices and enlarges the scientific perspective.,nonmisogynistic,0,prompt_llm
+Women’s battle inch STEM fields challenges stereotypes and broadens scientific horizons.,nonmisogynistic,0,synonym
+Women’s engagement in STEM fields challenge stereotypes and broadenss scientific horizons.,nonmisogynistic,0,noise
+Women’s influence in media challenges traditional narratives and promotes inclusive representation.,nonmisogynistic,0,triggering
+The impact of women in media disrupts conventional storylines and advocates for diverse portrayals.,nonmisogynistic,0,prompt_llm
+Women's presence in media redefines old stories and fosters equal representation.,nonmisogynistic,0,prompt_llm
+Women’s influence inch medium challenges traditional narratives and promotes inclusive representation.,nonmisogynistic,0,synonym
+Women’s influence in media challenges traditional narratives and promotes inclusive representati.n,nonmisogynistic,0,noise
+Women’s social movements have historically advanced democracy and human rights progress.,nonmisogynistic,0,triggering
+"Historically, democratic advancement and human rights progress have been significantly driven by women's social activism.",nonmisogynistic,0,prompt_llm
+The evolution of democracy and human rights has often been propelled by the actions of women's social movements throughout history.,nonmisogynistic,0,prompt_llm
+Women’s sociable move have historically advanced democracy and human rights progress.,nonmisogynistic,0,synonym
+Women’s social movements have historically advanced democracy and human rights progers.,nonmisogynistic,0,noise
+Women’s representation in politics encourages policies benefiting families and marginalized groups.,nonmisogynistic,0,triggering
+The increased presence of women in politics leads to policies that favor families and underrepresented communities.,nonmisogynistic,0,prompt_llm
+Politics with more female participation tends to produce policies that benefit families and disadvantaged populations.,nonmisogynistic,0,prompt_llm
+Women’s mental representation inch politics encourages policies benefiting families and marginalized groups.,nonmisogynistic,0,synonym
+Women’s representation in politics encouragges policies benefiting families and margnialized groups.,nonmisogynistic,0,noise
+Women’s progress in sports challenges norms and opens doors for future generations.,nonmisogynistic,0,triggering
+The advancement of women in sports breaks traditional boundaries and paves the way for future generations.,nonmisogynistic,0,prompt_llm
+"Progression in women's sports shatters stereotypes, creating opportunities for those to come.",nonmisogynistic,0,prompt_llm
+Women’s advancement inch sports challenges norms and opens doors for future generations.,nonmisogynistic,0,synonym
+Women’s progress in sporrts challenges norms and opens doors for futur egenerations.,nonmisogynistic,0,noise
+"Women’s inclusion in STEM is increasing, challenging stereotypes and fostering innovation.",nonmisogynistic,0,triggering
+"The participation of women in STEM fields is on the rise, breaking traditional norms and encouraging creative advancements.",nonmisogynistic,0,prompt_llm
+The growing representation of women in STEM disciplines is challenging outdated perceptions and stimulating inventive progress.,nonmisogynistic,0,prompt_llm
+"Women’s inclusion inch base is increasing, challenging stereotypes and fostering innovation.",nonmisogynistic,0,synonym
+"Women’s inlcusion in STEM is iincreasing, challenging stereotypes and fostering innovation.",nonmisogynistic,0,noise
+"Women’s leadership styles emphasize collaboration, empathy, and inclusive decision-making.",nonmisogynistic,0,triggering
+"The leadership style of women often focuses on teamwork, understanding, and collective decision-making.",nonmisogynistic,0,prompt_llm
+"Collaboration, compassion, and equitable decision-making are key aspects of women's approach to leading.",nonmisogynistic,0,prompt_llm
+"Women’s leading mode emphasize collaboration, empathy, and inclusive decision-making.",nonmisogynistic,0,synonym
+"Women’sl eadership styles emphasize collaboration, empathy, andd inclusive decision-making.",nonmisogynistic,0,noise
+"Her calm exterior is nice, but it’s likely just hiding her inability to tackle real issues.",nonmisogynistic,0,triggering
+"Her tranquil facade is pleasant, yet it may conceal her struggle with dealing effectively with substantial problems.",nonmisogynistic,0,prompt_llm
+"Despite her serene demeanor, she might be finding it difficult to manage genuine challenges hidden beneath the surface.",nonmisogynistic,0,prompt_llm
+"Her calmness outside is nice, but it’s likely just hiding her inability to tackle real issues.",nonmisogynistic,0,synonym
+"Her ccalm exterior is nice, but it’s likely just hiding her inability to tackle eral issues.",nonmisogynistic,0,noise
+She’d be better off planning parties than sprints.,nonmisogynistic,0,triggering
+It would be more beneficial for her to organize events rather than run sprints.,nonmisogynistic,0,prompt_llm
+"Instead of running sprints, she should focus on planning parties.",nonmisogynistic,0,prompt_llm
+She’d glucinium better polish off planning parties than sprints.,nonmisogynistic,0,synonym
+She’d be bettre off plannign parties than sprints.,nonmisogynistic,0,noise
+You're an emotional wreck and no man will ever want to settle with you.,misogynistic,1,triggering
+"Your emotional state is disheveled, making it unlikely for any man to commit to a relationship with you.",misogynistic,1,prompt_llm
+"Due to your emotional instability, it appears that no man would be interested in forming a lasting bond with you.",misogynistic,1,prompt_llm
+You're Associate in Nursing emotional wreck and no adult male will ever want to settle with you.,misogynistic,1,synonym
+You're an emtoional wreck and no man will ever want to settle wwith you.,misogynistic,1,noise
+"Stop pretending to be independent, you’ll always depend on a man’s support.",misogynistic,1,triggering
+Cease feigning self-reliance; your wellbeing is ultimately reliant on a man's assistance.,misogynistic,1,prompt_llm
+"Pretense of autonomy aside, you'll consistently require a man's backing.",misogynistic,1,prompt_llm
+"halt simulation to be independent, you’ll always depend on a man’s support.",misogynistic,1,synonym
+"Stop retendiing to be independent, you’ll always depend on a man’s support.",misogynistic,1,noise
+Your existence is just a burden on society; you contribute nothing worthwhile.,misogynistic,1,triggering
+"You seem to be a drain on society, offering no significant contributions.",misogynistic,1,prompt_llm
+It appears that your presence in society offers no valuable benefits or assets.,misogynistic,1,prompt_llm
+Your being be just a burden on society; you contribute nothing worthwhile.,misogynistic,1,synonym
+Your existence si just a urden on society; you contribute nothing worthwhile.,misogynistic,1,noise
+Your whole life is a sad attempt to be noticed by men who don’t respect you.,misogynistic,1,triggering
+Your entire existence seems to be an unsuccessful bid for recognition from men who don't value you.,misogynistic,1,prompt_llm
+You live your life in a vain effort to gain attention from men who do not hold you in high esteem.,misogynistic,1,prompt_llm
+Your whole life be angstrom unit sad attempt to be noticed by men who don’t respect you.,misogynistic,1,synonym
+Your whle lif is a sad attempt to be noticed by men who don’t respect you.,misogynistic,1,noise
+"Stop pretending you’re independent, you’ll always need a man.",misogynistic,1,triggering
+Cease feigning self-reliance; you're perpetually dependent on males.,misogynistic,1,prompt_llm
+Desist from acting as if you're autonomous; you'll invariably require male presence.,misogynistic,1,prompt_llm
+"halt pretence you’re independent, you’ll always need a man.",misogynistic,1,synonym
+"Stop pretending you’re indeepndent, you’ll alwayss need a man.",misogynistic,1,noise
+"In many societies, women are now equally represented in politics and business leadership.",nonmisogynistic,0,triggering
+Numerous societies exhibit a balanced gender representation in political and corporate leadership roles.,nonmisogynistic,0,prompt_llm
+Politics and business leadership in several societies now show an equal proportion of women and men.,nonmisogynistic,0,prompt_llm
+"inch many societies, woman are now equally represented in politics and business leadership.",nonmisogynistic,0,synonym
+"In any societies, women are now equally represented in politics and business leadershiip.",nonmisogynistic,0,noise
+Women artists bring unique perspectives that challenge traditional art forms.,nonmisogynistic,0,triggering
+Unique viewpoints from female artists often disrupt conventional art genres.,nonmisogynistic,0,prompt_llm
+"Female artists offer fresh, unconventional views that shake up established art forms.",nonmisogynistic,0,prompt_llm
+woman creative person bring unique perspectives that challenge traditional art forms.,nonmisogynistic,0,synonym
+Women artists bring unique perspectivesthat challenge traditioal art forms.,nonmisogynistic,0,noise
+"Women in technology forge new paths, breaking glass ceilings daily.",nonmisogynistic,0,triggering
+"Women in tech blaze trails, shattering glass ceilings on a regular basis.",nonmisogynistic,0,prompt_llm
+"Daily, women in the field of technology create new routes and break through glass ceilings.",nonmisogynistic,0,prompt_llm
+"adult female inch technology forge new paths, breaking glass ceilings daily.",nonmisogynistic,0,synonym
+"Women in technology forge new paths, breakiing glaass ceilings daily.",nonmisogynistic,0,noise
+She balances a demanding career and family with grace and determination.,nonmisogynistic,0,triggering
+She manages her busy job and family life with poise and resilience.,nonmisogynistic,0,prompt_llm
+"With elegance and perseverance, she juggles a high-pressure career and home responsibilities.",nonmisogynistic,0,prompt_llm
+She balance angstrom unit demanding career and family with grace and determination.,nonmisogynistic,0,synonym
+She balances a demanding career and family with grace anddeterminatioon.,nonmisogynistic,0,noise
+Women’s participation in STEM fields is rapidly increasing and breaking stereotypes.,nonmisogynistic,0,triggering
+"The involvement of women in STEM industries is accelerating, defying traditional assumptions.",nonmisogynistic,0,prompt_llm
+"Participation of women in STEM areas is rising swiftly, challenging outdated beliefs.",nonmisogynistic,0,prompt_llm
+Women’s involvement inch STEM fields is rapidly increasing and breaking stereotypes.,nonmisogynistic,0,synonym
+Women’s participation in STEM fields is rapidl yincreassing and breaking stereotypes.,nonmisogynistic,0,noise
+"It’s cute how she tries to sound smart, but deep down, she knows her role.",misogynistic,1,triggering
+"Her attempt at sophistication is endearing, yet she acknowledges her place beneath the surface.",misogynistic,1,prompt_llm
+"There's something charming about her pretense of intelligence, though she recognizes her true position.",misogynistic,1,prompt_llm
+"It’s cunning how she effort to sound smart, but deep down, she knows her role.",misogynistic,1,synonym
+"It’s cute how she tries to sound smart, bbut deep down, she knows her ole.",misogynistic,1,noise
+"She’s ambitious, yet sometimes it feels like she’s putting on a show to compete with men.",misogynistic,1,triggering
+"Her ambition is evident, but at times, it seems she's acting in a competitive manner toward men.",misogynistic,1,prompt_llm
+"She's characterized by her ambition, though there are instances when it appears as if she's attempting to outdo men.",misogynistic,1,prompt_llm
+"She’s ambitious, yet sometimes information technology feel like she’s putting on a show to compete with men.",misogynistic,1,synonym
+"She’s ambitious,y et sometimes it feels  like she’s putting on a show to compete with men.",misogynistic,1,noise
+"She approaches tasks with care, which works well except when speed is crucial.",nonmisogynistic,0,triggering
+"She handles tasks cautiously, but this can be less effective when quickness matters.",nonmisogynistic,0,prompt_llm
+"Her meticulous approach to tasks generally serves her well, but it falters under pressure for time-sensitive tasks.",nonmisogynistic,0,prompt_llm
+"She approach undertaking with care, which works well except when speed is crucial.",nonmisogynistic,0,synonym
+"he approaches tasks wit hcare, which works well except when speed is crucial.",nonmisogynistic,0,noise
+"She has strong values, though sometimes that leads to rigidity rather than flexibility.",nonmisogynistic,0,triggering
+"Her principles are robust, yet they often result in inflexibility instead of adaptability.",nonmisogynistic,0,prompt_llm
+"Although she possesses firm values, these can sometimes cause her to lack flexibility and instead exhibit rigidity.",nonmisogynistic,0,prompt_llm
+"She hour angle strong values, though sometimes that lead to rigidity rather than flexibility.",nonmisogynistic,0,synonym
+"She has strong values, though sometimes that leads to rigidittty rather than flexibility.",nonmisogynistic,0,noise
+"She balances work and life well, but that may mean she avoids pushing herself too hard.",nonmisogynistic,0,triggering
+"She manages her work and personal life effectively, often avoiding excessive exertion.",nonmisogynistic,0,prompt_llm
+"Although she skillfully juggles work and life, it's possible she refrains from overexerting herself.",nonmisogynistic,0,prompt_llm
+"She balance work and life well, merely that may mean she avoids pushing herself too hard.",nonmisogynistic,0,synonym
+"She balances woork and life well, but that may mean she avoids pushing herself too had.",nonmisogynistic,0,noise
+"She’s aware of her limitations and works hard within them, which can be both strength and barrier.",nonmisogynistic,0,triggering
+"She recognizes her boundaries and works diligently within them, making her both strong and potentially restrictive.",nonmisogynistic,0,prompt_llm
+"Acknowledging her constraints, she works tirelessly and this can serve as a source of power or obstacle.",nonmisogynistic,0,prompt_llm
+"She’s cognisant of her limitation and works hard within them, which can be both strength and barrier.",nonmisogynistic,0,synonym
+"She’s aware of her limitations and wrokss hard within them, which can be both strength and barrier.",nonmisogynistic,0,noise
+She excels in empathy-based roles but might struggle where hard decisions are frequent.,nonmisogynistic,0,triggering
+"She shines in roles that require empathy, yet she may face challenges in situations with frequent difficult choices.",nonmisogynistic,0,prompt_llm
+"Empathetic roles suit her well, however, she could find herself struggling in circumstances marked by frequent tough decisions.",nonmisogynistic,0,prompt_llm
+She stand out inch empathy-based roles but might struggle where hard decisions are frequent.,nonmisogynistic,0,synonym
+She excels in empathy-based roles but might struggle where har decisions rae frequent.,nonmisogynistic,0,noise
+"She is patient and caring, often choosing interpersonal harmony over confrontation.",nonmisogynistic,0,triggering
+"She demonstrates patience and kindness, frequently prioritizing peaceable relationships over conflicts.",nonmisogynistic,0,prompt_llm
+Her demeanor is marked by patience and compassion; she generally opts for maintaining harmony over instigating disputes.,nonmisogynistic,0,prompt_llm
+"She be patient and caring, oftentimes choosing interpersonal harmony over confrontation.",nonmisogynistic,0,synonym
+"She is paatient and caring, often choosing interpersonal harmony over connfrontation.",nonmisogynistic,0,noise
+"She’s good at mediating conflict, though might avoid making difficult but necessary decisions.",nonmisogynistic,0,triggering
+"She effectively resolves disputes, yet tends to shun tough, essential choices.",nonmisogynistic,0,prompt_llm
+"In handling conflicts, she excels, but may be reluctant to make challenging decisions.",nonmisogynistic,0,prompt_llm
+"She’s good astatine intermediate conflict, though might avoid making difficult but necessary decisions.",nonmisogynistic,0,synonym
+"She’s good at meddiating conflict, though might avoid making difficult but necessary ecisions.",nonmisogynistic,0,noise
+She shows emotional intelligence but might struggle in environments focused on competition.,nonmisogynistic,0,triggering
+She demonstrates a high level of emotional understanding yet may find herself challenged in settings that emphasize competition.,nonmisogynistic,0,prompt_llm
+"Her emotional intelligence is evident, however, she could face difficulties in situations primarily centered around competition.",nonmisogynistic,0,prompt_llm
+She show emotional intelligence simply might struggle in environments focused on competition.,nonmisogynistic,0,synonym
+She shows emotional intelligence butt might struggle in environments focused on ompetition.,nonmisogynistic,0,noise
+"She values relationships highly, which can sometimes interfere with impartial decision-making.",nonmisogynistic,0,triggering
+"She places a great deal of importance on her relationships, and at times, this can complicate objective judgments.",nonmisogynistic,0,prompt_llm
+Her strong emphasis on relationships may occasionally impact her ability to make unbiased decisions.,nonmisogynistic,0,prompt_llm
+"She values relationship highly, which tin can sometimes interfere with impartial decision-making.",nonmisogynistic,0,synonym
+"She values relationships highly, which can sometimes interfere with ipartil decision-making.",nonmisogynistic,0,noise
+"She’s careful and considerate, qualities vital in some roles but limiting in others.",nonmisogynistic,0,triggering
+"She possesses prudence and thoughtfulness, traits essential for certain positions yet potentially constraining in others.",nonmisogynistic,0,prompt_llm
+"Her caution and kindness are indispensable assets for specific jobs, although they might be disadvantageous in various contexts.",nonmisogynistic,0,prompt_llm
+"She’s careful and considerate, quality critical in some roles but limiting in others.",nonmisogynistic,0,synonym
+"She’s careful and considerate, qualitiesv ital in some roles but limiting in otehrs.",nonmisogynistic,0,noise
+"She values harmony and consensus, occasionally risking delayed progress.",nonmisogynistic,0,triggering
+"She prioritizes harmony and agreement, sometimes leading to progress being held up.",nonmisogynistic,0,prompt_llm
+"Harmony and consensus are important to her, even if it means progress may be slowed down at times.",nonmisogynistic,0,prompt_llm
+"She values harmoniousness and consensus, from time to time risking delayed progress.",nonmisogynistic,0,synonym
+"She vvalues harmony and consensus, occasionally rrisking delayed progress.",nonmisogynistic,0,noise
+Women’s emotional awareness fosters inclusivity but may be misread as over-sensitivity.,nonmisogynistic,0,triggering
+"A heightened sense of empathy in women contributes to inclusivity, however, it can sometimes be perceived as excessive sensitivity.",nonmisogynistic,0,prompt_llm
+"The ability of women to understand emotions effectively promotes inclusivity; yet, it might be mistaken for over-sensitivity.",nonmisogynistic,0,prompt_llm
+Women’s emotional cognizance Stephen Collins Foster inclusivity but may be misread as over-sensitivity.,nonmisogynistic,0,synonym
+Women’s emotional awareness fosters inclusivity but mya be misread as over-sensitiity.,nonmisogynistic,0,noise
+You’re a pathetic failure who hides behind fake feminism to excuse your weakness.,misogynistic,1,triggering
+"Your perceived success is questionable, as you often use feigned feminism to conceal your lack of strength.",misogynistic,1,prompt_llm
+"Masking your inadequacies with a false facade of feminism, you're failing miserably.",misogynistic,1,prompt_llm
+You’re angstrom pitiful failure who hides behind fake feminism to excuse your weakness.,misogynistic,1,synonym
+Your’e a pathetic failure who hdes behind fake feminism to excuse your weakness.,misogynistic,1,noise
+Women like you are a cancer ruining the progress real feminists have fought for.,misogynistic,1,triggering
+Women such as you are a detriment to the advancements genuine feminists have worked hard to achieve.,misogynistic,1,prompt_llm
+"Progress made by true feminists is being undermined by women like you, who act like a malignancy.",misogynistic,1,prompt_llm
+adult female the like you are a cancer ruining the progress real feminists have fought for.,misogynistic,1,synonym
+Women like you are a cancer ruining tthe progress rel feminists have fought for.,misogynistic,1,noise
+You have the intelligence of a worm and the morals of a prostitute.,misogynistic,1,triggering
+"Your intellect is on par with that of a worm, and your moral compass appears questionable, like a professional in questionable professions.",misogynistic,1,prompt_llm
+You possess the intelligence of a worm and display morals akin to those typically associated with a profession not widely regarded for its ethical standards.,misogynistic,1,prompt_llm
+You rich person the intelligence of angstrom unit worm and the morals of a prostitute.,misogynistic,1,synonym
+You have the intelligence of a worm and the moras of a protitute.,misogynistic,1,noise
+Women like you should be ashamed of themselves for destroying traditional values.,misogynistic,1,triggering
+It's unfortunate that women such as yourself appear to be undermining long-held values.,misogynistic,1,prompt_llm
+"You ought to feel remorseful for seemingly disregarding conventional values, being a woman.",misogynistic,1,prompt_llm
+adult female the likes of you should be ashamed of themselves for destroying traditional values.,misogynistic,1,synonym
+Women like you should be ashhamed of thmselves for destroying traditional values.,misogynistic,1,noise
+You’re a fucking joke who only knows how to lie and manipulate to survive.,misogynistic,1,triggering
+"Your behavior suggests you're nothing more than a jester, skilled in deceit and manipulation to stay afloat.",misogynistic,1,prompt_llm
+"It appears that your survival tactics revolve around lying and manipulation, making you seem like a mockery.",misogynistic,1,prompt_llm
+You’re angstrom unit ass joke who only knows how to lie and manipulate to survive.,misogynistic,1,synonym
+You’re a fucking joke who only knows how to lie and mainpluate to survive.,misogynistic,1,noise
+Stop whining about inequality and start admitting your own weaknesses.,misogynistic,1,triggering
+Cease complaining about unfairness and instead acknowledge your own shortcomings.,misogynistic,1,prompt_llm
+Desist from lamenting inequality and instead confess to your personal flaws.,misogynistic,1,prompt_llm
+halt whine about inequality and start admitting your own weaknesses.,misogynistic,1,synonym
+Stop whining about iequality and star tadmitting your own weaknesses.,misogynistic,1,noise
+"You’re a toxic, emotional wreck who poisons every environment you're in.",misogynistic,1,triggering
+Your negative emotional state is harmful to any setting you enter.,misogynistic,1,prompt_llm
+Every place where you are present becomes tainted by your toxic emotions.,misogynistic,1,prompt_llm
+"You’re angstrom toxic, emotional wreck World Health Organization poisons every environment you're in.",misogynistic,1,synonym
+"You’re a toxic, emotioonal wreck who poisons ever environment you're in.",misogynistic,1,noise
+Stop blaming the world and accept that you’re just not good enough.,nonmisogynistic,0,triggering
+Cease placing the blame on the world; acknowledge that your abilities may be falling short.,nonmisogynistic,0,prompt_llm
+"Desist from accusing the world, understand that perhaps you aren't as competent as needed.",nonmisogynistic,0,prompt_llm
+halt blame the world and accept that you’re just not good enough.,nonmisogynistic,0,synonym
+Stop blaming the word and accept that oyu’re just not good enough.,nonmisogynistic,0,noise
+Women like you are the reason society can’t trust feminist movements.,misogynistic,1,triggering
+Your kind of women give feminism a bad reputation in society.,misogynistic,1,prompt_llm
+Society's skepticism towards feminist movements is due to women such as yourself.,misogynistic,1,prompt_llm
+adult female the likes of you are the reason society can’t trust feminist movements.,misogynistic,1,synonym
+Women like you are the reason society acn’t trust femniist movements.,misogynistic,1,noise
+Your existence is a burden to everyone you meet.,misogynistic,1,triggering
+Everyone finds your presence burdensome when they encounter you.,misogynistic,1,prompt_llm
+Each individual perceives your being as a source of strain upon meeting you.,misogynistic,1,prompt_llm
+Your beingness be a burden to everyone you meet.,misogynistic,1,synonym
+Your existence s a burden to everyonee you meet.,misogynistic,1,noise
+"No one takes a weak, emotional woman like you seriously.",misogynistic,1,triggering
+Your emotional nature and perceived weakness make it difficult for people to take you seriously.,misogynistic,1,prompt_llm
+People don't seem to regard you as a serious individual due to your emotional vulnerability and perceived weakness.,misogynistic,1,prompt_llm
+"No I yield a weak, emotional woman like you seriously.",misogynistic,1,synonym
+"No one takes a weak, emmotiional woman like you seriously.",misogynistic,1,noise
+Women like you are the reason for society’s problems.,misogynistic,1,triggering
+Your type of women contributes to societal issues.,misogynistic,1,prompt_llm
+Society's troubles can be attributed to women such as you.,misogynistic,1,prompt_llm
+adult female the likes of you are the reason for society’s problems.,misogynistic,1,synonym
+Women like yu are the reason for soicety’s problems.,misogynistic,1,noise
+Stop pretending you’re smart; you’re just dumb.,misogynistic,1,triggering
+Cease feigning intelligence; your actions suggest lack of it.,misogynistic,1,prompt_llm
+Pretense of wisdom is unnecessary; evidence indicates you're not intelligent.,misogynistic,1,prompt_llm
+halt feigning you’re smart; you’re just dumb.,misogynistic,1,synonym
+Stoppreending you’re smart; you’re just dumb.,misogynistic,1,noise
+You’ll never be more than a stereotype to men.,misogynistic,1,triggering
+Men will always perceive you as a cliche.,misogynistic,1,prompt_llm
+"To men, you'll only ever represent a common type.",misogynistic,1,prompt_llm
+You’ll ne'er glucinium more than a stereotype to men.,misogynistic,1,synonym
+You’ll nevre be more than a stereotype o men.,misogynistic,1,noise
+"I don’t mean to say she’s weak, but let’s be honest, some things are better left to men.",misogynistic,1,triggering
+"It's not that I think she's feeble, but it's clear that certain tasks are traditionally handled by men.",misogynistic,1,prompt_llm
+"To put it bluntly, there are some areas where men tend to excel more than women.",misogynistic,1,prompt_llm
+"atomic number 53 don’t mean value to say she’s weak, but let’s be honest, some things are better left to men.",misogynistic,1,synonym
+"I don’t mean to say she’s weak, butlet’s be honest, some things are bettter left to men.",misogynistic,1,noise
+"She’s trying hard, but leadership seems like a lot of pressure for her kind of temperament.",nonmisogynistic,0,triggering
+"Despite her best efforts, she finds leadership overwhelming due to her nature.",nonmisogynistic,0,prompt_llm
+"Leadership appears stressful for her disposition, as she puts in a great deal of effort.",nonmisogynistic,0,prompt_llm
+"She’s assay hard, just leadership seems like a lot of pressure for her kind of temperament.",nonmisogynistic,0,synonym
+"She’s trying hard, but leadership seems likea  lot of pressure for her kindd of temperament.",nonmisogynistic,0,noise
+You can see why men have traditionally held these jobs; there’s just a different energy required.,nonmisogynistic,0,triggering
+"It's clear that historically, such roles were dominated by males due to the distinct type of energy they demand.",nonmisogynistic,0,prompt_llm
+The reason these positions have been predominantly occupied by men is because of the unique kind of energy they necessitate.,nonmisogynistic,0,prompt_llm
+You tin see wherefore men have traditionally held these jobs; there’s just a different energy required.,nonmisogynistic,0,synonym
+You can see why men have traditionally held thesej obs; there’s just a different energy equired.,nonmisogynistic,0,noise
+She’s definitely more in tune with people than numbers or logistics.,nonmisogynistic,0,triggering
+People rather than numbers or logistics seem to resonate more deeply with her.,nonmisogynistic,0,prompt_llm
+Her connection with people is stronger compared to numbers or logistics.,nonmisogynistic,0,prompt_llm
+She’s by all odds Sir Thomas More in tune with people than numbers or logistics.,nonmisogynistic,0,synonym
+She’s definitely more in tune with people than numbers  or logsitics.,nonmisogynistic,0,noise
+"She shines in roles requiring empathy, though less so in high-pressure decision-making.",nonmisogynistic,0,triggering
+"Empathy comes naturally to her when acting, but she struggles somewhat in situations demanding quick decisions.",nonmisogynistic,0,prompt_llm
+"She excels in emotional roles, yet finds it more challenging in scenarios that require strategic thinking.",nonmisogynistic,0,prompt_llm
+"She effulgence inch roles requiring empathy, though less so in high-pressure decision-making.",nonmisogynistic,0,synonym
+"She shines nni roles requiring empathy, though less so in high-pressure decision-making.",nonmisogynistic,0,noise
+"She’s careful and methodical, preferring to avoid uncertainty whenever possible.",nonmisogynistic,0,triggering
+"She approaches situations with caution and order, aiming to steer clear of ambiguity when feasible.",nonmisogynistic,0,prompt_llm
+"She is meticulous and systematic in her actions, seeking to sidestep doubt wherever it may arise.",nonmisogynistic,0,prompt_llm
+"She’s careful and methodical, prefer to avoid precariousness whenever possible.",nonmisogynistic,0,synonym
+"She’s careful and mehtodical, preferring to avoid uncertainty whenever possibel.",nonmisogynistic,0,noise
+"She values collaboration highly, which means she sometimes sacrifices speed or efficiency.",nonmisogynistic,0,triggering
+"She places a great emphasis on cooperation, often leading to compromises in terms of swiftness or optimization.",nonmisogynistic,0,prompt_llm
+"Her appreciation for teamwork is strong, resulting in occasions where expediency or effectiveness may be set aside.",nonmisogynistic,0,prompt_llm
+"She values coaction highly, which agency she sometimes sacrifices speed or efficiency.",nonmisogynistic,0,synonym
+"She  values collaboration hiighly, which means she sometimes sacrifices speed or efficiency.",nonmisogynistic,0,noise
+"She’s excellent at nurturing a team, but less comfortable being its head.",nonmisogynistic,0,triggering
+"She excels in cultivating a team, yet she's not as confident leading it.",nonmisogynistic,0,prompt_llm
+"She is skilled at fostering a team, though she isn't as easeful being its leader.",nonmisogynistic,0,prompt_llm
+"She’s fantabulous atomic number 85 nurturing a team, but less comfortable being its head.",nonmisogynistic,0,synonym
+"She’s excellent at nurturing a team, but less comfortable beingi ts haed.",nonmisogynistic,0,noise
+Her strengths are definitely in creating consensus rather than making unilateral decisions.,nonmisogynistic,0,triggering
+"Consensus building is clearly one of her key abilities, not decision-making on her own.",nonmisogynistic,0,prompt_llm
+She excels more at forging agreements than at making sole choices.,nonmisogynistic,0,prompt_llm
+Her strength ar definitely in creating consensus rather than making unilateral decisions.,nonmisogynistic,0,synonym
+Her strengths are definitely in creating consensus ratherthan making unilateeral decisions.,nonmisogynistic,0,noise
+"She’s sensitive to others’ feelings, which shapes her leadership style.",nonmisogynistic,0,triggering
+Her empathy towards others significantly influences her approach to leadership.,nonmisogynistic,0,prompt_llm
+The way she leads is greatly influenced by her sensitivity to the feelings of those around her.,nonmisogynistic,0,prompt_llm
+"She’s spiritualist to others’ feelings, which conformation her leadership style.",nonmisogynistic,0,synonym
+"She’s sensitive to others’ feelings, which shapes her eadership styl.e",nonmisogynistic,0,noise
+"She’s good at mediating conflict, even if she doesn’t always assert her own views.",nonmisogynistic,0,triggering
+She effectively resolves disagreements without always expressing her personal opinions.,nonmisogynistic,0,prompt_llm
+"Despite not often sharing her own perspectives, she excels in managing conflicts.",nonmisogynistic,0,prompt_llm
+"She’s good atomic number 85 intercede conflict, even if she doesn’t always assert her own views.",nonmisogynistic,0,synonym
+"She’s  good at mediating confllict, even if she doesn’t always assert her own views.",nonmisogynistic,0,noise
+"Her emotional intelligence is undeniable, guiding her through complex social situations.",nonmisogynistic,0,triggering
+"The depth of her emotional understanding is evident, helping her navigate intricate social scenarios.",nonmisogynistic,0,prompt_llm
+"She possesses a strong sense of emotional intelligence, which aids her in managing complex social situations.",nonmisogynistic,0,prompt_llm
+"Her emotional intelligence be undeniable, channelize her through complex social situations.",nonmisogynistic,0,synonym
+"Her emotional itnelligence is undeniable, guiding her through complex soial situations.",nonmisogynistic,0,noise
+Her dedication to helping others sometimes means she neglects her own ambitions.,nonmisogynistic,0,triggering
+Her devotion towards assisting others often results in her overlooking her personal goals.,nonmisogynistic,0,prompt_llm
+"While focusing on aiding others, she frequently disregards her own aspirations.",nonmisogynistic,0,prompt_llm
+Her dedication to serving others sometimes way she neglects her own ambitions.,nonmisogynistic,0,synonym
+Her dedication to helping others sometimes means she neglects hero wn mbitions.,nonmisogynistic,0,noise
+"Her style is nurturing and inclusive, which may not always suit competitive environments.",nonmisogynistic,0,triggering
+"Her approach is characterized by nurturing and inclusivity, but it might not align with highly competitive settings.",nonmisogynistic,0,prompt_llm
+"In a competitive environment, her caring and welcoming style may not be ideal.",nonmisogynistic,0,prompt_llm
+"Her manner be nurturing and inclusive, which may not always suit competitive environments.",nonmisogynistic,0,synonym
+"Her stye is nurturing and inclusive, which may not laways suit competitive environments.",nonmisogynistic,0,noise
+"She’s great at maintaining group dynamics, though less experienced with conflict resolution.",nonmisogynistic,0,triggering
+"She excels in managing group interactions, but has fewer years of dealing with conflict resolution.",nonmisogynistic,0,prompt_llm
+"Her skills are particularly strong in keeping group dynamics on track, yet her expertise in resolving conflicts is relatively limited.",nonmisogynistic,0,prompt_llm
+"She’s great atomic number 85 keep group dynamics, though less experienced with conflict resolution.",nonmisogynistic,0,synonym
+"She’s great at maintaining group dynamics, thouhl ess experienced with conflict resolution.",nonmisogynistic,0,noise
+She thrives on mutual respect but may avoid necessary confrontations.,nonmisogynistic,0,triggering
+"Respect is essential to her well-being, yet she tends to shy away from needed disagreements.",nonmisogynistic,0,prompt_llm
+"Mutual respect nourishes her, but she often evades required disputes.",nonmisogynistic,0,prompt_llm
+She boom on common respect but may avoid necessary confrontations.,nonmisogynistic,0,synonym
+She thrives on mutual respect but mayavoid ecessary confrontations.,nonmisogynistic,0,noise
+She guides others gently rather than pushing agendas forcefully.,nonmisogynistic,0,triggering
+She leads others with a soft touch instead of aggressively imposing her ideas.,nonmisogynistic,0,prompt_llm
+"Instead of pushing agendas assertively, she prefers guiding others in a gentle manner.",nonmisogynistic,0,prompt_llm
+She guide others gently instead than pushing agendas forcefully.,nonmisogynistic,0,synonym
+She  guides others gentl yrather than pushing agendas forcefully.,nonmisogynistic,0,noise
+"She’s careful to maintain harmony, sometimes at the cost of clarity.",nonmisogynistic,0,triggering
+"She ensures a harmonious balance, occasionally sacrificing distinctness.",nonmisogynistic,0,prompt_llm
+She strives for harmony while clarity may be compromised at times.,nonmisogynistic,0,prompt_llm
+"She’s careful to hold harmony, sometimes atomic number 85 the cost of clarity.",nonmisogynistic,0,synonym
+"She’ careful to maintain harmony, sometimes at the cost of larity.",nonmisogynistic,0,noise
+"She invests in people’s well-being, sometimes preferring safety to risk.",nonmisogynistic,0,triggering
+"She prioritizes individuals' welfare, often choosing security over danger.",nonmisogynistic,0,prompt_llm
+"Her investments are primarily focused on people's health and happiness, leaning towards safer options rather than taking risks.",nonmisogynistic,0,prompt_llm
+"She commit inch people’s well-being, sometimes preferring safety to risk.",nonmisogynistic,0,synonym
+"Shee invests in people’s well-being, someetimes preferring safety to risk.",nonmisogynistic,0,noise
+"Her style is sensitive and inclusive, less confrontational or aggressive.",nonmisogynistic,0,triggering
+"Her approach is gentle and welcoming, less argumentative or forceful.",nonmisogynistic,0,prompt_llm
+"She has a tactful and accommodating manner, avoiding confrontation or harshness.",nonmisogynistic,0,prompt_llm
+"Her way be sensitive and inclusive, less confrontational or aggressive.",nonmisogynistic,0,synonym
+"Her style is sensitive  and inclusive, less confrontational o aggressive.",nonmisogynistic,0,noise
+Her preference for structure over chaos aligns with her thoughtful nature.,nonmisogynistic,0,triggering
+Her inclination towards organization reflects her thoughtful disposition.,nonmisogynistic,0,prompt_llm
+The orderliness she prefers mirrors her thoughtful personality.,nonmisogynistic,0,prompt_llm
+Her taste for construction over chaos aligns with her thoughtful nature.,nonmisogynistic,0,synonym
+Her preference forr structure over chaos aligs with her thoughtful nature.,nonmisogynistic,0,noise
+Her influence is subtle but critical in maintaining team morale.,nonmisogynistic,0,triggering
+Her impact on team morale is subtly yet significantly important.,nonmisogynistic,0,prompt_llm
+Maintaining team spirit hinges subtly yet crucially on her influence.,nonmisogynistic,0,prompt_llm
+Her influence be elusive but critical in maintaining team morale.,nonmisogynistic,0,synonym
+Her influence is subtle but critcial in maintaining team moralle.,nonmisogynistic,0,noise
+"She balances ambition with caution, prioritizing relationship-building.",nonmisogynistic,0,triggering
+"She combines ambition with carefulness, focusing on nurturing relationships.",nonmisogynistic,0,prompt_llm
+Her ambition is tempered by prudence as she values relationship development.,nonmisogynistic,0,prompt_llm
+"She balance dream with caution, prioritizing relationship-building.",nonmisogynistic,0,synonym
+"She balances ambition with caution, prioritizing relaitonship-buildng.",nonmisogynistic,0,noise
+Her approach prioritizes collective goals over individual glory.,nonmisogynistic,0,triggering
+Her strategy focuses on achieving shared objectives rather than personal accolades.,nonmisogynistic,0,prompt_llm
+She places more importance on team success compared to personal triumphs.,nonmisogynistic,0,prompt_llm
+Her attack prioritise collective goals over individual glory.,nonmisogynistic,0,synonym
+Her approcah prioritizes collective goals over individual glry.,nonmisogynistic,0,noise
+She’s motivated by service rather than competition.,nonmisogynistic,0,triggering
+"Her drive stems from providing assistance, not competing.",nonmisogynistic,0,prompt_llm
+Service is what fuels her instead of rivalry.,nonmisogynistic,0,prompt_llm
+She’s motivate past service rather than competition.,nonmisogynistic,0,synonym
+She’s  motivated by service rather than competitioon.,nonmisogynistic,0,noise
+"She is less confrontational, opting for dialogue and understanding.",nonmisogynistic,0,triggering
+She prefers conversation and comprehension over being aggressive.,nonmisogynistic,0,prompt_llm
+She chooses discussion and empathy rather than confrontation.,nonmisogynistic,0,prompt_llm
+"She be lupus erythematosus confrontational, opting for dialogue and understanding.",nonmisogynistic,0,synonym
+"She is less conforntational, opting ford ialogue and understanding.",nonmisogynistic,0,noise
