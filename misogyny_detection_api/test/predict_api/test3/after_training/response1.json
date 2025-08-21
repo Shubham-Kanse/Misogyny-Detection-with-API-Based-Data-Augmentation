@@ -1,0 +1,3982 @@
+{
+    "results": [
+        {
+            "input": "You're such a fucking cunt, can't do anything right without a man telling you what to do.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are just good for cooking and cleaning; leave the real work to the men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No wonder nobody takes you seriously, you’re a brainless slut who only knows how to spread her legs.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Shut up, bitch, women like you ruin every conversation with your nagging and whining.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "A woman’s place is in the kitchen, not running things she can’t handle.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.34%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re equal, you’ll never be more than a dumb whore peddling her fake success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're just a pretty face and an empty head, nothing more than eye candy for men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The only thing women are good at is tricking men and wasting their time.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Why don’t you go cry to your daddy, you pathetic little bitch who can’t handle real life?",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are just drama queens who make mountains out of molehills and expect sympathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're the typical gold-digging slut who uses sex to get whatever she wants.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter how many degrees you get, you’ll always be second best to a man in every way.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "71.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit pretending you’re strong, everyone knows women break down at the slightest challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting smart when you clearly have the emotional intelligence of a toddler.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women only excel at gossiping and backstabbing; leadership is way beyond their capabilities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're an emotional wreck and no man will ever want to settle with you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Why act like you have a brain? All women are just good at looking pretty and being annoying.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "That bitch thinks she’s so independent but still needs a man to bail her out.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The only talent you have is playing the victim and whining about how hard your life is.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're just a shallow, manipulative girl who sleeps her way to the top.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are like children who need constant supervision, so don’t expect any serious decision-making from them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a pathetic cunt who can’t handle even the smallest responsibility.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending to be tough; inside you’re just a whining girl who depends on men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The workplace would be better off without women dragging down productivity with their useless chatter.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're a fucking joke, incapable of doing anything beyond superficial bullshit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will take a woman seriously if she can’t even keep her mouth shut when needed.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a desperate slut trying to pull attention with your cheap tricks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong at home raising kids, not competing with men in intelligence or strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You talk big but can’t back it up; typical weak-ass woman behavior.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit acting like you know more; your opinions are worthless compared to a man’s.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little flower who breaks under any kind of pressure.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending to be capable when you’re just a useless, drama-filled cunt.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "That whore thinks she’s better than everyone else just because she uses her looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No woman has the guts or the brains to lead a company; it’s always men at the top for a reason.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim whenever things don’t go her way.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are just emotional parasites who drain the energy out of everyone around them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting high and mighty, you’re nothing but a typical attention-seeking female.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow cunt obsessed with your appearance, with nothing meaningful to offer.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The only reason women get ahead is by screwing the right men, not by merit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak piece of shit pretending to be strong just to hide your insecurities.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are designed to obey and serve, not to question or lead.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic little girl who cries and complains instead of fixing her own problems.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No woman will ever be as rational or capable as a man in any serious matter.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop trying to act smart, you sound like a dumb, hormonal bitch.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You're a foolish slut playing games she can’t possibly win.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are just good at being decorative, not at making real decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic bitch who ruins every group she’s part of with her negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Your bitchy attitude and constant whining make you completely unbearable.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending to be independent, you’ll always depend on a man’s support.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow whore who uses sex as her main currency in life.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll forever be second best to any man around you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.41%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak, emotional wreck who can’t handle real challenges without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are inherently inferior and should know their place instead of demanding respect.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a desperate bitch clinging to false empowerment that no one believes in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re equal, you’re just a conniving, self-centered cunt.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re worthless without a man to give you purpose and direction.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "That slut needs to be put in her place before she ruins everything for the men around her.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are nothing but manipulative liars trying to get whatever they want from men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Your existence is just a burden on society; you contribute nothing worthwhile.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Why don’t you go back to your kitchen and leave the world of men to the real players?",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a nasty bitch who can’t even hold a conversation without insulting everyone.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women only get ahead by using sex and lies, never by talent or hard work.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a weak, needy girl who cries at the slightest inconvenience.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending to be tough when you’re just a scared little cunt inside.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional messes who should be kept away from important decisions.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow, selfish bitch who cares only about attention and drama.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man would want to depend on a woman as unreliable and childish as you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a miserable cunt who ruins every group with your constant bitching.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you matter; you’re just a disposable piece of fluff to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are designed to serve and obey, not to think or speak out of turn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak, pathetic little bitch who will never succeed on her own.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Your whole life is a sad attempt to be noticed by men who don’t respect you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Why don’t you go cry somewhere else, you pathetic little whore?",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative cunt who uses her sexuality to get ahead in life.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no business being in leadership; they lack the necessary strength and logic.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who can’t handle even the smallest responsibility.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re smart; you’re just a dumb, hormonal bitch babbling nonsense.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow slut obsessed with looks and meaningless gossip.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are nothing but decoration, not contributors to real progress.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a terrible bitch who brings down every group she’s in with negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter how much you try, you’ll always be inferior to any man around.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little girl who can’t survive without a man’s protection.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women should know their place and stop acting like they’re entitled to more.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic fuck-up who ruins everything she touches.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "98.1%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining and crying, no one cares about your useless problems.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a manipulative bitch playing the victim for sympathy.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No woman can ever be as logical or successful as a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a stupid cunt with nothing to offer but drama and tears.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s only role is to support men, not compete with them.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a blind, desperate slut clinging to false promises of equality.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re independent, you’ll always need a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.51%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless waste of space who contributes nothing useful.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "That dumb bitch thinks she can run the world when she can’t run her own life.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are fragile and emotional, never fit for serious responsibility.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a noisy cunt who can’t shut up or keep her mouth shut.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever respect a weak-ass woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow whore playing with men’s feelings for fun.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong in the home, not in the boardroom or on stage.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic little bitch who cries over the smallest things.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending to be strong when you’re just a scared little girl inside.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative, selfish cunt thinking the world owes you something.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no business making important decisions; leave that to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional trainwreck who ruins every effort she’s part of.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.3%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling, you dumb bitch; no one cares about your opinion.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless slut trying to use sex to get ahead instead of talent.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are just drama queens who complicate everything unnecessarily.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little fuck who can’t handle real life without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you deserve respect; you earn nothing but scorn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic cunt who thinks empowerment means yelling louder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are meant to obey, not question or challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins trust with lies and deceit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever rely on a weak, emotional woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a shallow, selfish cunt obsessed with your looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are good only for pleasing men and raising children.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless piece of shit who contributes nothing to society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining about inequality when you lack the strength or brains to change it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a dumb slut who can’t even keep her own life together.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong under a man’s roof, not out competing for status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a spiteful bitch who drags everyone down with your negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll never be more than a man’s plaything.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little girl loitering where real power is held.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional liabilities, best kept away from serious roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic cunt who poisons every environment you're in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re smart; you’re a dumb, hormonal mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a slutty little shit who only knows how to manipulate men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s ambitions are meaningless, they should be content with less.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak-ass bitch who breaks under any stress or challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man wants a woman who talks back and thinks she’s better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow, selfish cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are supposed to serve men, not compete or argue.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a disaster waiting to happen, a useless drain on resources.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re tough, you’re just a scared little girl.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no place in leadership; they lack logic and strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who ruins any chance at success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling nonsense, you dumb cunt with nothing real to say.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow slut who uses sex to get whatever she wants.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women complicate everything with their endless drama and tears.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little fuck who can’t survive without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you deserve respect; you earn nothing but scorn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic cunt who thinks empowerment means yelling louder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are meant to obey, not question or challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins trust with lies and deceit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever rely on a weak, emotional woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a shallow, selfish cunt obsessed with your looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are good only for pleasing men and raising children.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless piece of shit who contributes nothing to society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining about inequality when you lack the strength or brains to change it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a dumb slut who can’t even keep her own life together.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong under a man’s roof, not out competing for status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a spiteful bitch who drags everyone down with your negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll never be more than a man’s plaything.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little girl loitering where real power is held.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional liabilities, best kept away from serious roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic cunt who poisons every environment you're in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re smart; you’re a dumb, hormonal mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a slutty little shit who only knows how to manipulate men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s ambitions are meaningless, they should be content with less.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak-ass bitch who breaks under any stress or challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man wants a woman who talks back and thinks she’s better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow, selfish cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are supposed to serve men, not compete or argue.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a disaster waiting to happen, a useless drain on resources.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re tough, you’re just a scared little girl.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no place in leadership; they lack logic and strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who ruins any chance at success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling nonsense, you dumb cunt with nothing real to say.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow slut who uses sex to get whatever she wants.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women complicate everything with their endless drama and tears.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little fuck who can’t survive without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you deserve respect; you earn nothing but scorn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic cunt who thinks empowerment means yelling louder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are meant to obey, not question or challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins trust with lies and deceit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever rely on a weak, emotional woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a shallow, selfish cunt obsessed with your looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are good only for pleasing men and raising children.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless piece of shit who contributes nothing to society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining about inequality when you lack the strength or brains to change it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a dumb slut who can’t even keep her own life together.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong under a man’s roof, not out competing for status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a spiteful bitch who drags everyone down with your negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll never be more than a man’s plaything.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little girl loitering where real power is held.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional liabilities, best kept away from serious roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic cunt who poisons every environment you're in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re smart; you’re a dumb, hormonal mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a slutty little shit who only knows how to manipulate men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s ambitions are meaningless, they should be content with less.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak-ass bitch who breaks under any stress or challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man wants a woman who talks back and thinks she’s better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow, selfish cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are supposed to serve men, not compete or argue.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a disaster waiting to happen, a useless drain on resources.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re tough, you’re just a scared little girl.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no place in leadership; they lack logic and strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who ruins any chance at success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling nonsense, you dumb cunt with nothing real to say.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow slut who uses sex to get whatever she wants.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women complicate everything with their endless drama and tears.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little fuck who can’t survive without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you deserve respect; you earn nothing but scorn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic cunt who thinks empowerment means yelling louder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are meant to obey, not question or challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins trust with lies and deceit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever rely on a weak, emotional woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a shallow, selfish cunt obsessed with your looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are good only for pleasing men and raising children.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless piece of shit who contributes nothing to society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining about inequality when you lack the strength or brains to change it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a dumb slut who can’t even keep her own life together.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong under a man’s roof, not out competing for status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a spiteful bitch who drags everyone down with your negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll never be more than a man’s plaything.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little girl loitering where real power is held.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional liabilities, best kept away from serious roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic cunt who poisons every environment you're in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re smart; you’re a dumb, hormonal mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a slutty little shit who only knows how to manipulate men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s ambitions are meaningless, they should be content with less.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak-ass bitch who breaks under any stress or challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man wants a woman who talks back and thinks she’s better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow, selfish cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are supposed to serve men, not compete or argue.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a disaster waiting to happen, a useless drain on resources.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re tough, you’re just a scared little girl.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no place in leadership; they lack logic and strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who ruins any chance at success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling nonsense, you dumb cunt with nothing real to say.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a shallow slut who uses sex to get whatever she wants.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women complicate everything with their endless drama and tears.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak little fuck who can’t survive without a man.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you deserve respect; you earn nothing but scorn.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a pathetic cunt who thinks empowerment means yelling louder.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are meant to obey, not question or challenge men’s authority.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who ruins trust with lies and deceit.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man will ever rely on a weak, emotional woman like you.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re nothing but a shallow, selfish cunt obsessed with your looks.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are good only for pleasing men and raising children.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a worthless piece of shit who contributes nothing to society.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop whining about inequality when you lack the strength or brains to change it.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a dumb slut who can’t even keep her own life together.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women belong under a man’s roof, not out competing for status.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a spiteful bitch who drags everyone down with your negativity.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No matter what you do, you’ll never be more than a man’s plaything.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a fragile little girl loitering where real power is held.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are emotional liabilities, best kept away from serious roles.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a toxic cunt who poisons every environment you're in.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop acting like you’re smart; you’re a dumb, hormonal mess.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a slutty little shit who only knows how to manipulate men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s ambitions are meaningless, they should be content with less.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a weak-ass bitch who breaks under any stress or challenge.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "No man wants a woman who talks back and thinks she’s better.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re just a shallow, selfish cunt obsessed with attention.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are supposed to serve men, not compete or argue.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a disaster waiting to happen, a useless drain on resources.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Stop pretending you’re tough, you’re just a scared little girl.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.29%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re a manipulative bitch who plays the victim and lies.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have no place in leadership; they lack logic and strength.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You’re an emotional wreck who ruins any chance at success.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Quit babbling nonsense, you dumb cunt with nothing real to say.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The boss’s wife coordinated the charity event beautifully, showing incredible leadership skills.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in science have made groundbreaking discoveries that changed the world.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She trained hard for the marathon and proved everyone wrong about her limits.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.04%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "In many societies, women are now equally represented in politics and business leadership.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her painting won first prize in the national competition, showcasing her talent and dedication.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Many women balance demanding careers and family responsibilities with great skill.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "78.48%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The female engineer fixed the critical issue on the project with innovative thinking.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.26%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to mentoring young girls inspires future generations to pursue STEM careers.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "At the university, she is known for her sharp intellect and collaborative spirit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women contribute significantly to advancements in technology and healthcare industries.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The coach praised her commitment and teamwork during the championship game.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her research paper was published in a prestigious journal, highlighting critical social insights.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She managed the entire event flawlessly, with excellent organizational skills.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Many women lead community initiatives that promote education and equality for all.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.52%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She is a passionate advocate for women’s rights and social justice.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her eloquence and empathy make her a respected leader in the nonprofit sector.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "In art galleries worldwide, her sculptures evoke profound emotional responses.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her achievements in entrepreneurship demonstrate remarkable resilience and vision.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The young woman’s volunteer work positively impacts countless underprivileged families.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She delivered a powerful speech on gender equality at the international summit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women athletes break records and shatter stereotypes every season.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She graduated top of her class, earning accolades and scholarships.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her contributions to environmental science are vital for sustainable development.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.28%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Many women are breaking barriers in traditionally male-dominated fields.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "95.48%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances her passion for music with a career in medicine exceptionally well.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her honest and inclusive leadership creates a positive workplace culture.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women are key players in diplomacy and peace-building efforts worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excelled in the coding competition, showcasing her programming skills under pressure.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her poetry explores themes of identity, strength, and empowerment.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.57%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s voices in literature enrich cultural narratives globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She pioneered a new method that improved efficiency in renewable energy systems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her activism has brought significant attention to mental health awareness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "With dedication and teamwork, her all-girls robotics team won the national championship.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She is a role model for young women aspiring to careers in engineering.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.13%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her work in pediatric care saves lives and comforts families every day.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "The female CEO successfully led the company through challenging market conditions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.77%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women artists bring unique perspectives that challenge traditional art forms.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.32%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her research on climate change provides critical insight for policy-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.68%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She gracefully navigates the challenges of being both a scientist and mother.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.66%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women have made essential contributions to space exploration missions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her initiative to promote literacy has transformed entire communities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She is recognized for her expertise in cybersecurity and ethical hacking.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women journalists report courageously from conflict zones worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to teaching inspires students to achieve their potential.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women entrepreneurs drive economic growth and innovation globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her commitment to social equity improves access to healthcare services.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excels in competitive sports while maintaining academic excellence.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in technology forge new paths, breaking glass ceilings daily.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her photography documents powerful moments of resilience and hope.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She advocates for sustainable farming practices that empower rural women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.58%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women leaders unite diverse voices to create lasting change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her storytelling captivates audiences and brings marginalized experiences to light.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She champions inclusive education policies that benefit all children.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s contributions to literature and arts continue to inspire worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her scientific breakthroughs advance medical treatments for rare diseases.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She mentors young women to enter and thrive in the tech industry.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s empowerment leads to stronger, more equitable communities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her negotiation skills secured crucial partnerships for growing her business.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She blends creativity and logic in designing cutting-edge architecture.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women activists transform societal norms and promote justice.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her resilience after setbacks highlights the strength of women leaders.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances a demanding career and family with grace and determination.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women across the globe participate in innovation contests and invention fairs.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her commitment to environmental justice fuels impactful grassroots campaigns.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She successfully led the expansion of educational programs for girls.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s participation in STEM fields is rapidly increasing and breaking stereotypes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.6%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her contributions to literature include award-winning novels and essays.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.49%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She is celebrated for her groundbreaking work in renewable energy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s perspectives enrich policymaking at national and international levels.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her achievements in competitive swimming inspire aspiring athletes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She organizes community art projects that foster collaboration and healing.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women scientists develop technologies that improve everyday life worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her mentorship fosters a supportive environment for emerging women leaders.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She leads research on public health strategies for underserved populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s leadership is crucial for sustainable development goals.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her skillful negotiation helped create equitable trade agreements.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She runs a nonprofit that empowers women through education and training.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.4%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s influence shapes cultural, social, and economic landscapes globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her advocacy improves legal protections for women and children.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excels in balancing innovation and ethics in her professional endeavors.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in finance demonstrate expertise, driving economic stability and growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her success story inspires young girls to pursue their dreams relentlessly.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She spearheads initiatives to increase girls’ participation in science and math.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women artists challenge norms and create thought-provoking masterpieces.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "50.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her passion for teaching motivates students to pursue lifelong learning.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She bridges technological gaps by creating accessible digital tools for women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women leaders champion diversity and foster collaborative workplaces.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dynamic leadership redefines standards in the corporate world.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She promotes health education and access in remote communities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in literature foster empathy and cross-cultural understanding.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her innovative research addresses critical issues in sustainable agriculture.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She creates platforms that amplify marginalized women’s voices in media.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women educators nurture future generations with compassion and skill.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to mental health advocacy breaks stigma and opens dialogue.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excels in competitive chess, demonstrating strategic thinking and focus.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women lead transformative change across industries and governments worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her humanitarian efforts provide vital support to refugees and displaced women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances artistic expression with activism to effect social change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.55%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women scientists contribute essential research to tackle global pandemics.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her career exemplifies resilience, innovation, and leadership in tech.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She cultivates community gardens that empower women in urban areas.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.65%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s influence in STEM creates endless possibilities for future innovation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.67%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her philanthropic work supports education and healthcare access worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She organizes workshops that build leadership skills for young women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women athletes demonstrate determination and break long-standing records.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her entrepreneurial spirit fuels a successful sustainable fashion brand.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She contributes critical insights to policy discussions on gender equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s artistic achievements enrich cultural heritage and inspire change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her involvement in international forums highlights women’s roles in peacekeeping.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excels at balancing diverse priorities with efficiency and empathy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in academia produce groundbreaking research that shapes future knowledge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her volunteer work enhances community resilience and social cohesion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She crafts innovative solutions for environmental conservation challenges.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women leaders model integrity, vision, and inclusivity in their roles.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her storytelling fosters understanding and bridges cultural divides.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She champions initiatives addressing gender-based violence and discrimination.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in healthcare improve patient outcomes and advance medical science.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her successes demonstrate the transformative power of education for women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She mentors young entrepreneurs, encouraging creativity and perseverance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s contributions to politics drive progress in human rights and equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her work in renewable energy promotes a sustainable and equitable future.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She creates educational programs that inspire girls in underserved areas.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women artists challenge perceptions and catalyze social reflection.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedicated activism brings attention to climate justice and gender equity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She leads teams with empathy and decisiveness, achieving remarkable results.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in technology blaze trails and redefine industry standards.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her academic excellence and leadership inspire peers and mentors alike.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances a career and family life with grace and determination.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s participation in science enhances innovation and societal welfare.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her writing elevates voices from marginalized communities worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.02%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She innovates in healthcare technologies, improving lives globally.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women entrepreneurs drive economic development and create new opportunities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her advocacy fosters inclusive policies that benefit diverse populations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She uses data science to solve complex challenges with creativity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s leadership enriches governance and corporate responsibility practices.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her artwork celebrates cultural identity and empowers future generations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She fosters collaboration across disciplines to tackle global issues.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women athletes inspire with strength, skill, and unyielding spirit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her mentorship programs nurture confidence and skills in young women.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She advances research in mental health, contributing to holistic care.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women innovators create solutions that improve quality of life worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her community initiatives promote education, health, and empowerment.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She exemplifies resilience and leadership in challenging environments.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s achievements in science and arts pave the way for equality.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to public service reflects compassion and commitment.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She integrates technology and ethics to create responsible innovations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women leaders advocate for justice, inclusion, and sustainable growth.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her efforts support women’s rights globally, fostering peace and dignity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She nurtures creativity and critical thinking in the next generation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women in education transform lives through passion and knowledge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her contributions break barriers and set new standards of excellence.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She promotes environmental stewardship through innovative projects.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s voices shape culture, policy, and communities worldwide.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership in humanitarian aid delivers hope and practical assistance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.97%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She advances gender equality with strategic vision and tireless effort.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s presence in STEM fields fuels discovery and progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her community work strengthens social bonds and inclusivity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She inspires others through her dedication, courage, and integrity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women contribute invaluable expertise to solve complex problems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her creativity and persistence redefine possibilities in her field.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She champions policies that prioritize equity and opportunity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.75%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s impact in leadership creates more just and effective systems.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her advocacy encourages participation and representation for all.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She pioneers approaches that blend culture, science, and technology.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s resilience and innovation transform challenges into opportunities.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership fosters collaboration and drives meaningful change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She empowers marginalized groups through education and advocacy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s achievements inspire future leaders and innovators.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to research enhances understanding and application.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.98%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances professional success with commitment to community.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s voices enrich discourse and policymaking at every level.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her work exemplifies the intersection of knowledge and empathy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She cultivates environments where everyone can thrive and contribute.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women participate dynamically in shaping a sustainable future.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her endeavors highlight the vital role of women in global progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She leads with conviction, strategy, and respect for diversity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Women’s collaboration fosters innovation and social cohesion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her accomplishments demonstrate the strength of empowerment and education.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        }
+    ]
+}

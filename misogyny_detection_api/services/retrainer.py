@@ -32,5 +32,4 @@ def trigger_retraining():
         ], env=env)
 
     finally:
-        # Do NOT remove the lock here! It will be removed at the end of training
         pass

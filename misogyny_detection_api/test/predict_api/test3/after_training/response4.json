@@ -1,0 +1,1003 @@
+{
+    "results": [
+        {
+            "input": "She’s really sweet, but sometimes you can tell she’s not cut out for the tough stuff.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.32%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "I don’t mean to say she’s weak, but let’s be honest, some things are better left to men.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s trying hard, but leadership seems like a lot of pressure for her kind of temperament.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.47%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her strengths lie more in supporting roles than leading from the front.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "92.37%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She means well, but emotional responses can cloud her judgement at times.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "You can see why men have traditionally held these jobs; there’s just a different energy required.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.37%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s very caring, which is great, though decision-making under stress isn’t her favorite.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "It’s not that she can’t handle it, but perhaps she prefers environments that are less confrontational.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She brings a lot of heart to the table, even if some technical aspects aren’t her forte.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Sometimes she lets feelings guide her more than facts, but that’s understandable.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.86%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s definitely more in tune with people than numbers or logistics.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.74%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her approach is more about bringing harmony than pushing aggressive change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "94.78%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s a strong presence when collaborating, but less so when competing.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.71%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her communication style is warm and inclusive, though maybe not always assertive.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She shines in roles requiring empathy, though less so in high-pressure decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s thoughtful and reflective, which can slow things down but helps avoid mistakes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s great at multitasking and managing relationships, even if she avoids risks.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her social skills are excellent, but sometimes she struggles with confrontation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.12%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She keeps the peace and supports others, even if she’s not often the one taking charge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s very approachable, though you might not look to her for tough calls.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.62%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her intuition guides her well in social situations, but less so in analytical tasks.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s careful and methodical, preferring to avoid uncertainty whenever possible.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her natural empathy sometimes leads her to put others’ needs before her own goals.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s reliable and consistent, though she may avoid stepping outside her comfort zone.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her ability to connect with people is impressive, even if strategic thinking can elude her.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.13%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She values collaboration highly, which means she sometimes sacrifices speed or efficiency.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s excellent at nurturing a team, but less comfortable being its head.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her strengths are definitely in creating consensus rather than making unilateral decisions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.38%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s sensitive to others’ feelings, which shapes her leadership style.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.36%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her nurturing nature enhances teamwork, though it sometimes blunts competitive edge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She listens carefully and adapts, yet avoids power struggles whenever possible.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her patience is admirable, though it can lead to missed opportunities for bold action.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She prioritizes relationships, often placing harmony above hard decisions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.61%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her strength lies in support roles rather than leading big projects.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "89.52%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She prefers predictable routines and clear guidelines over chaos or ambiguity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.82%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her approach is collaborative and inclusive, which may slow urgent responses.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s good at mediating conflict, even if she doesn’t always assert her own views.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.23%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She shows great care in handling people, though sometimes at a cost to efficiency.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her emotional intelligence is undeniable, guiding her through complex social situations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.39%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She demonstrates resilience in the face of setbacks, though tends to avoid confrontation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.81%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her dedication to helping others sometimes means she neglects her own ambitions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.7%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She excels in roles where diplomacy is valued over decisiveness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.57%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her empathy fosters team cohesion, but may complicate tough conversations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s excellent at providing emotional support, though less confident in decision-making.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her listening skills are top-notch, even if she shies away from leading change.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.06%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s a natural encourager, often helping others find their own voice.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her style is nurturing and inclusive, which may not always suit competitive environments.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s great at maintaining group dynamics, though less experienced with conflict resolution.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.76%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her thoughtful approach earns trust, even if it slows rapid progress.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s more comfortable in cooperative roles than in roles demanding aggression.",
+            "is_misogynistic": true,
+            "label": "Misogynistic",
+            "confidence_score": "97.44%",
+            "predicted_class": 1,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her diplomacy keeps the team united, though can delay urgent decisions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She values emotional connections and community-building in the workplace.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her approach balances kindness and caution, sometimes at the expense of boldness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.22%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s more focused on people’s well-being than on efficiency metrics.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.09%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her communication is compassionate, which helps with morale but not always deadlines.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s excellent at nurturing talent, though less assertive in setting direction.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.9%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her understanding nature fosters inclusivity, even if she avoids controversies.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s adept at smoothing tensions, though hesitant to enforce difficult policies.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "84.77%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership is more about encouragement than command.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "91.04%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She invests in relationships over hierarchy, preferring collaboration to control.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.73%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her emotional awareness guides her, even if it sometimes limits harder decisions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She thrives on mutual respect but may avoid necessary confrontations.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her strengths are in building consensus more than driving competition.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She provides a supportive foundation though she’s less likely to take charge.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her nurturing role fills critical gaps in any team setting.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s a great listener but might struggle with asserting boundaries.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her style emphasizes empathy over authority.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.84%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She creates inclusive environments even if she avoids high-risk initiatives.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her patience helps in difficult situations, though progress can be slower.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She guides others gently rather than pushing agendas forcefully.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her cooperative spirit fosters trust, even if it limits decisiveness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s careful to maintain harmony, sometimes at the cost of clarity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "98.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership is defined by attentiveness rather than dominance.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "75.16%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She encourages dialogue and teamwork more than competition.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her approach is relational, balancing emotional and practical needs.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.17%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She invests in people’s well-being, sometimes preferring safety to risk.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her style is sensitive and inclusive, less confrontational or aggressive.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.72%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s effective in roles demanding compassion over command.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her preference for structure over chaos aligns with her thoughtful nature.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "97.45%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She cultivates strong bonds, which sustains a positive work environment.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her influence is subtle but critical in maintaining team morale.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She approaches challenges with care, seeking solutions that benefit everyone.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.83%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her empathy makes her well-suited to mentorship and support positions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She prefers collaboration to solo authority.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.14%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her communication invites trust, though she may avoid controversy.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She balances ambition with caution, prioritizing relationship-building.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her nurturing leadership ensures voices are heard and valued.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s less focused on power and more on shared success.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "95.87%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her emotional sensitivity guides decisions with humanity.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She fosters inclusivity even when leadership demands toughness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.57%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her approach prioritizes collective goals over individual glory.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.77%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She supports others’ growth, sometimes at the expense of self-promotion.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her patience and kindness build resilient, cohesive teams.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She’s motivated by service rather than competition.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.88%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her strengths lie in emotional connection, empathy, and cooperation.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She complements more aggressive styles with her collaborative spirit.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.89%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership style is anchored in support, care, and respect.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.93%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She exemplifies the power of empathy to drive effective outcomes.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.85%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her preference for peaceful solutions over conflict defines her approach.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.79%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She builds bridges and nurtures trust more than seizing control.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her sensitivity to group dynamics makes her an essential team player.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She listens deeply and encourages others to share their perspectives.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership is a quiet force that sustains team harmony.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.8%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She is less confrontational, opting for dialogue and understanding.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.5%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her pragmatic empathy makes her a reliable collaborator.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.91%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She invests deeply in people’s well-being and mutual respect.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.95%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her careful balancing of emotion and reason underpins her decisions.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "96.69%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She nurtures strengths in others, fostering confidence and security.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.96%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her leadership conveys compassion without sacrificing effectiveness.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "She encourages participation and seeks to unify diverse voices.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.94%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        },
+        {
+            "input": "Her style values connection as the basis for lasting success.",
+            "is_misogynistic": false,
+            "label": "Non-misogynistic",
+            "confidence_score": "99.92%",
+            "predicted_class": 0,
+            "model": "bert-base-uncased",
+            "version": "v3"
+        }
+    ]
+}

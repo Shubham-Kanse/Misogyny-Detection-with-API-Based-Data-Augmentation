@@ -1,0 +1,11 @@
+timestamp,text,predicted_class,confidence,model_version
+2025-08-19T23:54:56.137394,"No matter how many degrees you get, you’ll always be second best to a man in every way.",1,0.716,v3
+2025-08-19T23:54:56.137442,Women artists challenge norms and create thought-provoking masterpieces.,1,0.5044,v3
+2025-08-19T23:55:22.206456,"Some women conflate emotional response with understanding, which can affect decisions.",1,0.6208,v3
+2025-08-19T23:55:22.206485,"Women often have excellent listening skills, though they might delay decisive action.",1,0.5322,v3
+2025-08-19T23:55:22.206493,"Some women prefer cooperative competition, balancing ambition with empathy.",0,0.6128,v3
+2025-08-19T23:55:45.033422,"The moment you open your mouth, your stupidity shines through like a beacon.",0,0.6539,v3
+2025-08-19T23:55:45.033462,"Stop pretending to be equal; your biology makes you inferior, deal with it.",0,0.6575,v3
+2025-08-19T23:55:45.033466,Stop acting like a victim; you’re responsible for your own miserable life.,1,0.7452,v3
+2025-08-19T23:55:45.033477,Stop whining and start acting like a responsible adult for once.,1,0.7201,v3
+2025-08-19T23:55:45.033484,Women should know their place and stay there.,1,0.5659,v3

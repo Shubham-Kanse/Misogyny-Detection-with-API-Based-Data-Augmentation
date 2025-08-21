@@ -27,9 +27,8 @@ from misogyny_detection_api.config import (
 # Configure logging
 logger = logging.getLogger(__name__)
 
-# ----------------------------
 # Async Background Task Handling
-# ----------------------------
+
 def _handle_background_tasks_async(text: str, predicted_class: int, confidence: float) -> None:
     """Handle background tasks asynchronously without blocking API response."""
     def background_worker():
@@ -60,9 +59,8 @@ def _handle_batch_background_tasks_async(background_tasks: List[Tuple[str, int, 
     thread = threading.Thread(target=batch_background_worker, daemon=True)
     thread.start()
 
-# ----------------------------
 # Constants and Configuration
-# ----------------------------
+
 MAX_SEQUENCE_LENGTH = 128
 MAX_BATCH_SIZE = 32
 LOG_QUEUE_SIZE = 2048
@@ -70,9 +68,7 @@ DEDUP_CACHE_SIZE = 10000
 HTTP_TIMEOUT = 10
 CSV_FIELDNAMES = ["timestamp", "text", "predicted_class", "confidence", "model_version"]
 
-# ----------------------------
 # Global State (Singleton Pattern)
-# ----------------------------
 class PredictorState:
     """Thread-safe singleton for managing global predictor state."""
     
@@ -122,9 +118,9 @@ class PredictorState:
 # Global state instance
 _state = PredictorState()
 
-# ----------------------------
+
 # Utility Functions
-# ----------------------------
+
 def _ensure_log_dir() -> None:
     """Ensure log directory exists."""
     LOW_CONF_LOG.parent.mkdir(parents=True, exist_ok=True)
@@ -282,9 +278,9 @@ def _trigger_augmentation_if_needed() -> None:
     except Exception as e:
         logger.error(f"Could not trigger augmentation: {e}")
 
-# ----------------------------
+
 # Optimized Inference Engine
-# ----------------------------
+
 def _prepare_batch_inputs(texts: List[str]) -> Dict[str, torch.Tensor]:
     """Prepare batch inputs with optimized tokenization."""
     # Filter and clean texts
@@ -350,9 +346,9 @@ def _format_prediction_result(
         "version": VERSION,
     }
 
-# ----------------------------
+
 # Public API Functions
-# ----------------------------
+
 def predict_text(text: str) -> Dict:
     """
     Predict misogyny for a single text.
@@ -420,9 +416,9 @@ def predict_texts(texts: Union[str, List[str]]) -> Dict[str, List[Dict]]:
     
     return {"results": all_results}
 
-# ----------------------------
+
 # Health Check and Utilities
-# ----------------------------
+
 def get_model_info() -> Dict:
     """Get information about the loaded model."""
     return {
@@ -445,9 +441,9 @@ def get_statistics() -> Dict:
         "logging_active": _state.log_thread_started,
     }
 
-# ----------------------------
+
 # Cleanup
-# ----------------------------
+
 def shutdown() -> None:
     """Clean shutdown of background threads."""
     if _state.log_thread_started and _state.log_thread:
